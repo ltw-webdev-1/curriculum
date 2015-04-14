@@ -1,4 +1,8 @@
-![Learn the Web, Part 1](title-card.png)
+# ![Learn the Web, Part 1](title-card.png)
+
+#### This 15 week course covers the basics of web development from intro to HTML & CSS, GitHub, designing for mobile screens, layouts, images & performance.
+
+---
 
 1. **Intro & installation**
 	- [Understanding the Internet]()
@@ -79,3 +83,14 @@
 15. **Project 3 due**
 	- [Browser testing]()
 	- *Personal critique—10 minutes*
+
+---
+
+## License & Copyright
+
+© Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>
+All code licensed under the [MIT License](LICENSE).<br>
+All text, imagery, design, documentation, tutorials, & videos licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
+Unless otherwise noted.
+
+
