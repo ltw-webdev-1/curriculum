@@ -36,7 +36,7 @@
 	- [The box model: everything is a box](http://learn-the-web.algonquindesign.ca/topics/box-model/)
 	- [Flow & display](http://learn-the-web.algonquindesign.ca/topics/flow-display/)
 	- *Assignment 4: Boxes & borders—3 hours*
-	- *Project 1: Basic website—8 hours*
+	- *Project 1: Tyopgrahy-only website—8 hours*
 
 5. **Project 1 work period**
 	- [Keyboard Commander](http://thomasjbradley.github.io/keyboard-commander/)
@@ -54,7 +54,7 @@
 8. **Images for retina screens**
 	- [Images for retina screens](http://learn-the-web.algonquindesign.ca/topics/images-for-retina/)
 	- *Assignment 6: Images for retina screens—2 hours*
-	- *Project 2: Images on the web—6 hours*
+	- *Project 2: Basic website layout—6 hours*
 
 9. **Project 2 work period**
 	- [Dev Tool Dynamo](http://thomasjbradley.github.io/dev-tool-dynamo/)
@@ -75,7 +75,7 @@
 	- [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
 	- [Smushing](http://learn-the-web.algonquindesign.ca/topics/image-formats/#speed-of-images)
 	- *Assignment 9: Performance—20 minutes*
-	- *Project 3: From mockup to website—8 hours*
+	- *Project 3: From wireframe to website—8 hours*
 
 14. **Project 3 work period**
 	- Character Classifier
