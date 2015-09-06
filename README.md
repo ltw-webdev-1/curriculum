@@ -39,7 +39,7 @@
 	- *Project 1: Tyopgrahy-only website—8 hours*
 
 5. **Project 1 work period**
-	- [Keyboard Commander](http://thomasjbradley.github.io/keyboard-commander/)
+	- Activity: Naming convention fixer
 
 6. **Project 1 due**
 	- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
@@ -57,7 +57,7 @@
 	- *Project 2: Basic website layout—6 hours*
 
 9. **Project 2 work period**
-	- [Dev Tool Dynamo](http://thomasjbradley.github.io/dev-tool-dynamo/)
+	- Activity: Validation fixer
 
 10. **Project 2 due**
 	- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
@@ -78,7 +78,7 @@
 	- *Project 3: From wireframe to website—8 hours*
 
 14. **Project 3 work period**
-	- Character Classifier
+	- [Activity: Dev Tool Dynamo](http://thomasjbradley.github.io/dev-tool-dynamo/)
 
 15. **Project 3 due**
 	- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
