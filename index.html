@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /web-dev-1/index.html
+---
+
+<h1>{{site[page.collection].label}}</h1>
+
+<main class="gutter">
+  <ol>
+  {% for week in site.web-dev-1 %}
+    {% if week.layout == "week" %}
+      <li>
+        <a class="block" href="{{week.url}}">
+          <h2 class="push-0">{{week.topic}}</h2>
+          <p class="push-0">{{week.desc}}</p>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ol>
+</main>
