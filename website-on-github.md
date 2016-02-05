@@ -8,7 +8,7 @@ video: "xg01o51TxCQ"
 extra_tutorials:
   - title: "Version control & GitHub"
     url: version-control-github
-  - title: "Version control & GitHub slides"
+  - title: "Version control & GitHub slide deck"
     url: /web-dev-1/version-control-github/
   - title: "Hosting with GitHub Pages"
     url: github-pages

@@ -15,7 +15,7 @@ extra_tutorials:
     highlight: true
   - title: "HTML semantics checklist"
     url: html-semantics-checklist
-  - title: "HTML introduction slides"
+  - title: "HTML introduction slide deck"
     url: /web-dev-1/html-introduction/
   - title: "Validators"
     url: validators

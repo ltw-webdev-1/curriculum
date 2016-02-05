@@ -5,7 +5,7 @@ title: "Dinosaur designs"
 desc: "Work together in a pair to build this website and style its typography."
 
 extra_tutorials:
-  - title: "CSS introduction slides"
+  - title: "CSS introduction slide deck"
     url: /web-dev-1/css-introduction/
   - title: "Using CSS"
     url: using-css
