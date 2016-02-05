@@ -1,21 +1,7 @@
 ---
-layout: default
+layout: course
+title: Web Dev 1
+desc: "Introduces the processes and tools for coding while learning to build functional and interactive web projects. HTML and CSS are explored in tandem with precise organization principles and current best practices including: semantics, mobile-first architecture, cloud platforms, and version control."
+priority: 0.8
 permalink: /courses/web-dev-1/index.html
 ---
-
-<h1>{{site[page.collection].label}}</h1>
-
-<main class="gutter">
-  <ol>
-  {% for week in site.web-dev-1 %}
-    {% if week.layout == "week" %}
-      <li>
-        <a class="block" href="{{week.url}}">
-          <h2 class="push-0">{{week.topic}}</h2>
-          <p class="push-0">{{week.desc}}</p>
-        </a>
-      </li>
-    {% endif %}
-  {% endfor %}
-  </ol>
-</main>
