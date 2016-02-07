@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "HTML document setup"
-desc: "Creating a valid HTML document with all the right starter code."
+desc: "Create a valid HTML document with all the right starter code."
 
 # video: "4bOwe1_gfS8"
 
