@@ -22,7 +22,7 @@ tasks:
     url: developer-tools
     type: lesson
   - title: "Info boxes"
-    # url: info-boxes
+    url: info-boxes
     type: lesson
   - title: "Stacked navigation"
     url: https://github.com/acgd-webdev-1/stacked-nav
