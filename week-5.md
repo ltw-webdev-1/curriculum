@@ -25,7 +25,7 @@ tasks:
     # url: info-boxes
     type: lesson
   - title: "Stacked navigation"
-    # url: https://github.com/acgd-webdev-1/stacked-nav
+    url: https://github.com/acgd-webdev-1/stacked-nav
   - title: "Horizontal navigation"
-    # url: https://github.com/acgd-webdev-1/horizontal-nav
+    url: https://github.com/acgd-webdev-1/horizontal-nav
 ---
