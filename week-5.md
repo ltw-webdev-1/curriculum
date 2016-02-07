@@ -18,11 +18,11 @@ tasks:
   - title: "Selector Surgeon"
     url: http://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
     type: activity
+  - title: "Developer tools"
+    url: developer-tools
+    type: lesson
   - title: "Info boxes"
     # url: info-boxes
-    type: lesson
-  - title: "Developer tools"
-    # url: developer-tools
     type: lesson
   - title: "Stacked navigation"
     # url: https://github.com/acgd-webdev-1/stacked-nav
