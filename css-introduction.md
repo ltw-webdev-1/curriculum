@@ -126,11 +126,11 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Using CSS ➔](http://learn-the-web.algonquindesign.ca/topics/using-css/)
-      - [CSS indentation ➔](http://learn-the-web.algonquindesign.ca/topics/css-indentation/)
-      - [CSS selectors & units cheat sheet ➔](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
-      - [Basic typography ➔](http://learn-the-web.algonquindesign.ca/topics/basic-typography/)
-      - [Using Google Fonts ➔](http://learn-the-web.algonquindesign.ca/topics/google-fonts/)
-      - [Web typography cheat sheet ➔](http://learn-the-web.algonquindesign.ca/topics/web-typography-cheat-sheet/)
+      - [Using CSS ➔](/topics/using-css/)
+      - [CSS indentation ➔](/topics/css-indentation/)
+      - [CSS selectors & units cheat sheet ➔](/topics/css-selectors-units-cheat-sheet/)
+      - [Basic typography ➔](/topics/basic-typography/)
+      - [Using Google Fonts ➔](/topics/google-fonts/)
+      - [Web typography cheat sheet ➔](/topics/web-typography-cheat-sheet/)
 
 ---

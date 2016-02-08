@@ -16,7 +16,7 @@ extra_tutorials:
   - title: "HTML semantics checklist"
     url: html-semantics-checklist
   - title: "HTML introduction slide deck"
-    url: /web-dev-1/html-introduction/
+    url: /courses/web-dev-1/html-introduction/
   - title: "Validators"
     url: validators
 
@@ -40,7 +40,7 @@ steps:
         *Right-click and press “Download Linked File”.*
     notes:
       - label: "Naming conventions"
-        text: "Don’t forget to follow the [naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/#naming-conventions)."
+        text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
 
   - title: "Write the HTML"
     before: |

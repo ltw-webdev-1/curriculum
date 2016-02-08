@@ -33,7 +33,7 @@ steps:
         “Colour isn’t showing up”
         “Columns aren’t side-by-side”
       2. *In the description, write as much detail as you can think of.*
-        Links to lines of code, images, and formatting can all be used. [Check out the videos & tutorials for more details](http://learn-the-web.algonquindesign.ca/topics/github-issues/).
+        Links to lines of code, images, and formatting can all be used. [Check out the videos & tutorials for more details](/topics/github-issues/).
 
   - title: "Tag Thomas"
     before: |

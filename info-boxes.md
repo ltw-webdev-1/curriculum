@@ -3,7 +3,7 @@ layout: lesson
 title: "Info boxes"
 desc: "Dig into the browser’s layout models to make a simple, flexible informational design."
 
-# video: "4bOwe1_gfS8"
+video: "8mhyIpRu5hI"
 
 extra_tutorials:
   - title: "Everything is a box"
@@ -29,7 +29,7 @@ steps:
       3. Make a new `main.css` in your `css` folder.
     notes:
       - label: "Naming conventions"
-        text: "Don’t forget to follow the [naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/#naming-conventions)."
+        text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
 
   - title: "Add HTML boilerplate"
     before: "*Use the `html5`, `viewport`, and `css` snippets.*"
@@ -70,6 +70,7 @@ steps:
     notes:
       - label: "CSS snippets"
         text: "Create the boilerplate with `borderbox`"
+    after: "The `border-box` system changes the browsers layout math to include the `padding` in the `width`—the default is more difficult to manage when making flexible, responsive websites."
 
   - title: "Write the info box HTML"
     before: |
@@ -170,8 +171,25 @@ steps:
         text: "Use a child selector to get the `<li>` tags inside of `.info-boxes`"
       - num: "9"
         text: "The `<li>` tags are `display: block` by default, which makes them go on their own lines. This code will change them to `inline-block` allowing them to sit beside each other."
+      - num: "10"
+        text: |
+          The `margin` property adds space **outside** of the box.
+
+          This `margin` is composed of four values:
+
+          1. top
+          2. right
+          3. bottom
+          4. left
+
+          Start at the top and work clockwise around the box.
       - num: "11"
         text: "Using `max-width` allows the boxes can scale up to only a certain size."
+      - num: "12"
+        text: |
+          The `padding` property will add spacing **inside** the box.
+
+          Padding can have four values like margin or only one value that will affect all four sides. (Margin does this too.)
       - num: "14"
         text: |
           The `border` property allows us to add a stroke around the outside of a box.
@@ -261,14 +279,6 @@ steps:
         text: |
           The image will look better centred, but because the image is `block` `text-align: center` no longer works. Instead we can use automatic left and right margins.
 
-          This `margin` is composed of four values:
-
-          1. top
-          2. right
-          3. bottom
-          4. left
-
-          Start at the top and work clockwise around the box.
       - num: "8-9"
         text: "Adding `margin` to a `<strong>` tag doesn’t work by default because `<strong>` tags are `inline`—margins only work on `block` and `inline-block`"
       - num: 15

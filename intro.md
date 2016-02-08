@@ -72,13 +72,13 @@ slides:
       ## Always be coding
       Multiple activities & exercises every week
 
-      [**Week 1 tasks ➔**](/web-dev-1/week-1/)
+      [**Week 1 tasks ➔**](/courses/web-dev-1/week-1/)
 
   - content: |
       ## Important links
 
       - [**Learn the Web ➔**](//learn-the-web.algonquindesign.ca/)
-      - [Weekly tasks ➔](/web-dev-1/)
+      - [Weekly tasks ➔](/courses/web-dev-1/)
 
   - content: |
       ## Post-It Note triage

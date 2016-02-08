@@ -57,7 +57,7 @@ steps:
       - label: "Notice"
         text: "You’ll probably notice a whole bunch more files show up in the left of the file browser. They are part of the automated marking system and not part of your website—**completely ignore them.**"
       - label: "Naming conventions"
-        text: "Don’t forget to follow the [naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/#naming-conventions)."
+        text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
 
   - title: "Test it in your browser"
     before: |

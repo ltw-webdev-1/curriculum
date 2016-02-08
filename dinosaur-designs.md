@@ -6,7 +6,7 @@ desc: "Work together in a pair to build this website and style its typography."
 
 extra_tutorials:
   - title: "CSS introduction slide deck"
-    url: /web-dev-1/css-introduction/
+    url: /courses/web-dev-1/css-introduction/
   - title: "Using CSS"
     url: using-css
   - title: "CSS indentation"
@@ -97,7 +97,7 @@ steps:
   - title: "Style the navigation"
     before: |
       1. Add the two remaining images and content
-      2. Add the navigation & style it to match—[see the tutorial on styling links](http://learn-the-web.algonquindesign.ca/topics/basic-typography/#styling-links)
+      2. Add the navigation & style it to match—[see the tutorial on styling links](/topics/basic-typography/#styling-links)
         — normal colour: `#793284`
         — `:hover` colour: `#b42885`
 
@@ -107,7 +107,7 @@ steps:
 
   - title: "Web fonts"
     before: |
-      1. Go to Google Fonts and find the Patua One typeface—[see the step-by-step tutorial](http://learn-the-web.algonquindesign.ca/topics/google-fonts/)
+      1. Go to Google Fonts and find the Patua One typeface—[see the step-by-step tutorial](/topics/google-fonts/)
       2. Add it to a collection and use it
       3. Include the new font in your HTML
       4. Change the headings and the navigation to use the new font

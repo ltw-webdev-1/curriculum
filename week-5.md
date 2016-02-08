@@ -12,7 +12,7 @@ video_tutorials:
 
 slides:
   - title: "Boxes & flows"
-    # url: boxes-and-flows
+    url: boxes-and-flows
 
 tasks:
   - title: "Selector Surgeon"

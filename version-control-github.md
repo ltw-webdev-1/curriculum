@@ -83,7 +83,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      [Installing & using GitHub ➔](http://learn-the-web.algonquindesign.ca/topics/installing-and-using-github/)
-      [Hosting with GitHub Pages ➔](http://learn-the-web.algonquindesign.ca/topics/github-pages/)
-      [GitHub Issues ➔](http://learn-the-web.algonquindesign.ca/topics/github-issues/)
+      [Installing & using GitHub ➔](/topics/installing-and-using-github/)
+      [Hosting with GitHub Pages ➔](/topics/github-pages/)
+      [GitHub Issues ➔](/topics/github-issues/)
 ---

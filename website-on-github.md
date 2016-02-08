@@ -9,7 +9,7 @@ extra_tutorials:
   - title: "Version control & GitHub"
     url: version-control-github
   - title: "Version control & GitHub slide deck"
-    url: /web-dev-1/version-control-github/
+    url: /courses/web-dev-1/version-control-github/
   - title: "Hosting with GitHub Pages"
     url: github-pages
 
@@ -21,7 +21,7 @@ steps:
       We’ll put all of our coding exercises on GitHub where they will be live websites visible to anybody.
     notes:
       - label: "Reminder"
-        text: "For most coding exercises you won’t need to perform these steps, you’ll be using the [fork & pass tests method](/web-dev-1/fork-pass-tests/) to hand in all your work."
+        text: "For most coding exercises you won’t need to perform these steps, you’ll be using the [fork & pass tests method](/courses/web-dev-1/fork-pass-tests/) to hand in all your work."
 
   - title: "Create a new repo"
     before: |
@@ -33,13 +33,13 @@ steps:
 
       ![](repo-new.jpg)
 
-      - **Repository name** — create a unique name for the repo, make sure it follows the [naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/#naming-conventions).
+      - **Repository name** — create a unique name for the repo, make sure it follows the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions).
       - **Description** — come up with a short description describing the purpose of the project.
       - **Public/Private** — choose “Public” because we don’t have a paid accounts.
       - **Initialize this repository with a README** — always make sure this is enabled.
     notes:
       - label: "Naming conventions"
-        text: "Don’t forget to follow the [naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/#naming-conventions)."
+        text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
 
   - title: "Create the gh-pages branch"
     before: |
@@ -111,7 +111,7 @@ steps:
       ![](index.jpg)
     notes:
       - label: "Naming conventions"
-        text: "Don’t forget to follow the [naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/#naming-conventions)."
+        text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
       - label: "Shortcut"
         text: "Use `⌘S` to save."
       - label: "Shortcut"
@@ -187,7 +187,7 @@ steps:
     before: |
       **For all the code exercises in class we don’t have to go through the `gh-pages` branching set up process above.**
 
-      **We’ll be using the [fork & pass tests method](/web-dev-1/fork-pass-tests/) to hand in all work.**
-      [**That lesson comes next ➔**](/web-dev-1/fork-pass-tests/)
+      **We’ll be using the [fork & pass tests method](/courses/web-dev-1/fork-pass-tests/) to hand in all work.**
+      [**That lesson comes next ➔**](/courses/web-dev-1/fork-pass-tests/)
 
 ---

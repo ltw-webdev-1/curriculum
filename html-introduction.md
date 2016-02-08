@@ -63,9 +63,9 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [HTML semantics ➔](http://learn-the-web.algonquindesign.ca/topics/html-semantics/)
-      - [HTML indentation ➔](http://learn-the-web.algonquindesign.ca/topics/html-indentation/)
-      - [HTML semantics cheat sheet ➔](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
-      - [HTML semantics checklist ➔](http://learn-the-web.algonquindesign.ca/topics/html-semantics-checklist/)
+      - [HTML semantics ➔](/topics/html-semantics/)
+      - [HTML indentation ➔](/topics/html-indentation/)
+      - [HTML semantics cheat sheet ➔](/topics/html-semantics-cheat-sheet/)
+      - [HTML semantics checklist ➔](/topics/html-semantics-checklist/)
 
 ---

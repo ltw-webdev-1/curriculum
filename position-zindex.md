@@ -63,6 +63,6 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      [Position & z-index ➔](http://learn-the-web.algonquindesign.ca/topics/position-zindex/)
+      [Position & z-index ➔](/topics/position-zindex/)
 
 ---
