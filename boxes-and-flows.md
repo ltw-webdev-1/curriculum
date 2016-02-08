@@ -18,7 +18,7 @@ slides:
   - content: |
       ## Flow control: space & `display`
 
-      <video src="flow.m4v" loop autoplay></video>
+      <video src="/large-assets/flow.m4v" loop autoplay></video>
 
   - type: code
     css: |
