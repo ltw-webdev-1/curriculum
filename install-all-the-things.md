@@ -173,6 +173,18 @@ steps:
 
       ![](xcode-select-install.jpg)
 
+      ### Windows installation details
+
+      *On Microsoft Windows we need to install Git directly from the website.*
+
+      **Go to [Git’s download page](https://git-scm.com/download/win) and download the Windows version.**
+
+      Install Git onto your computer. One of the setup screens has options we have to change.
+
+      *On the “Adjusting your PATH environment” screen, switch to “Use Git from the Windows Command Prompt”.*
+
+      ![](windows-git.jpg)
+
   - title: "Install the Java Developer Kit"
     before: |
       We need to install the JDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
