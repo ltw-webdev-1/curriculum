@@ -9,6 +9,9 @@ video_tutorials:
     url: flow-display
   - title: "Browser developer tools"
     url: browser-developer-tools
+  - title: "Navigation"
+    url: navigation
+    notes: "Inline-list pattern"
 
 slides:
   - title: "Boxes & flows"
