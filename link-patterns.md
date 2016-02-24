@@ -26,7 +26,6 @@ slides:
           <li><a href="#">Insects</a></li>
         </ul>
       </nav>
-    css_lines: "10-12"
     css: |
       .current {
         background-color: #3c3670;
