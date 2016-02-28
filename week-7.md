@@ -8,7 +8,7 @@ video_tutorials:
 
 group_activities:
   - title: "Sketching a website"
-    url:
+    url: sketching-a-website
     type: pencil
     pair: true
 
