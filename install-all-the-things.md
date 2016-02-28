@@ -207,7 +207,7 @@ steps:
     before: |
       All of the coding exercises we do in this class will be using Markbot to automatically grade your work. So, we need to set that up.
 
-      1. Download [Markbot](https://www.dropbox.com/s/55a7uzj6uy3uhx8/Markbot.dmg?dl=1). (*or [Markbot for Windows](https://www.dropbox.com/s/jhsf7oip8r126v1/Markbot%20Setup.exe?dl=1)*)
+      1. Download [Markbot](https://www.dropbox.com/s/w7y5wxp7mtcylkd/Install%20Markbot.dmg?dl=1). (*or [Markbot for Windows](https://www.dropbox.com/s/jhsf7oip8r126v1/Markbot%20Setup.exe?dl=1)*)
       2. Mount the disk image by double clicking.
       3. Drag the application to your “Applications” folder.
       4. Eject the mounted disk from your computer.
