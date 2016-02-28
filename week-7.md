@@ -16,11 +16,11 @@ tasks:
   - title: "Character Classifier"
     url: http://activities.learn-the-web.algonquindesign.ca/character-classifier/
     type: activity
-  - title: "Sections"
-    url:
   - type: blank
-  - title: "A web of type"
-    url:
-  - title: "Card group"
-    url:
+  - title: "Sections"
+    url: https://github.com/acgd-webdev-1/sections
+  - title: "Kraken good type"
+    url: https://github.com/acgd-webdev-1/kraken-good-type
+  - title: "Icon group"
+    url: https://github.com/acgd-webdev-1/icon-group
 ---
