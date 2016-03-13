@@ -20,9 +20,9 @@ tasks:
     url: making-an-image-card
     type: lesson
   - title: "Hero banner"
-    url:
+    url: https://github.com/acgd-webdev-1/hero-banner
   - title: "Call to action banner"
-    url:
-  - title: "Image card"
-    url:
+    url: https://github.com/acgd-webdev-1/call-to-action-banner
+  - title: "Exploding robot head"
+    url: https://github.com/acgd-webdev-1/exploding-robot-head
 ---
