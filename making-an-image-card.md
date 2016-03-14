@@ -124,7 +124,7 @@ steps:
       .card-label {
         padding: .3rem 1rem .3rem calc(1rem - 4px);
         border-left: 4px solid green;
-        background-color: rgba(255,255,255,.6);
+        background-color: rgba(255, 255, 255, .6);
       }
     lines:
       - num: 3
