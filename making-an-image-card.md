@@ -85,7 +85,7 @@ steps:
           <img class="img-flex" src="http://placehold.it/640x480" alt="">
         </header>
         <div class="card-body">
-          <p>The Stegosaurus is armoured dinosaur with distinctive back plates and tail spikes.</p>
+          <p>The Stegosaurus is an armoured dinosaur with distinctive back plates and tail spikes.</p>
         </div>
       </article>
       ⋮
