@@ -40,12 +40,38 @@ slides:
   - type: image
     image: position-4.svg
 
-  - content: |
-      `absolute` — to move something
-
-      `relative` — on parent, contains movement
-
-      `top`, `bottom`, `left`, `right`
+  - type: interactive
+    html: |
+      <div class="banner">
+        <img src="placeholder-16by9.svg" alt="">
+        <div class="banner-content">
+          <h2>Free Mars!</h2>
+          <p>The Free Mars Coalition needs your help to take back our planet.</p>
+        </div>
+      </div>
+    css: |
+      .banner {
+        position: relative;
+      }
+      .banner-content {
+        padding: 0 1rem;
+        position: absolute;
+        bottom: 1rem;
+      }
+    css_hidden: |
+      html {
+        font-size: 200%;
+      }
+      img {
+        display: block;
+        width: 100%;
+      }
+      h2 {
+        margin: 0;
+      }
+      p {
+        margin: 0;
+      }
 
   - content: |
       `z-index: 10`
