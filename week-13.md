@@ -7,7 +7,7 @@ video_tutorials:
     url: naming-paths-cheat-sheet
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
-    hightlight: true
+    highlight: true
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
   - title: "HTML semantics checklist"

@@ -9,11 +9,11 @@ video_tutorials:
     url: media-queries
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
-    hightlight: true
+    highlight: true
 
 slides:
   - title: "Media queries"
-    url:
+    url: media-queries
 
 group_activities:
   - title: "A web of screen sizes"
