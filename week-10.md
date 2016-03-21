@@ -26,7 +26,7 @@ tasks:
     url: http://thomasjbradley.github.io/dev-tool-dynamo/
     type: activity
   - title: "Responsive navigation"
-    url:
+    url: responsive-navigation
     type: lesson
   - title: "Hide & show responsively"
     url:
