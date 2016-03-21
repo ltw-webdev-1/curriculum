@@ -9,22 +9,44 @@ slides:
       **Media queries**
 
   - content: |
-      ## Adjust the website based on media
+      ## The Web is for everybody
 
-      - Different on screen sizes
-      - Different on print
-      - Different on black & white
-      - Different on retina
-      - Different on touch vs. mouse
-      - etc.
+      It’s our job as web designers to make our website work in as many situations as possible
+
+      **The web is responsive by default—if it doesn’t work on a specific device it’s your fault!**
+
+  - type: code
+    html: |
+        <!-- Tells the browser we support whatever size it is & not to zoom in -->
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+    css: |
+      /* Same as the HTML viewport, but for different browsers */
+      @-moz-viewport { width: device-width; scale: 1; }
+      @-ms-viewport { width: device-width; scale: 1; }
+      @-o-viewport { width: device-width; scale: 1; }
+      @-webkit-viewport { width: device-width; scale: 1; }
+      @viewport { width: device-width; scale: 1; }
+
+      html {
+        /* Tells the browser not to automatically scale the fonts—we want complete control */
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        text-size-adjust: 100%;
+      }
 
   - content: |
-      ## Adjust layout based on screen size
+      ## Media queries
 
       Detect the dimensions of the user’s screen and make layout adjustments
 
-      - When the width is at least 600px
-      - When the height is at least 500px
+      - minimum width/height, orientation
+
+      ---
+
+      ### Or other things
+
+      - print, black & white, retina, touch, mouse, etc.
 
   - content: |
       ## Do not use pixels—use em
