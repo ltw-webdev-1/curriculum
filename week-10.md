@@ -17,9 +17,8 @@ slides:
 
 group_activities:
   - title: "A web of screen sizes"
-    url:
+    url: a-web-of-screen-sizes
     type: pencil
-    pair: true
 
 tasks:
   - title: "Dev Tool Dynamo"
@@ -29,9 +28,9 @@ tasks:
     url: responsive-navigation
     type: lesson
   - title: "Hide & show responsively"
-    url:
+    url: https://github.com/acgd-webdev-1/hide-show-responsively
   - title: "Responsive typography"
-    url:
-  - title: "Responsive icons cards"
-    url:
+    url: https://github.com/acgd-webdev-1/responsive-typography
+  - title: "Responsive icon cards"
+    url: https://github.com/acgd-webdev-1/responsive-icon-cards
 ---
