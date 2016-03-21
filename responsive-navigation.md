@@ -80,7 +80,7 @@ steps:
         -webkit-text-size-adjust: 100%;
         text-size-adjust: 100%;
         box-sizing: border-box;
-        font-family: normal 100%/1.3, sans-serif;
+        font: normal 100%/1.3 sans-serif;
       }
 
       *, *::before, *::after {
