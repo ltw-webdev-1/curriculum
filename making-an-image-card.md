@@ -51,7 +51,7 @@ steps:
         text: "Don’t forget to attach the CSS file."
 
   - title: "Add CSS boilerplate"
-    before: "*Use the `borderbox`.*"
+    before: "*Use the `borderbox` snippet.*"
     code_lang: "css"
     code_file: "css/main.css"
     code: |
