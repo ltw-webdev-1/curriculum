@@ -21,9 +21,9 @@ tasks:
     type: activity
   - type: blank
   - title: "Responsive header"
-    url:
+    url: https://github.com/acgd-webdev-1/responsive-header
   - title: "Responsive section"
-    url:
+    url: https://github.com/acgd-webdev-1/responsive-section
   - title: "Responsive columns"
-    url:
+    url: https://github.com/acgd-webdev-1/responsive-columns
 ---
