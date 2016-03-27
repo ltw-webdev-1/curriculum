@@ -10,20 +10,20 @@ video_tutorials:
     url: media-queries-layout
 
 group_activities:
-  - title: "Planning a website"
-    url:
+  - title: "Paper plans"
+    url: paper-plans
     type: pencil
     pair: true
 
 tasks:
   - title: "Media Query Manager"
-    url:
+    url: http://activities.learn-the-web.algonquindesign.ca/media-query-manager/
     type: activity
   - type: blank
+  - title: "Image grid"
+    url: https://github.com/acgd-webdev-1/image-grid
   - title: "Responsive header"
     url: https://github.com/acgd-webdev-1/responsive-header
   - title: "Responsive section"
     url: https://github.com/acgd-webdev-1/responsive-section
-  - title: "Responsive columns"
-    url: https://github.com/acgd-webdev-1/responsive-columns
 ---
