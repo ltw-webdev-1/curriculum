@@ -1,6 +1,6 @@
 ---
 topic: "Restaurant website planning"
-desc: "Start planning your restaurant website by finding the patterns you’ve used & the basic CSS properties you need."
+desc: "Start planning your restaurant website by finding the patterns & the basic CSS properties you need."
 
 video_tutorials:
   - title: "Naming & paths cheat sheet"
