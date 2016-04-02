@@ -20,8 +20,8 @@ tasks:
     url:
     type: activity
   - type: blank
-  - title: "Responsive banner"
-    url:
+  - title: "Responsive image & caption"
+    url: https://github.com/acgd-webdev-1/responsive-image-caption
   - title: "Restaurant website prototype"
     url:
 ---
