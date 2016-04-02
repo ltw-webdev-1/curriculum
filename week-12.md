@@ -17,7 +17,7 @@ group_activities:
 
 tasks:
   - title: "Hex Hacker"
-    url:
+    url: http://activities.learn-the-web.algonquindesign.ca/hex-hacker/
     type: activity
   - type: blank
   - title: "Responsive image & caption"
