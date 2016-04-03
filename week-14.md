@@ -28,8 +28,8 @@ tasks:
     type: activity
   - type: blank
   - title: "Restaurant website milestone"
-    url:
+    url: https://github.com/acgd-webdev-1/restaurant-website#2-code-milestone
   - title: "Restaurant website prototype"
-    url:
+    url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
   - type: blank
 ---

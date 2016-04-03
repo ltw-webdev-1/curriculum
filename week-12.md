@@ -23,7 +23,7 @@ tasks:
   - title: "Responsive image & caption"
     url: https://github.com/acgd-webdev-1/responsive-image-caption
   - title: "Restaurant website prototype"
-    url:
+    url: https://github.com/acgd-webdev-1/restaurant-website
   - title: "Restaurant website plan"
-    url:
+    url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
 ---
