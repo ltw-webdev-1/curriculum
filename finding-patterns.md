@@ -13,6 +13,7 @@ slides:
 
       1. Form into pairs
       2. Get out pencils & paper
+      3. You’ll be shown a pattern—determine the code assignment we’ve done that is most similar
 
   - type: image
     image: pattern-1.jpg
