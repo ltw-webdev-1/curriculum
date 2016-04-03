@@ -24,7 +24,7 @@ video_tutorials:
 
 tasks:
   - title: "URL Explorer"
-    url:
+    url: http://activities.learn-the-web.algonquindesign.ca/url-explorer/
     type: activity
   - type: blank
   - title: "Restaurant website milestone"
