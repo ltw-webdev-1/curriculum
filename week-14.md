@@ -29,6 +29,7 @@ tasks:
   - type: blank
   - title: "Restaurant website milestone"
     url: https://github.com/acgd-webdev-1/restaurant-website#2-code-milestone
+    submit: show
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
   - type: blank

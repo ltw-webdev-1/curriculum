@@ -23,6 +23,7 @@ tasks:
   - type: blank
   - title: "Browser testing"
     url: browser-testing
+    submit: show
   - title: "Request for grade"
     url: https://github.com/acgd-webdev-1/restaurant-website#4-request-for-grade
     type: basic
