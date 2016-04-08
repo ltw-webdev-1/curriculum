@@ -23,8 +23,8 @@ video_tutorials:
     url: css-layout-cheat-sheet
 
 tasks:
-  - title: "URL Explorer"
-    url: http://activities.learn-the-web.algonquindesign.ca/url-explorer/
+  - title: "Acronym Annihilator"
+    url: http://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
     type: activity
   - type: blank
   - title: "Restaurant website milestone"
