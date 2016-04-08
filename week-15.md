@@ -14,7 +14,7 @@ video_tutorials:
 
 slides:
   - title: "Preview next term"
-    url:
+    url: preview-next-term
 
 tasks:
   - title: "Definition Devastator"
