@@ -3,6 +3,8 @@ layout: lesson
 title: "Browser testing"
 desc: "Spend most of the class testing your website in all the different browsers—and fixing any problems that arise."
 
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Browser testing"
     url: browser-testing
@@ -17,63 +19,78 @@ goal:
   before: |
     Make your website work well in all the browsers—remember it [doesn’t have to look exactly the same](http://dowebsitesneedtolookexactlythesameineverybrowser.com/), but it should be functional.
 
-    *After fixing all the bugs in your website you’ll be taking screenshots of the final website and posting them to an Issue on GitHub.*
-
     ### [Refer to the browser testing checklist →](/topics/browser-testing-checklist/)
   no_image: true
   notes:
     - label: "Collaboration"
       text: |
-        This is collaborative. You personally don’t own all the devices you need to test your website on, but as a class you have all the devices.
+        This is collaborative. You personally don’t own all the devices you need to test your website on, but as a class we have all the devices.
 
-        **Work together to find out who has what device and with whom you can get your website tested.**
+        **We’ll work together to find out who has what device and with whom you can get your website tested.**
 
 steps:
   - title: "Determine the available devices"
     before: |
-      Referring to the [browser testing checklist](/topics/browser-testing-checklist/), figure out what devices—and versions—need to be tested.
+      Referring to the [browser testing checklist](/topics/browser-testing-checklist/), we’ll figure out what devices—and versions—need to be tested.
 
-      *Poll the class to see who has what version available and make sure as many devices and versions are covered as possible.*
+      *We’ll poll the class to see who has what versions are available and make sure as many devices and versions are covered as possible.*
 
-      **Make a list on the board of what person has what browser and what version.**
-
-  - title: "Test your website"
+  - title: "Write down the URL to your website"
     before: |
-      Work together with your classmates to get your website tested in all the browsers available in the classroom.
+      Using a Gist at the front of class, we’ll write down all our URLs so that everybody has access to your website URL for testing.
 
-      **You could assign versions to people and get them to look at everybody’s website in their assigned browser—taking screenshots and discussing errors as they go.**
+      **The URL to this Gist will be displayed on the board so you can get a copy of the list of websites to test.**
+
+      If you fork the Gist you’ll be able to check off each person as you go.
+    notes:
+      - label: "Notice"
+        text: "You need to know—and add—your own URL. If your name isn’t on that list you won’t get the marks."
+
+  - title: "Test everybody’s website"
+    before: |
+      With everybody working together your website will be tested in all the browsers available in the classroom.
+
+      **You’ll be assigned a specific device—it will be your job to test everybody’s website in the browser you’re assigned.**
+
+  - title: "Submitting Issues"
+    before: |
+      If you find problems with the website you’re testing create an Issue on GitHub *in their repository.*
+
+      **Make sure “Issues” are enabled on your repository—so other people can add issues for your website.**
+
+      **If the Issues tab is missing go to “Settings” and turn them on.**
+
+      ---
+
+      ### Website URL to repo conversion
+
+      ![](gh-pages-to-repo.svg)
+
+      1. Cut the username.
+      2. Remove the starting dot.
+      3. Change `io` to `com`.
+      4. Paste the username before the repository name.
+
+      ---
+
+      ### Create a detailed issue
+
+      The issue you create for another person’s website should be detailed with at least this information:
+
+      1. An informative title;
+      2. A screenshot of the problem—some devices this may be impossible to achieve, so a photo of the device screen will suffice;
+      3. Details and informative description of the problem;
+      4. Any solutions you can think of to help solve the problem.
+
+      *If there already is an Issue for the problem you’re seeing, make a comment on the issue with any extra information you may know.*
 
   - title: "Fix problems"
     before: |
       If there are any problems with your website in a specific browser—fix them.
 
-      **Remember that your website [doesn’t have to look exactly the same in every browser](http://dowebsitesneedtolookexactlythesameineverybrowser.com/), but it should be functional and not look broken.**
-
-  - title: "Save screenshots"
-    before: |
-      After testing your website and everything looks good—take a screenshot of it.
-
-      Upload that screenshot to an Issue on GitHub named “Browser Testing”—in your repository.
-
-      **Do not create an issue in my repository—create the issue in *your* forked repo.** If your repo doesn’t have and Issues tab, go to Settings and turn it on.
-
-      ### Screenshot list
-
-      At an absolute minimum, there should be screenshots for at least these browsers. *They’ll definitely be available in the class among your peers or easily installed.*
-
-      1. Firefox
-      1. Chrome
-      1. Edge
-      1. Opera
-      1. Safari, current version
-      1. Safari, one version behind
-      1. Internet Explorer, 11
-      1. Opera Mini
-      1. Chrome on Android
-      1. iOS Safari, current version
-      1. iOS Safari, one version behind
-      1. Android browser, current version
-      1. Android browser, one version behind
-      1. UC Browser
+      **Thomas will be looking at the websites in random browsers while marking. You will be graded on any problems seen, independent of what browser—so make sure there aren’t major, breaking problems in the browsers.**
+    notes:
+      - label: 'Reminder'
+        text: "Remember that your website [doesn’t have to look exactly the same in every browser](http://dowebsitesneedtolookexactlythesameineverybrowser.com/), but it should be functional and not look broken."
 
 ---
