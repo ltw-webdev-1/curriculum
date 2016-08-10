@@ -1,33 +1,38 @@
 ---
-topic: "Version control & GitHub"
-desc: "Learn about version control, GitHub, GitHub use, and how to hand in your code work."
+topic: "Intro & install"
+desc: "An overview of the course this term, how the web works, and setting up our computers."
 
 video_tutorials:
-  - title: "Version control & GitHub"
-    url: version-control-github
-  - title: "Hosting with GitHub Pages"
-    url: github-pages
-  - title: "GitHub Issues"
-    url: github-issues
+  - title: "Web browsers"
+  - title: "Using URLs"
+  - title: "Code editors"
+    url: code-editors
+  - title: "Snippets cheat sheet"
+    url: snippets-cheat-sheet
+    highlight: true
+  - title: "Keyboard shortcut cheat sheet"
+    url: keyboard-shortcut-cheat-sheet
+    highlight: true
+  - title: "Naming conventions"
+    url: naming-conventions
+    highlight: true
+  - title: "Code character cheat sheet"
+    url: code-character-cheat-sheet
 
 slides:
-  - title: "Version control & GitHub"
-    url: version-control-github
+  - title: "Web Dev 1 intro"
+    url: intro
+  - title: "The Open Web"
+    url: the-open-web
 
 tasks:
-  - title: "Keyboard Commander"
-    url: https://thomasjbradley.github.io/keyboard-commander/
-    type: activity
-  - title: "Website on GitHub"
-    url: website-on-github
+  - title: "Install all the things!"
+    url: install-all-the-things
     type: lesson
-  - title: "Using Markbot"
-    url: using-markbot
-#  - title: "Using your code editor"
-#    url: using-your-code-editor
-#    type: lesson
-  - title: "Create tagged issue"
-    url: create-tagged-issue
+  - title: "Set up your code editor"
+    url: /topics/atom/
     type: lesson
-    submit: "Submit nothing."
+  - title: "Submit GitHub account"
+    url: https://algonquin.instructure.com/courses/467502/assignments/4178222
+    type: basic
 ---

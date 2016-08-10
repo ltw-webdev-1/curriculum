@@ -1,46 +1,33 @@
 ---
-topic: "HTML semantics"
-desc: "Look at how to write HTML and how to choose the proper HTML tags."
+topic: "Version control & GitHub"
+desc: "Learn about version control, GitHub, GitHub use, and how to hand in your code work."
 
 video_tutorials:
-  - title: "HTML semantics"
-    url: html-semantics
-  - title: "HTML indentation"
-    url: html-indentation
-  - title: "HTML semantics cheat sheet"
-    url: html-semantics-cheat-sheet
-    highlight: true
-  - title: "HTML semantics checklist"
-    url: html-semantics-checklist
-    highlight: true
-  - title: "Marking up a webpage"
-    url: marking-up-a-webpage
-  - title: "Validators"
-    url: validators
+  - title: "Version control & GitHub"
+    url: version-control-github
+  - title: "Hosting with GitHub Pages"
+    url: github-pages
+  - title: "GitHub Issues"
+    url: github-issues
 
 slides:
-  - title: "HTML introduction"
-    url: html-introduction
-
-group_activities:
-  - title: Semantics map-out
-    url: semantics-map-out
-    type: pencil
-    pair: true
+  - title: "Version control & GitHub"
+    url: version-control-github
 
 tasks:
+  - title: "Keyboard Commander"
+    url: https://thomasjbradley.github.io/keyboard-commander/
+    type: activity
+  - title: "Website on GitHub"
+    url: website-on-github
+    type: lesson
   - title: "Using Markbot"
     url: using-markbot
-  - title: "HTML document setup"
-    url: html-document-setup
+#  - title: "Using your code editor"
+#    url: using-your-code-editor
+#    type: lesson
+  - title: "Create tagged issue"
+    url: create-tagged-issue
     type: lesson
-#  - title: "Naming Conventioneer"
-#    url:
-#    type: activity
-  - title: "Masthead semantics"
-    url: https://github.com/acgd-webdev-1/masthead-semantics
-  - title: "HTML validation fixes"
-    url: https://github.com/acgd-webdev-1/html-validation-fixes
-  - title: "Content semantics"
-    url: https://github.com/acgd-webdev-1/content-semantics
+    submit: "Submit nothing."
 ---

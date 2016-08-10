@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "Info boxes"
+title: "Cards"
 desc: "Dig into the browser’s layout models to make a simple, flexible informational design."
 
 video: "8mhyIpRu5hI"
@@ -24,8 +24,8 @@ steps:
     before: |
       Set up a folder on your computer and get things ready to go.
 
-      1. Create a new folder named `info-boxes`
-      2. Make a new `index.html` file in your `info-boxes` folder.
+      1. Create a new folder named `cards`
+      2. Make a new `index.html` file in your `cards` folder.
       3. Make a new `main.css` in your `css` folder.
     notes:
       - label: "Naming conventions"
@@ -40,7 +40,7 @@ steps:
       <html lang="en-ca">
       <head>
         <meta charset="utf-8">
-        <title>Info boxes</title>
+        <title>Cards</title>
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <link href="css/main.css" rel="stylesheet">
       </head>
@@ -72,14 +72,14 @@ steps:
         text: "Create the boilerplate with `borderbox`"
     after: "The `border-box` system changes the browsers layout math to include the `padding` in the `width`—the default is more difficult to manage when making flexible, responsive websites."
 
-  - title: "Write the info box HTML"
+  - title: "Write the card HTML"
     before: |
-      For the info boxes, an unordered list makes sense because the website is a list of space probes.
+      For the cards, an unordered list makes sense because the website is a list of space probes.
     code_lang: "html"
     code_file: "index.html"
     code: |
       ⋮
-      <ul class="info-boxes">
+      <ul class="cards">
 
         <li>
           <img src="http://placehold.it/32x32" alt="">
@@ -95,7 +95,7 @@ steps:
           </div>
         </li>
 
-        <!-- Copy and paste the above <li> here to make the second info box -->
+        <!-- Copy and paste the above <li> here to make the second card -->
 
       </ul>
       ⋮
@@ -144,18 +144,18 @@ steps:
 
   - title: "Style the boxes"
     before: |
-      Next up we’ll style the info box itself by adding some colours, borders, and sizes.
+      Next up we’ll style the card itself by adding some colours, borders, and sizes.
     code_lang: "css"
     code_file: "css/main.css"
     code: |
       ⋮
-      .info-boxes {
+      .cards {
         margin: 0;
         padding: 0;
         list-style-type: none;
       }
 
-      .info-boxes li {
+      .cards li {
         display: inline-block;
         margin: 0 .5em 1em .5em;
         max-width: 20em;
@@ -168,7 +168,7 @@ steps:
       - num: "3-5"
         text: "By using the developer tools I know that the `<ul>` has `margin`, `padding`, and `list-style-type` on it by default—this code will reset the defaults provided by the browser."
       - num: "8"
-        text: "Use a child selector to get the `<li>` tags inside of `.info-boxes`"
+        text: "Use a child selector to get the `<li>` tags inside of `.cards`"
       - num: "9"
         text: "The `<li>` tags are `display: block` by default, which makes them go on their own lines. This code will change them to `inline-block` allowing them to sit beside each other."
       - num: "10"
@@ -204,11 +204,11 @@ steps:
     after: |
       *This is what you should see in your browser when the window’s width is small:*
 
-      ![](info-box-s.jpg)
+      ![](card-s.jpg)
 
       *And when the width is a little wider:*
 
-      ![](info-box-l.jpg)
+      ![](card-l.jpg)
 
       **Notice how we’re taking advantage of the browser’s flow:**
 
@@ -224,12 +224,12 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
-      .info-boxes {
+      .cards {
         ⋮
         text-align: center;
       }
 
-      .info-boxes li {
+      .cards li {
         ⋮
         text-align: left;
       }
@@ -240,7 +240,7 @@ steps:
 
           **We need to put `text-align: center` on a parent element so that it affects all of its children.**
       - num: 9
-        text: "Because we set everything inside `.info-boxes` to be centred that would affect all the text too, but we only want to center the boxes not the text—so we have to reset the interior of the boxes to `text-align: left`"
+        text: "Because we set everything inside `.cards` to be centred that would affect all the text too, but we only want to center the boxes not the text—so we have to reset the interior of the boxes to `text-align: left`"
     after: |
       *This is what you should see in your browser when the window’s width is small:*
 
@@ -257,19 +257,19 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
-      .info-boxes img {
+      .cards img {
         display: block;
         margin: 0 auto 1rem auto;
       }
 
-      .info-boxes strong {
+      .cards strong {
         display: block;
         margin-bottom: 1rem;
 
         font-size: 1.125rem;
       }
 
-      .info-boxes dl {
+      .cards dl {
         margin-bottom: 1rem;
       }
     lines:
@@ -294,13 +294,13 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
-      .info-boxes dt {
+      .cards dt {
         display: inline-block;
         width: 6em;
         font-style: italic;
       }
 
-      .info-boxes dd {
+      .cards dd {
         display: inline-block;
         margin: 0;
         min-width: 9em;
@@ -326,11 +326,11 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
-      .info-boxes div {
+      .cards div {
         text-align: center;
       }
 
-      .info-boxes a {
+      .cards a {
         display: inline-block;
         padding: .5em .75em;
         background-color: #ccc;
@@ -339,7 +339,7 @@ steps:
         text-decoration: none;
       }
 
-      .info-boxes a:hover {
+      .cards a:hover {
         background-color: #333;
         color: #fff;
       }

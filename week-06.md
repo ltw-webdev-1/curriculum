@@ -1,32 +1,36 @@
 ---
-topic: "Link patterns"
-desc: "Create different patterns for links in websites including navigation highlighting, buttons and link cards."
+topic: "Everything is a box"
+desc: "Explore how browsers display websites, looking at how everything is a box, and controlling the browser’s layout flow."
 
 video_tutorials:
+  - title: "Everything is a box"
+    url: box-model
+  - title: "Flow & display"
+    url: flow-display
+  - title: "Browser developer tools"
+    url: browser-developer-tools
   - title: "Navigation"
     url: navigation
-    notes: "Inline-list, multiple pages, highlighting current"
-  - title: "Using paths & folders"
-    url: paths-folders
-  - title: "Naming & paths cheat sheet"
-    url: naming-paths-cheat-sheet
+    notes: "Inline-list pattern"
+  - title: "Typography-only layout"
+    url: typography-only-layout
 
 slides:
-  - title: "Link patterns"
-    url: link-patterns
+  - title: "Boxes & flows"
+    url: boxes-and-flows
 
 tasks:
-  - title: "Display Dominator"
-    url: http://activities.learn-the-web.algonquindesign.ca/display-dominator/
+  - title: "Selector Surgeon"
+    url: http://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
     type: activity
-  - title: "Navigation patterns"
-    url: navigation-patterns
+  - title: "Developer tools"
+    url: developer-tools
     type: lesson
-    submit: "Submit & show nothing."
-  - title: "Navigation highlight"
-    url: https://github.com/acgd-webdev-1/navigation-highlight
-  - title: "Button styles"
-    url: https://github.com/acgd-webdev-1/button-styles
-  - title: "Link cards"
-    url: https://github.com/acgd-webdev-1/link-cards
+  - title: "Cards"
+    url: cards
+    type: lesson
+  - title: "Horizontal navigation"
+    url: https://github.com/acgd-webdev-1/horizontal-nav
+  - title: "Sections"
+    url: https://github.com/acgd-webdev-1/sections
 ---
