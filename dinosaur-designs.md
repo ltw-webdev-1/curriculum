@@ -34,7 +34,28 @@ goal:
 
 steps:
   - title: "Set up project"
-    before: |
+    folders:
+      - label: "dinosaur-designs"
+        type: folder
+      - label: "index.html"
+        indent: 1
+      - label: "css"
+        type: folder
+        indent: 1
+      - label: "main.css"
+        indent: 2
+      - label: "images"
+        type: folder
+        indent: 1
+      - label: "dinos-r-us.svg"
+        indent: 2
+      - label: "hadrosaur.jpg"
+        indent: 2
+      - label: "iguanodon.jpg"
+        indent: 2
+      - label: "stegosaurus.jpg"
+        indent: 2
+    after: |
       ### HTML setup
 
       1. Make a new folder named `dinosaur-designs`

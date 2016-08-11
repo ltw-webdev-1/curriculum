@@ -31,7 +31,6 @@ tasks:
   - title: "Dinosaur designs"
     url: dinosaur-designs
     type: lesson
-    pair: true
   - title: "Use all the selectors!"
     url: https://github.com/acgd-webdev-1/use-all-the-selectors
   - title: "CSS validation fixes"

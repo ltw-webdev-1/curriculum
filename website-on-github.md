@@ -105,7 +105,12 @@ steps:
       We’re ready to make a new HTML file.
 
       Go to `File > New` or press `⌘N` to make a new file.
-
+    folders:
+      - label: "first-website"
+        type: folder
+      - label: "index.html"
+        indent: 1
+    after: |
       **Immediately save the file.** Call it exactly `index.html`. Put it into the `first-website` folder.
 
       ![](index.jpg)

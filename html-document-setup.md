@@ -30,9 +30,17 @@ steps:
   - title: "Set up project"
     before: |
       Before we get started, create some files and get ready.
-
-      ![](folder.jpg)
-
+    folders:
+      - label: "html-template"
+        type: folder
+      - label: "index.html"
+        indent: 1
+      - label: "images"
+        type: folder
+        indent: 1
+      - label: "logo.svg"
+        indent: 2
+    after: |
       1. Create a folder named `html-template`
       2. Drag the folder to your code editor.
       3. Inside the folder make a file named `index.html`

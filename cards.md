@@ -23,7 +23,17 @@ steps:
   - title: "Set up the project"
     before: |
       Set up a folder on your computer and get things ready to go.
-
+    folders:
+      - label: "cards"
+        type: folder
+      - label: "index.html"
+        indent: 1
+      - label: "css"
+        type: folder
+        indent: 1
+      - label: "main.css"
+        indent: 2
+    after: |
       1. Create a new folder named `cards`
       2. Make a new `index.html` file in your `cards` folder.
       3. Make a new `main.css` in your `css` folder.

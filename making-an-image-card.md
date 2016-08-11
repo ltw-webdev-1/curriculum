@@ -21,7 +21,17 @@ steps:
   - title: "Set up project"
     before: |
       Before we get started, create some files and get ready.
-
+    folders:
+      - label: "image-card"
+        type: folder
+      - label: "index.html"
+        indent: 1
+      - label: "css"
+        type: folder
+        indent: 1
+      - label: "main.css"
+        indent: 2
+    after: |
       1. Create a folder named `image-card`
       2. Make an `index.html`
       3. Make a `main.css` in your `css` folder.
