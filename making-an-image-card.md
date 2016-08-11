@@ -15,7 +15,7 @@ extra_tutorials:
   - title: "Position & z-index"
     url: position-zindex
   - title: "Position & z-index slide deck"
-    url: /web-dev-1/position-zindex/
+    url: /courses/web-dev-1/position-zindex/
 
 steps:
   - title: "Set up project"
@@ -78,24 +78,34 @@ steps:
     code_file: "index.html"
     code: |
       ⋮
-      <article class="card">
-        <header class="card-head">
-          <h2 class="card-title">Stegosaurus</h2>
-          <span class="card-label">Plant-eater</span>
-          <img class="img-flex" src="http://placehold.it/640x480" alt="">
-        </header>
-        <div class="card-body">
-          <p>The Stegosaurus is an armoured dinosaur with distinctive back plates and tail spikes.</p>
-        </div>
-      </article>
+      </head>
+      <body>
+
+        <article class="card">
+          <header class="card-head">
+            <h2 class="card-title">Stegosaurus</h2>
+            <span class="card-label">Plant-eater</span>
+            <img class="img-flex" src="http://placehold.it/640x480" alt="">
+          </header>
+          <div class="card-body">
+            <p>The Stegosaurus is an armoured dinosaur with distinctive back plates and tail spikes.</p>
+          </div>
+        </article>
+
+      </body>
+      </html>
       ⋮
     lines:
-      - num: 2
+      - num: "2-3"
+        fade: true
+      - num: 5
         text: "Semantically an `<article>` makes sense because this can stand by itself."
-      - num: 3
-        text: "The important bits are in the `<header>` because a group will be needed for CSS later."
       - num: 6
+        text: "The important bits are in the `<header>` because a group will be needed for CSS later."
+      - num: 9
         text: "Don’t forget the `img-flex` class to make the image flexible."
+      - num: "16-17"
+        fade: true
     notes:
       - label: "Notice"
         text: "There’re classes on just about everything to distinguish them from other elements in our page."
@@ -106,6 +116,10 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+        display: block;
+        width: 100%;
+      }
+
       .card {
         overflow: hidden;
         border: 1px solid #ccc;
@@ -127,9 +141,11 @@ steps:
         background-color: rgba(255, 255, 255, .6);
       }
     lines:
-      - num: 3
+      - num: "2-4"
+        fade: true
+      - num: 7
         text: "The `overflow: hidden` is here to chop the corners of the image off."
-      - num: 18
+      - num: 22
         text: |
           The crazy `calc()` is just really to make the text align properly when it also has a border.
 
@@ -148,17 +164,21 @@ steps:
     code: |
       .card-title {
         ⋮
+        margin: 0;
+        padding: .3rem 1rem;
         position: absolute;
         bottom: 0;
         left: 0;
         width: 100%;
       }
     lines:
-      - num: 3
+      - num: "3-4"
+        fade: true
+      - num: 5
         text: "Setting it to `position: absolute` allows us to move it around using coordinates."
-      - num: "4-5"
+      - num: "6-7"
         text: "Using `left` and `bottom` to move it to the bottom of the image."
-      - num: "6"
+      - num: 8
         text: "The `width` is there because `absolute` elements shrink to be as small as possible."
     after: |
       Notice how the title is now at the bottom of the screen, that’s because the coordinates for `absolute` default to position against `<body>`
@@ -178,12 +198,17 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+        border-left: 4px solid green;
+        background-color: rgba(255, 255, 255, .6);
+      }
 
       .card-head {
         position: relative;
       }
     lines:
-      - num: 4
+      - num: "2-4"
+        fade: true
+      - num: 7
         text: "Using `position: relative` on this element will reset the coordinate system for all `absolute` children."
     after: |
       Now the `.card-title` snaps right into place.
@@ -200,8 +225,14 @@ steps:
     code: |
       .card-label {
         ⋮
+        padding: .3rem 1rem .3rem calc(1rem - 4px);
+        border-left: 4px solid green;
+        background-color: rgba(255, 255, 255, .6);
         position: absolute;
         left: 0;
         top: 0;
       }
+    lines:
+      - num: "3-5"
+        fade: true
 ---

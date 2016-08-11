@@ -4,6 +4,7 @@ title: "Create tagged issue"
 desc: "GitHub Issues is the best way to ask for code help online. It puts the question alongside the code for easy reference."
 
 hide_show_for_marks: true
+hide_markbot: true
 
 extra_tutorials:
   - title: "GitHub Issues"

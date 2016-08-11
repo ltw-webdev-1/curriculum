@@ -187,7 +187,7 @@ steps:
     before: |
       **For all the code exercises in class we don’t have to go through the `gh-pages` branching set up process above.**
 
-      **We’ll be using the [fork & pass tests method](/courses/web-dev-1/fork-pass-tests/) to hand in all work.**
-      [**That lesson comes next ➔**](/courses/web-dev-1/fork-pass-tests/)
+      **We’ll be using the [fork & pass tests method with Markbot](/courses/web-dev-1/using-markbot/) to hand in all work.**
+      [**That lesson comes next ➔**](/courses/web-dev-1/using-markbot/)
 
 ---

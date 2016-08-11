@@ -1,8 +1,7 @@
 ---
 layout: lesson
-pair: true
 title: "Dinosaur designs"
-desc: "Work together in a pair to build this website and style its typography."
+desc: "Work to build this website and style its typography."
 
 extra_tutorials:
   - title: "CSS introduction slide deck"
@@ -30,14 +29,6 @@ goal:
 
     ### [Download the content and images.](https://github.com/acgd-webdev-1/dinosaur-designs/archive/gh-pages.zip)
   notes:
-    - label: "Pair programming"
-      text: |
-        Each person will take turns being the **driver** and the **pointer**—switching at each denoted section.
-
-        - **Driver** — controls the code editor, does the typing.
-        - **Pointer** — has references open on their screen, guides the driver on what to type.
-
-        **Together you’ll produce one coded project that you can share when complete.**
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 

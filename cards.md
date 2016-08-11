@@ -79,38 +79,49 @@ steps:
     code_file: "index.html"
     code: |
       ⋮
-      <ul class="cards">
+        <link href="css/main.css" rel="stylesheet">
+      </head>
+      <body>
 
-        <li>
-          <img src="http://placehold.it/32x32" alt="">
-          <strong>Voyager 1</strong>
-          <dl>
-            <dt>Launched:</dt>
-            <dd><time datetime="1977-09-05">Sept. 5, 1977</time></dd>
-            <dt>Destination:</dt>
-            <dd>Jupiter & beyond</dd>
-          </dl>
-          <div>
-            <a href="https://en.wikipedia.org/wiki/Voyager_1">Wikipedia</a>
-          </div>
-        </li>
+        <ul class="cards">
 
-        <!-- Copy and paste the above <li> here to make the second card -->
+          <li>
+            <img src="http://placehold.it/32x32" alt="">
+            <strong>Voyager 1</strong>
+            <dl>
+              <dt>Launched:</dt>
+              <dd><time datetime="1977-09-05">Sept. 5, 1977</time></dd>
+              <dt>Destination:</dt>
+              <dd>Jupiter & beyond</dd>
+            </dl>
+            <div>
+              <a href="https://en.wikipedia.org/wiki/Voyager_1">Wikipedia</a>
+            </div>
+          </li>
 
-      </ul>
+          <!-- Copy and paste the above <li> here to make the second card -->
+
+        </ul>
+
+      </body>
+      </html>
       ⋮
     lines:
-      - num: 2
+      - num: "2-4"
+        fade: true
+      - num: 6
         text: "Add a `class` to the `<ul>` so we can style it directly."
-      - num: 5
+      - num: 9
         text: |
           We’re using an image placeholder service to make an image for us—that way we don’t have to go into Photoshop to create a new image.
 
           The `32x32` part is the pixel dimensions of the image we want. [You can see more options on the PlaceHold.it website.](https://placehold.it/)
-      - num: 6
+      - num: 10
         text: "The `<strong>` tag makes semantic sense because the name of the probe is more important than the surrounding text."
-      - num: "13-15"
+      - num: "17-19"
         text: "There’s a semantically meaningless `<div>` tag here that we’re going to use as a CSS styling hook later."
+      - num: "26-27"
+        fade: true
     after: |
       **Copy the `<li>` tag you wrote above and paste it in the place of the comment. Change its details to reflect the “New Horizons” probe.**
 
@@ -135,8 +146,12 @@ steps:
         box-sizing: inherit;
       }
     lines:
+      - num: 2
+        fade: true
       - num: "3-5"
         text: "Adjust the `background-color`, `font-family` and `line-height` to make it look a little more pleasant."
+      - num: "8-10"
+        fade: true
     after: |
       *This is what you should see in your browser:*
 
@@ -149,6 +164,10 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+      *, *::before, *::after {
+        box-sizing: inherit;
+      }
+
       .cards {
         margin: 0;
         padding: 0;
@@ -165,13 +184,15 @@ steps:
         border-radius: 10px;
       }
     lines:
-      - num: "3-5"
+      - num: "2-4"
+        fade: true
+      - num: "7-9"
         text: "By using the developer tools I know that the `<ul>` has `margin`, `padding`, and `list-style-type` on it by default—this code will reset the defaults provided by the browser."
-      - num: "8"
+      - num: 12
         text: "Use a child selector to get the `<li>` tags inside of `.cards`"
-      - num: "9"
+      - num: 13
         text: "The `<li>` tags are `display: block` by default, which makes them go on their own lines. This code will change them to `inline-block` allowing them to sit beside each other."
-      - num: "10"
+      - num: 14
         text: |
           The `margin` property adds space **outside** of the box.
 
@@ -183,14 +204,14 @@ steps:
           4. left
 
           Start at the top and work clockwise around the box.
-      - num: "11"
+      - num: 15
         text: "Using `max-width` allows the boxes can scale up to only a certain size."
-      - num: "12"
+      - num: 16
         text: |
           The `padding` property will add spacing **inside** the box.
 
           Padding can have four values like margin or only one value that will affect all four sides. (Margin does this too.)
-      - num: "14"
+      - num: 18
         text: |
           The `border` property allows us to add a stroke around the outside of a box.
 
@@ -199,7 +220,7 @@ steps:
           1. The thickness, usually in pixels.
           2. The style: `solid`, `dotted`, `dashed`, etc.
           3. The border’s colour.
-      - num: "15"
+      - num: 19
         text: "The `border-radius` property allows us to round the corners of a box."
     after: |
       *This is what you should see in your browser when the window’s width is small:*
@@ -224,22 +245,36 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+      *, *::before, *::after {
+        box-sizing: inherit;
+      }
+
       .cards {
         ⋮
+        padding: 0;
+        list-style-type: none;
         text-align: center;
       }
 
       .cards li {
         ⋮
+        border: 3px solid #e2e2e2;
+        border-radius: 10px;
         text-align: left;
       }
     lines:
-      - num: 4
+      - num: "2-4"
+        fade: true
+      - num: "8-9"
+        fade: true
+      - num: 10
         text: |
           Because the `<li>` tags are `inline-block` we can use `text-align: center`, which works on all `inline` and `inline-block` elements.
 
           **We need to put `text-align: center` on a parent element so that it affects all of its children.**
-      - num: 9
+      - num: "15-16"
+        fade: true
+      - num: 17
         text: "Because we set everything inside `.cards` to be centred that would affect all the text too, but we only want to center the boxes not the text—so we have to reset the interior of the boxes to `text-align: left`"
     after: |
       *This is what you should see in your browser when the window’s width is small:*
@@ -257,6 +292,11 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+        border: 3px solid #e2e2e2;
+        border-radius: 10px;
+        text-align: left;
+      }
+
       .cards img {
         display: block;
         margin: 0 auto 1rem auto;
@@ -273,15 +313,17 @@ steps:
         margin-bottom: 1rem;
       }
     lines:
-      - num: 3
+      - num: "2-5"
+        fade: true
+      - num: 8
         text: "The `display: block` will put the image on its own line instead of beside the probe’s name."
-      - num: 4
+      - num: 9
         text: |
           The image will look better centred, but because the image is `block` `text-align: center` no longer works. Instead we can use automatic left and right margins.
 
-      - num: "8-9"
+      - num: "13-14"
         text: "Adding `margin` to a `<strong>` tag doesn’t work by default because `<strong>` tags are `inline`—margins only work on `block` and `inline-block`"
-      - num: 15
+      - num: 20
         text: "Add a little space after the `<dl>` to push the “Wikipedia” link further down."
     after: |
       *This is what you should see in your browser:*
@@ -294,6 +336,10 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+      .cards dl {
+        margin-bottom: 1rem;
+      }
+
       .cards dt {
         display: inline-block;
         width: 6em;
@@ -306,14 +352,16 @@ steps:
         min-width: 9em;
       }
     lines:
-      - num: 3
+      - num: "2-4"
+        fade: true
+      - num: 7
         text: "Setting both the `<dt>` and `<dd>` tags to `display: inline-block` (overwriting the browser’s default `block`) will allow them to be on the same line."
-      - num: 4
+      - num: 8
         text: |
           By adding a `width` to the `<dt>` tag we can get a nice alignment of all the `<dd>` tags.
 
           The `width` is set in `em` units so that it can grow with the font size.
-      - num: 11
+      - num: 15
         text: "Adding a `min-width` to the `<dd>` tags will force the `<dt>` tag that follows onto its own line."
     after: |
       *This is what you should see in your browser:*
@@ -326,6 +374,10 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+        margin: 0;
+        min-width: 9em;
+      }
+
       .cards div {
         text-align: center;
       }
@@ -344,17 +396,19 @@ steps:
         color: #fff;
       }
     lines:
-      - num: 3
+      - num: "2-4"
+        fade: true
+      - num: 7
         text: |
           Using the `<div>` that surrounds the `<a>` tag we can centre the link.
 
           - If we were to put `text-align: center` directly on the link only the text inside it would be affected—because `text-align` only targets children.
           - We can’t use `auto` margins because that only works on `display: block` elements, and we don’t want the link to stretch all the way across.
-      - num: 7
+      - num: 11
         text: "Adding `display: inline-block` to the `<a>` tag will allow us to add `padding` since padding doesn’t work well on `inline` elements."
-      - num: 12
+      - num: 16
         text: "It’s okay to remove the `underline` from links when they are distinctly separate from the body copy. In this case it’s okay because the link looks like a button."
-      - num: 15
+      - num: 19
         text: "Don’t forget to add a `:hover` state to the link."
     after: "**Test it in your browser to make sure it looks like the goal at the top.**"
 ---

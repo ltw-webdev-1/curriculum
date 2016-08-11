@@ -4,6 +4,7 @@ title: "Browser testing"
 desc: "Spend most of the class testing your website in all the different browsers—and fixing any problems that arise."
 
 hide_show_for_marks: true
+hide_markbot: true
 
 extra_tutorials:
   - title: "Browser testing"

@@ -5,6 +5,7 @@ desc: "Use Markbot to check that your code follows all the requirements and subm
 
 # video: "e3KbxNpcsdo"
 hide_show_for_marks: true
+hide_markbot: true
 
 steps:
   - title: "Fork the assignment repo"

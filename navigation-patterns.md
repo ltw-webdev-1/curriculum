@@ -4,6 +4,7 @@ title: "Navigation patterns"
 desc: "Watch some videos showing common navigation patterns including linking multiple pages and highlighting the current page."
 
 hide_show_for_marks: true
+hide_markbot: true
 
 extra_tutorials:
   - title: "Navigation"

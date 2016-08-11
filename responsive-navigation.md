@@ -125,18 +125,29 @@ steps:
     code_file: "index.html"
     code: |
       ⋮
-      <header>
-        <h1>Quetzalcoatlus</h1>
-        <nav>
-          <ul>
-            <li><a href="#">Environment</a></li>
-            <li><a href="#">Dimensions</a></li>
-            <li><a href="#">Diet</a></li>
-            <li><a href="#">Flight</a></li>
-          </ul>
-        </nav>
-      </header>
+      </head>
+      <body>
+
+        <header>
+          <h1>Quetzalcoatlus</h1>
+          <nav>
+            <ul>
+              <li><a href="#">Environment</a></li>
+              <li><a href="#">Dimensions</a></li>
+              <li><a href="#">Diet</a></li>
+              <li><a href="#">Flight</a></li>
+            </ul>
+          </nav>
+        </header>
+
+      </body>
+      </html>
       ⋮
+    lines:
+      - num: "2-3"
+        fade: true
+      - num: "17-18"
+        fade: true
 
   - title: "Style the extra small screen navigation"
     before: |
@@ -147,6 +158,10 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+      body {
+        margin: 0;
+      }
+
       header {
         padding: .5rem 0;
         background-color: #ccc;
@@ -178,6 +193,9 @@ steps:
         background-color: #333;
         color: #fff;
       }
+    lines:
+      - num: "2-4"
+        fade: true
     notes:
       - label: "Notice"
         text: |
@@ -200,6 +218,11 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+      nav a:hover {
+        background-color: #333;
+        color: #fff;
+      }
+
       @media only screen and (min-width: 25em) {
 
         nav li {
@@ -209,7 +232,9 @@ steps:
 
       }
     lines:
-      - num: 2
+      - num: "2-5"
+        fade: true
+      - num: 7
         text: |
           Here’s our media query—we do not repeat any of the above CSS in the media query because it adds onto what’s already there.
 
@@ -232,6 +257,11 @@ steps:
     code_file: "css/main.css"
     code: |
       ⋮
+          text-align: center;
+        }
+
+      }
+
       @media only screen and (min-width: 38em) {
 
         html {
@@ -250,7 +280,9 @@ steps:
 
       }
     lines:
-      - num: "4-7"
+      - num: "2-5"
+        fade: true
+      - num: "9-12"
         text: |
           We target the `<html>` element to adjust the font-size because `rem` is based on it—so all the `rem` font-sizes we’ve specified naturally increase.
 
@@ -258,7 +290,7 @@ steps:
 
           - A `font-size` of `110%`
           - A `line-height` of `1.4`
-      - num: "13-16"
+      - num: "18-21"
         text: |
           Large screens—`60em` get these settings:
 
@@ -277,6 +309,11 @@ steps:
     code: |
       @media only screen and (min-width: 60em) {
         ⋮
+        html {
+          font-size: 120%;
+          line-height: 1.5;
+        }
+
         header {
           padding-left: 1rem;
           padding-right: 1rem;
@@ -296,10 +333,12 @@ steps:
 
       }
     lines:
-      - num: "9-13"
+      - num: "3-6"
+        fade: true
+      - num: "14-18"
         text: |
           Change both the `<h1>` and the `<nav>` tag to `inline-block` so they sit beside each other on the same line.
-      - num: "16"
+      - num: 21
         text: |
           We need to remove the bottom `margin` from the `<h1>` because we added a margin further up in the CSS.
 

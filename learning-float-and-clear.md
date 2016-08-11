@@ -4,6 +4,7 @@ title: "Learning float & clear"
 desc: "Watch some videos demonstrating how the CSS float, clear and overflow properties work to create layouts."
 
 hide_show_for_marks: true
+hide_markbot: true
 
 extra_tutorials:
   - title: "Float & clear"
