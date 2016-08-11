@@ -32,5 +32,6 @@ tasks:
     submit: show
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website
+    graded-as: restaurant-website
   - type: blank
 ---

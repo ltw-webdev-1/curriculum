@@ -27,10 +27,11 @@ tasks:
     url: http://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
     type: activity
   - type: blank
-  - title: "Restaurant website milestone"
-    url: https://github.com/acgd-webdev-1/restaurant-website#2-code-milestone
+  - title: "Restaurant website check-in"
+    url: https://github.com/acgd-webdev-1/restaurant-website#2-code-check-in
     submit: show
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
+    graded-as: restaurant-website
   - type: blank
 ---

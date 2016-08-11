@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
 
-title: "Introduction"
+title: "Web Dev 1 intro"
 
 slides:
   - type: super-big-text
@@ -45,34 +45,28 @@ slides:
       ## Office hours
       *@ J104*
 
-      - Tue. 2–3
-      - Wed. 11–12
-      - Fri. 12–3
+      - Mon. 11–1
+      - Fri. 12–2
 
   - content: |
       ## Labs
 
       - 1 hour work labs
       - Scheduled outside class
+      - Watch videos—*progress is graded*
       - Get help from TAs
       - Attendance expected
 
   - content: |
       ## Marking scheme
 
-      - *Activities & exercises (about 60):* **75%**
-        Pass/fail — marked in class or automated
-        Personal feedback given at specific intervals
-
-      - *Big project:* **25%**
-        Letter grade
-        Proof you learned everything
+      [**Web Dev 1 marking scheme ➔**](/courses/web-dev-1/#marking-scheme)
 
   - content: |
       ## Always be coding
       Multiple activities & exercises every week
 
-      [**Week 1 tasks ➔**](/courses/web-dev-1/week-1/)
+      [**Week 2 tasks ➔**](/courses/web-dev-1/week-02/)
 
   - content: |
       ## Important links
@@ -81,8 +75,8 @@ slides:
       - [Weekly tasks ➔](/courses/web-dev-1/)
 
   - content: |
-      ## Post-It Note triage
-      Specify your working status by sticking Post-It Notes on your monitor
+      ## Sticky note triage
+      Specify your working status by sticking sticky notes on your monitor
 
       ![](post-it-notes.svg)
 
