@@ -5,8 +5,6 @@ desc: "Learn about version control, GitHub, GitHub use, and how to hand in your 
 video_tutorials:
   - title: "Version control & GitHub"
     url: version-control-github
-  - title: "Hosting with GitHub Pages"
-    url: github-pages
   - title: "GitHub Issues"
     url: github-issues
 
@@ -23,11 +21,10 @@ tasks:
     type: lesson
   - title: "Using Markbot"
     url: using-markbot
-#  - title: "Using your code editor"
-#    url: using-your-code-editor
-#    type: lesson
   - title: "Create tagged issue"
     url: create-tagged-issue
     type: lesson
     submit: "Submit nothing."
+  - title: "Using your code editor"
+    type: lesson
 ---

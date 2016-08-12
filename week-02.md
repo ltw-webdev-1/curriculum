@@ -30,9 +30,11 @@ tasks:
     url: install-all-the-things
     type: lesson
   - title: "Set up your code editor"
-    url: /topics/atom/
+    url: set-up-your-code-editor
     type: lesson
   - title: "Submit GitHub account"
     url: https://algonquin.instructure.com/courses/467502/assignments/4178222
     type: basic
+  - title: "Computer shortcuts"
+    type: lesson
 ---
