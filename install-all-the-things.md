@@ -3,6 +3,8 @@ layout: lesson
 title: "Install all the things!"
 desc: "Set up your computer, install all the different web browsers, install a code editor, and set up GitHub."
 
+hide_markbot: true
+
 steps:
   - title: "Configure Finder"
     before: |

@@ -12,7 +12,7 @@ slides:
       ## Thomas J Bradley
       *Super nerd*
 
-      Office @ J104
+      Office @ J104<br>
       [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
 
   - content: |

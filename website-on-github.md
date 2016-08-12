@@ -3,6 +3,8 @@ layout: lesson
 title: "Website on GitHub"
 desc: "Create a repository on GitHub, set it up to host a website, and launch a single page site."
 
+hide_markbot: true
+
 video: "xg01o51TxCQ"
 
 extra_tutorials:
