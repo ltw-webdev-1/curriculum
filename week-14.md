@@ -30,6 +30,7 @@ tasks:
   - title: "Restaurant website check-in"
     url: https://github.com/acgd-webdev-1/restaurant-website#2-code-check-in
     submit: show
+    no-solution: true
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
     graded-as: restaurant-website
