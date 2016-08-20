@@ -5,6 +5,18 @@ desc: "Set up Atom, GitHub’s code editor, to fill out it’s features and simp
 
 hide_markbot: true
 
+extra_tutorials:
+  - title: "Code editors"
+    url: code-editors
+  - title: "Snippets cheat sheet"
+    url: snippets-cheat-sheet
+    highlight: true
+  - title: "Keyboard shortcut cheat sheet"
+    url: keyboard-shortcut-cheat-sheet
+    highlight: true
+  - title: "Code character cheat sheet"
+    url: code-character-cheat-sheet
+
 steps:
   - title: "Download & install Atom"
     before: |
