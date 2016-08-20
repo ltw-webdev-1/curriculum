@@ -33,7 +33,7 @@ tasks:
     url: set-up-your-code-editor
     type: lesson
   - title: "Submit GitHub account"
-    url: https://algonquin.instructure.com/courses/467502/assignments/4178222
+    url: https://github.com/acgd-webdev-1/submit-github-account
     type: basic
   - title: "Computer shortcuts"
     type: lesson
