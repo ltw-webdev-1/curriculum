@@ -4,7 +4,9 @@ desc: "An overview of the course this term, how the web works, and setting up ou
 
 video_tutorials:
   - title: "Web browsers"
+    url: web-browsers
   - title: "Using URLs"
+    url: using-urls
   - title: "Code editors"
     url: code-editors
   - title: "Snippets cheat sheet"
