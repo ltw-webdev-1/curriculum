@@ -5,8 +5,10 @@ desc: "Learn about version control, GitHub, GitHub use, and how to hand in your 
 video_tutorials:
   - title: "Version control & GitHub"
     url: version-control-github
+    videos: true
   - title: "GitHub Issues"
     url: github-issues
+    videos: true
 
 slides:
   - title: "Version control & GitHub"
@@ -26,5 +28,7 @@ tasks:
     type: lesson
     submit: "Submit nothing."
   - title: "Using your code editor"
+    url: using-your-code-editor
     type: lesson
+    submit: "Submit nothing."
 ---

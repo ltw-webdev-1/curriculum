@@ -7,16 +7,17 @@ video_tutorials:
     url: web-browsers
   - title: "Using URLs"
     url: using-urls
-  - title: "Code editors"
-    url: code-editors
-  - title: "Snippets cheat sheet"
-    url: snippets-cheat-sheet
+    videos: true
+  - title: "Naming conventions"
+    url: naming-conventions
     highlight: true
   - title: "Keyboard shortcut cheat sheet"
     url: keyboard-shortcut-cheat-sheet
     highlight: true
-  - title: "Naming conventions"
-    url: naming-conventions
+  - title: "Code editors"
+    url: code-editors
+  - title: "Snippets cheat sheet"
+    url: snippets-cheat-sheet
     highlight: true
   - title: "Code character cheat sheet"
     url: code-character-cheat-sheet
