@@ -38,5 +38,7 @@ tasks:
     url: https://github.com/acgd-webdev-1/submit-github-account
     type: basic
   - title: "Computer shortcuts"
+    url: computer-shortcuts
     type: lesson
+    submit: "Submit nothing."
 ---
