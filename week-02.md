@@ -1,6 +1,6 @@
 ---
-topic: "Intro & install"
-desc: "An overview of the course this term, how the web works, and setting up our computers."
+topic: "Installation"
+desc: "How the web works, naming conventions, web browsers, and setting up our computers."
 
 video_tutorials:
   - title: "Web browsers"
@@ -23,8 +23,6 @@ video_tutorials:
     url: code-character-cheat-sheet
 
 slides:
-  - title: "Web Dev 1 intro"
-    url: intro
   - title: "The Open Web"
     url: the-open-web
 
@@ -35,11 +33,8 @@ tasks:
   - title: "Set up your code editor"
     url: set-up-your-code-editor
     type: lesson
+  - type: blank
   - title: "Submit GitHub account"
     url: https://github.com/acgd-webdev-1/submit-github-account
     type: basic
-  - title: "Computer shortcuts"
-    url: computer-shortcuts
-    type: lesson
-    submit: "Submit nothing."
 ---
