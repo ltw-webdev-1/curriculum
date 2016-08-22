@@ -5,8 +5,10 @@ desc: "Look at how to write HTML and how to choose the proper HTML tags."
 video_tutorials:
   - title: "HTML semantics"
     url: html-semantics
+    videos: true
   - title: "HTML indentation"
     url: html-indentation
+    videos: true
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
     highlight: true

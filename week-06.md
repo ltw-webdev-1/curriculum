@@ -5,8 +5,10 @@ desc: "Explore how browsers display websites, looking at how everything is a box
 video_tutorials:
   - title: "Everything is a box"
     url: box-model
+    videos: true
   - title: "Flow & display"
     url: flow-display
+    videos: true
   - title: "Browser developer tools"
     url: browser-developer-tools
   - title: "Navigation"

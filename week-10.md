@@ -5,8 +5,10 @@ desc: "Explore how media queries help us make responsive websites by allowing la
 video_tutorials:
   - title: "All devices setup"
     url: all-devices-setup
+    videos: true
   - title: "Media queries"
     url: media-queries
+    videos: true
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
     highlight: true

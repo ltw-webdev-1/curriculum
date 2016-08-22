@@ -5,6 +5,7 @@ desc: "Learn to create more complex layouts with the float and clear CSS propert
 video_tutorials:
   - title: "Float & clear"
     url: float-clear
+    videos: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
   - title: "Navigation"

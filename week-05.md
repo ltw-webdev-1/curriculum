@@ -5,13 +5,16 @@ desc: "Dive into CSS to learn how to change the colours and type on a website."
 video_tutorials:
   - title: "Using CSS"
     url: using-css
+    videos: true
   - title: "CSS indentation"
     url: css-indentation
+    videos: true
   - title: "CSS selectors & units cheat sheet"
     url: css-selectors-units-cheat-sheet
     highlight: true
   - title: "Basic typography"
     url: basic-typography
+    videos: true
   - title: "Using Google Fonts"
     url: google-fonts
   - title: "Web typography cheat sheet"

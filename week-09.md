@@ -5,6 +5,7 @@ desc: "Look into layering elements in a website with the position and z-index pr
 video_tutorials:
   - title: "Position & z-index"
     url: position-zindex
+    videos: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
 
