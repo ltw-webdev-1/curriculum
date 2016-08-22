@@ -72,7 +72,7 @@ steps:
         text: 'Will jump to the top of the text.'
       - keys: '`⌘↑`'
         text: 'Will jump to the bottom of the text.'
-      - keys: '`Shift+Arrows`'
+      - keys: '`Shift Arrows`'
         text: |
           - Will highlight text
           - Can be combined with `⌘` & `⌥`
@@ -128,7 +128,7 @@ steps:
         text: 'Will trigger the active control, click links or check checkboxes, etc.'
       - keys: '`Space`'
         text: 'When no control is selected it will jump down the page.'
-      - keys: '`Shift+Space`'
+      - keys: '`Shift Space`'
         text: 'Will jump up the page.'
 
 ---

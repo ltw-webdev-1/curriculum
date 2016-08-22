@@ -114,7 +114,7 @@ steps:
         text: 'Move to the top of the file.'
       - keys: '`⌘↓`'
         text: 'Move to the bottom of the file.'
-      - keys: '`Shift+Arrows`'
+      - keys: '`Shift Arrows`'
         text: |
           - Highlight text.
           - Can be combined with `⌘` & `⌥`
@@ -138,7 +138,7 @@ steps:
         text: 'Toggle comments on/off for code, knowing the correct language.'
       - keys: '`⌘]`, `Tab`'
         text: 'Indent a line of code or multiple lines of code.'
-      - keys: '`⌘[`, `Shift+Tab`'
+      - keys: '`⌘[`, `Shift Tab`'
         text: 'Outdent a line of code or multiple lines of code.'
       - keys: '`⌘⌥F`'
         text: 'Find and replace within this file.'
