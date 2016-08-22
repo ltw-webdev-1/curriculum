@@ -23,7 +23,7 @@ group_activities:
 
 tasks:
   - title: "Definition Devastator"
-    url: http://activities.learn-the-web.algonquindesign.ca/definition-devastator/
+    url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
     type: activity
   - type: blank
   - title: "Browser testing"

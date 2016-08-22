@@ -24,7 +24,7 @@ group_activities:
 
 tasks:
   - title: "Display Dominator"
-    url: http://activities.learn-the-web.algonquindesign.ca/display-dominator/
+    url: https://activities.learn-the-web.algonquindesign.ca/display-dominator/
     type: activity
   - title: "Navigation patterns"
     url: navigation-patterns

@@ -29,7 +29,7 @@ slides:
 
 tasks:
   - title: "Semantics Soothsayer"
-    url: http://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/
+    url: https://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/
     type: activity
   - title: "Dinosaur designs"
     url: dinosaur-designs

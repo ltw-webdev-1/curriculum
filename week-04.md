@@ -32,7 +32,7 @@ group_activities:
 
 tasks:
   - title: "Character Classifier"
-    url: http://activities.learn-the-web.algonquindesign.ca/character-classifier/
+    url: https://activities.learn-the-web.algonquindesign.ca/character-classifier/
     type: activity
   - title: "HTML document setup"
     url: html-document-setup

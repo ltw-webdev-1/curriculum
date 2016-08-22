@@ -24,7 +24,7 @@ video_tutorials:
 
 tasks:
   - title: "Validation Verifier"
-    url: http://activities.learn-the-web.algonquindesign.ca/validation-verifier/
+    url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
     type: activity
   - type: blank
   - title: "Restaurant website plan"

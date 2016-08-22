@@ -15,7 +15,7 @@ slides:
 
 tasks:
   - title: "Em Enforcer"
-    url: http://activities.learn-the-web.algonquindesign.ca/em-enforcer/
+    url: https://activities.learn-the-web.algonquindesign.ca/em-enforcer/
     type: activity
   - title: "Making an image card"
     url: making-an-image-card

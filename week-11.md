@@ -17,7 +17,7 @@ group_activities:
 
 tasks:
   - title: "Media Query Manager"
-    url: http://activities.learn-the-web.algonquindesign.ca/media-query-manager/
+    url: https://activities.learn-the-web.algonquindesign.ca/media-query-manager/
     type: activity
   - type: blank
   - title: "Image grid"

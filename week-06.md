@@ -23,7 +23,7 @@ slides:
 
 tasks:
   - title: "Selector Surgeon"
-    url: http://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
+    url: https://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
     type: activity
   - title: "Developer tools"
     url: developer-tools

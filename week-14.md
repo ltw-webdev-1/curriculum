@@ -24,7 +24,7 @@ video_tutorials:
 
 tasks:
   - title: "Acronym Annihilator"
-    url: http://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
+    url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
     type: activity
   - type: blank
   - title: "Restaurant website check-in"
