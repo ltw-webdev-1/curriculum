@@ -27,13 +27,13 @@ slides:
     url: the-open-web
 
 tasks:
+  - type: blank
   - title: "Install all the things!"
     url: install-all-the-things
     type: lesson
   - title: "Set up your code editor"
     url: set-up-your-code-editor
     type: lesson
-  - type: blank
   - title: "Submit GitHub account"
     url: https://github.com/acgd-webdev-1/submit-github-account
     type: basic
