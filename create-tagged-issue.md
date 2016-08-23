@@ -16,6 +16,14 @@ steps:
       First go to the GitHub repository you are having problems with and press “Issues”.
 
       ![](issues.jpg)
+    notes:
+      - label: "Issues tab missing"
+        text: |
+          Sometimes the Issues tab doesn’t show when you’ve forked a repository—if that’s the case we just need to turn the Issues tab back on.
+
+          Go to the “Settings” tab, then scroll down. Under the “Features” heading there should be an “Issues” checkbox you can enable.
+
+          [Watch this video for a quick walk through.]()
 
   - title: "Create a new issue"
     before: |
