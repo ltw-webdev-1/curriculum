@@ -23,7 +23,7 @@ steps:
 
           Go to the “Settings” tab, then scroll down. Under the “Features” heading there should be an “Issues” checkbox you can enable.
 
-          [Watch this video for a quick walk through.]()
+          [Watch this video for a quick walk through.](https://www.youtube.com/watch?v=vTULg-7xycs&list=PLWjCJDeWfDdfSZOQYvsy_jJiAvx4uaJLB&index=9)
 
   - title: "Create a new issue"
     before: |

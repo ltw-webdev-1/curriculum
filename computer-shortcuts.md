@@ -15,7 +15,7 @@ steps:
   - title: "Navigating applications"
     before: |
       Watch this demonstration video showing tips and shortcuts for navigating applications.
-    video:
+    video: "q0aMS_xKOR0"
     shortcuts:
       - keys: '`⌘Q`'
         text: 'Will completely quit the application, not just close a window.'
@@ -42,7 +42,7 @@ steps:
   - title: "Navigating text"
     before: |
       Watch this demonstration video showing tips and shortcuts for navigating text.
-    video:
+    video: "yiS1XgZiAb8"
     shortcuts:
       - keys: '`⌘C`'
         text: 'Will copy some selected text.'
@@ -80,7 +80,7 @@ steps:
   - title: "Manipulating files & folders"
     before: |
       Watch this demonstration video showing tips and shortcuts for manipulating files and folders.
-    video:
+    video: "-2mz8Tp7ha0"
     shortcuts:
       - keys: '`Return`'
         text: 'Will rename a file or folder.'
@@ -101,10 +101,10 @@ steps:
       - keys: '`⌘1`, `⌘2`, `⌘3`'
         text: 'Will switch between “Icon”, “List” and “Column” views.'
 
-  - title: "Navigating your web browser"
+  - title: "Browser shortcuts"
     before: |
       Watch this demonstration video showing tips and shortcuts for navigating your web browser.
-    video:
+    video: "Yl3Dn-lhbzE"
     shortcuts:
       - keys: '`⌘L`'
         text: 'Will jump to the URL bar.'

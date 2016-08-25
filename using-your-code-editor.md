@@ -6,6 +6,8 @@ desc: "A quick overview of how to use the Atom code editor—though many of thes
 hide_show_for_marks: true
 hide_markbot: true
 
+playlist: "PLWjCJDeWfDdf1QyKEPjutjx3lBLdpRWKP"
+
 extra_tutorials:
   - title: "Keyboard shortcut cheat sheet"
     url: keyboard-shortcut-cheat-sheet
@@ -17,8 +19,6 @@ extra_tutorials:
     highlight: true
   - title: "Code character cheat sheet"
     url: code-character-cheat-sheet
-
-video: "09XV2psDAZ4"
 
 steps:
   - title: "Opening projects"
@@ -47,6 +47,18 @@ steps:
       *You can tell it’s being previewed because a tab doesn’t get created or the name on the tab doesn’t change.*
 
       **Double clicking** on a files will open that document into a new tab in Atom that you can then edit.
+
+      ### Using only the keyboard
+
+      Atom has a super useful keyboard shortcut: `⌘P`—it will pop open a little dialog listing all the files in the current project. Start typing to search through the files and hit enter when you’ve highlighted the one you want.
+
+      ![](command-p.jpg)
+
+      *Just start typing to select the file you want.*
+
+      ![](command-p-fuzzy.jpg)
+
+      *You don’t even have to type all the letters—it will “fuzzy match” the name and find the one that’s closest to what you want.*
     notes:
       - label: "Shortcut"
         text: "Pressing `⌘P`—then you can search through all the files and open one without taking your hands off the keyboard."
@@ -124,7 +136,7 @@ steps:
 
       ![](multi-line.gif)
 
-      By pressing the `` key and clicking on multiple lines you can change code on many lines at once.
+      By pressing the `⌘` key and clicking on multiple lines you can change code on many lines at once.
 
       **The great thing is that all the keyboard shortcuts you use for one line will now apply to all of those lines too!**
 
