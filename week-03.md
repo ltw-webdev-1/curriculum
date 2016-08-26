@@ -8,7 +8,6 @@ video_tutorials:
     videos: true
   - title: "GitHub Issues"
     url: github-issues
-    videos: true
 
 slides:
   - title: "Version control & GitHub"
