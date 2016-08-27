@@ -30,4 +30,5 @@ tasks:
     url: using-your-code-editor
     type: lesson
     submit: "Submit nothing."
+    graded-as: false
 ---

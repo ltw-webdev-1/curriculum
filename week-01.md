@@ -14,4 +14,5 @@ tasks:
     url: computer-shortcuts
     type: lesson
     submit: "Submit nothing."
+    graded-as: false
 ---
