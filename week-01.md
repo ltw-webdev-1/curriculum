@@ -1,6 +1,7 @@
 ---
 topic: "Introduction"
 desc: "An overview of the course this term, questions & answers, and getting used to your computer."
+clr: ""
 
 slides:
   - title: "Web Dev 1 intro"

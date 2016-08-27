@@ -1,6 +1,7 @@
 ---
 topic: "Media queries"
 desc: "Explore how media queries help us make responsive websites by allowing layout adjustments."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
   - title: "All devices setup"

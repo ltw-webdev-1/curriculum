@@ -1,6 +1,7 @@
 ---
 topic: "Position & z-index"
 desc: "Look into layering elements in a website with the position and z-index properties."
+clr: "1, 2, 3"
 
 video_tutorials:
   - title: "Position & z-index"

@@ -1,6 +1,7 @@
 ---
 topic: "Everything is a box"
 desc: "Explore how browsers display websites, looking at how everything is a box, and controlling the browser’s layout flow."
+clr: "1, 2, 3"
 
 video_tutorials:
   - title: "Everything is a box"

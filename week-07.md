@@ -1,6 +1,7 @@
 ---
 topic: "Link patterns"
 desc: "Create different patterns for links in websites including navigation highlighting, buttons and link cards."
+clr: "1, 2, 3"
 
 video_tutorials:
   - title: "Navigation"

@@ -1,6 +1,7 @@
 ---
 topic: "Restaurant website planning"
 desc: "Start planning your restaurant website by finding the patterns & the basic CSS properties you need."
+clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
   - title: "Naming & paths cheat sheet"
@@ -34,5 +35,6 @@ tasks:
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
+    due: "End of the term"
   - type: blank
 ---

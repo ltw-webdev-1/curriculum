@@ -1,6 +1,7 @@
 ---
 topic: "Restaurant website milestone"
 desc: "Have a large majority of the restaurant website coded responsively & functioning."
+clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
   - title: "Naming & paths cheat sheet"
@@ -32,7 +33,8 @@ tasks:
     submit: show
     no-solution: true
   - title: "Restaurant website prototype"
-    url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
+    url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
+    due: "End of the term"
   - type: blank
 ---

@@ -1,6 +1,7 @@
 ---
 topic: "Restaurant website completion"
 desc: "Finish the responsively restaurant website prototype by the end of the term."
+clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
   - title: "Browser testing"
@@ -36,4 +37,5 @@ tasks:
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
+    due: "End of the term"
 ---

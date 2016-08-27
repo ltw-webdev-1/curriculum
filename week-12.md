@@ -1,6 +1,7 @@
 ---
 topic: "Media queries & position"
 desc: "Use media queries and position together to make responsive banners & layouts."
+clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
   - title: "Screen sizes cheat sheet"
@@ -25,6 +26,7 @@ tasks:
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
+    due: "End of the term"
   - title: "Restaurant website plan"
     url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
     no-solution: true

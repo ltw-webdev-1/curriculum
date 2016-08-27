@@ -1,6 +1,7 @@
 ---
 topic: "CSS styling"
 desc: "Dive into CSS to learn how to change the colours and type on a website."
+clr: "1, 2, 3"
 
 video_tutorials:
   - title: "Using CSS"

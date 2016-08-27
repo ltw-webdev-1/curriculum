@@ -1,6 +1,7 @@
 ---
 topic: "Float & clear"
 desc: "Learn to create more complex layouts with the float and clear CSS properties."
+clr: "1, 2, 3"
 
 video_tutorials:
   - title: "Float & clear"

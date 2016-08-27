@@ -1,6 +1,7 @@
 ---
 topic: "Installation"
 desc: "How the web works, naming conventions, web browsers, and setting up our computers."
+clr: "1"
 
 video_tutorials:
   - title: "Web browsers"

@@ -1,6 +1,7 @@
 ---
 topic: "HTML semantics"
 desc: "Look at how to write HTML and how to choose the proper HTML tags."
+clr: "1, 2"
 
 video_tutorials:
   - title: "HTML semantics"
