@@ -29,7 +29,7 @@ tasks:
     type: activity
   - type: blank
   - title: "Restaurant website check-in"
-    url: https://github.com/acgd-webdev-1/restaurant-website#2-code-check-in
+    url: https://github.com/acgd-webdev-1/restaurant-website-code-check-in
     submit: show
     no-solution: true
   - title: "Restaurant website prototype"

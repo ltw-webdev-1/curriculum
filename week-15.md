@@ -31,7 +31,7 @@ tasks:
     url: browser-testing
     submit: show
   - title: "Request for grade"
-    url: https://github.com/acgd-webdev-1/restaurant-website#4-request-for-grade
+    url: https://github.com/acgd-webdev-1/restaurant-website-request-for-grade
     type: basic
     graded-as: false
   - title: "Restaurant website prototype"

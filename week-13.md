@@ -29,7 +29,8 @@ tasks:
     type: activity
   - type: blank
   - title: "Restaurant website plan"
-    url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
+    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
+    graded-as: false
     submit: show
     no-solution: true
   - title: "Restaurant website prototype"

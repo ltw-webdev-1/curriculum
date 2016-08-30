@@ -28,7 +28,7 @@ tasks:
     graded-as: restaurant-website
     due: "End of the term"
   - title: "Restaurant website plan"
-    url: https://github.com/acgd-webdev-1/restaurant-website#1-paper-plan
+    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
     no-solution: true
     submit: show
 ---
