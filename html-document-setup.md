@@ -3,7 +3,7 @@ layout: lesson
 title: "HTML document setup"
 desc: "Create a valid HTML document with all the right starter code."
 
-# video: "4bOwe1_gfS8"
+video: "DDMgQc6lX8o"
 
 extra_tutorials:
   - title: "HTML semantics"

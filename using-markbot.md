@@ -3,7 +3,7 @@ layout: lesson
 title: "Using Markbot"
 desc: "Use Markbot to check that your code follows all the requirements and submit it to Canvas when it passes."
 
-# video: "e3KbxNpcsdo"
+video: "RXLtlZUfZJE"
 hide_show_for_marks: true
 hide_markbot: true
 

@@ -3,8 +3,6 @@ layout: lesson
 title: "Cards"
 desc: "Dig into the browser’s layout models to make a simple, flexible informational design."
 
-video: "8mhyIpRu5hI"
-
 extra_tutorials:
   - title: "Everything is a box"
     url: box-model
