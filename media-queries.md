@@ -86,7 +86,7 @@ slides:
       **Do not start on large screens first—it doubles the amount of CSS you need to write!**
 
   - type: interactive
-    resizeable: true
+    resizable: true
     html: |
       <h1>Media queries</h1>
     css: |
@@ -107,7 +107,7 @@ slides:
       }
 
   - type: interactive
-    resizeable: true
+    resizable: true
     html: |
       <ul>
         <li>Pteranodon</li>
