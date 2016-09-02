@@ -83,7 +83,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      [Installing & using GitHub ➔](/topics/installing-and-using-github/)
-      [Hosting with GitHub Pages ➔](/topics/github-pages/)
-      [GitHub Issues ➔](/topics/github-issues/)
+      - [Installing & using GitHub ➔](/topics/installing-and-using-github/)
+      - [Hosting with GitHub Pages ➔](/topics/github-pages/)
+      - [GitHub Issues ➔](/topics/github-issues/)
 ---

@@ -89,6 +89,6 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      [Position & z-index ➔](/topics/position-zindex/)
+      - [Position & z-index ➔](/topics/position-zindex/)
 
 ---
