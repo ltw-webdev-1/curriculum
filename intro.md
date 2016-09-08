@@ -16,15 +16,6 @@ slides:
       [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
 
   - content: |
-      ## TAs
-
-      *Available in class and during labs*
-
-      - Hannah
-      - Maja
-      - Matthew
-
-  - content: |
       ## What we’re learning
 
       - HTML + CSS basics
@@ -42,11 +33,13 @@ slides:
       - Watch the videos before class
 
   - content: |
-      ## Office hours
-      *@ J104*
+      ## TAs
 
-      - Mon. 11–1
-      - Fri. 12–2
+      *Available in class and during labs*
+
+      - Hannah
+      - Maja
+      - Matthew
 
   - content: |
       ## Labs
