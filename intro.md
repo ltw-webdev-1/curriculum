@@ -20,9 +20,9 @@ slides:
 
       *Available in class and during labs*
 
-      - Ashley
-      - Rob
-      - Len
+      - Hannah
+      - Maja
+      - Matthew
 
   - content: |
       ## What we’re learning
