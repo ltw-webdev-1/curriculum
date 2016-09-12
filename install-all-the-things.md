@@ -106,7 +106,7 @@ steps:
     before: |
       Normally you’d have to download IE/11 from [Microsoft directly](http://modern.ie)—but I’ve gone ahead and done that because it’s faster over the school network.
 
-      1. Go to the Graphic Design Dropbox: `afp://dropbox.algonquincollege.com`
+      1. Go to the Graphic Design Dropbox: `smb://dropbox.ottawa.ad.algonquincollege.com`
       2. Go to my folder.
       3. Look for a folder called “MS Browsers”.
       4. Drag the two files to your computer.
