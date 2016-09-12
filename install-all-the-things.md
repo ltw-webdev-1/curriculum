@@ -16,6 +16,11 @@ steps:
       1. Go to `Finder > Preferences`.
       2. Go to “Advanced”.
       3. Make sure “Show all filename extensions” is checked.
+    notes:
+      - label: "Windows"
+        text: |
+          If you’re a Windows user, this tutorial isn’t for you.
+          <br>[**☛ Go to the Windows installation tutorial.**](/courses/web-dev-1/install-all-the-things-windows/)
 
   - title: "Configure keyboard preferences"
     before: |
@@ -107,9 +112,12 @@ steps:
       Normally you’d have to download IE/11 from [Microsoft directly](http://modern.ie)—but I’ve gone ahead and done that because it’s faster over the school network.
 
       1. Go to the Graphic Design Dropbox: `smb://dropbox.ottawa.ad.algonquincollege.com`
-      2. Go to my folder.
+        <br>*To connect: in Finder, go to `Go > Connect to Server…`*
+        <br>*The username and password is your Algonquin Wi-Fi password.*
+      2. Go to my folder
+        <br>`Faculty Folders > Thomas Bradley > Public`
       3. Look for a folder called “MS Browsers”.
-      4. Drag the two files to your computer.
+      4. Drag the two files to your computer—**do not double click**.
       5. Unzip them both.
         *(If you get a `cpgz` file, try right clicking on the original `zip` and pressing `Open With > The Unarchiver`.)*
       6. You’ll be presented with an orange “ova” box icon—double click it.
@@ -176,18 +184,6 @@ steps:
 
       ![](xcode-select-install.jpg)
 
-      ### Windows installation details
-
-      *On Microsoft Windows we need to install Git directly from the website.*
-
-      **Go to [Git’s download page](https://git-scm.com/download/win) and download the Windows version.**
-
-      Install Git onto your computer. One of the setup screens has options we have to change.
-
-      *On the “Adjusting your PATH environment” screen, switch to “Use Git from the Windows Command Prompt”.*
-
-      ![](windows-git.jpg)
-
   - title: "Install the Java Developer Kit"
     before: |
       We need to install the JDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
@@ -217,6 +213,8 @@ steps:
       5. Delete the downloaded file.
 
       **Open up Markbot and sign in with your GitHub username.**
+
+      *If Markbot gives you an “Unidentified developer” security warning—instead of double-clicking, right click and press `Open`*
 
       ![](markbot.jpg)
 ---

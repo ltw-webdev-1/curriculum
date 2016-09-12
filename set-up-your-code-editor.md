@@ -70,8 +70,6 @@ steps:
 
       Inside preferences to to the “Packages” tab to see all the ones already installed.
 
-      ![](packages.jpg)
-
       Go to the “Install” tab if you want to add new packages to your editor.
 
       On the install screen you can search for packages and install them into Atom.
@@ -87,10 +85,10 @@ steps:
       - `color-picker` — a pop-up color picker
       - `editorconfig` — for matching other designers’ coding standards
       - `emmet` — quick way to write HTML, using CSS selectors
-      - `advanced-open-file` — opens up a quick new file input at the bottom of the screen, ⌘⌥N
+      - `advanced-open-file` — opens up a quick new file input at the bottom of the screen, ⌘⌥O
       - `file-icons` — shows icons for each file type in the sidebar
       - `highlight-line` — draws a background behind the line you’re typing on
-      - `linter` — finds and points out bugs
+      - `linter` — finds and points out bugs<br>*try searching “linter base package” if it doesn’t show up*
       - `minimap` — adds an overview column of your code like Sublime Text
       - `open-in-browser` — pressing ⌘⌥M will pop open the HTML file in the browser
 
@@ -130,6 +128,7 @@ steps:
       ![](keymap-menu.jpg)
 
     code_file: "keymap.cson"
+    code_can_copy: true
     code: |
       '.pane .editor:not(.mini)':
         'tab': 'snippets:expand'
