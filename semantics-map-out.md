@@ -17,6 +17,8 @@ slides:
       3. Print “content.pdf”
       4. Get out a pencil for marking up the paper
 
+      **Don’t look ahead—the answers are in here!**
+
   - type: big-text
     content: |
       ## 1 Content elements
