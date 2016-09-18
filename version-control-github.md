@@ -34,22 +34,10 @@ slides:
       ## Process
 
       1. Make the repository
-      2. Set it up for hosting
-      3. Clone to your computer
-      4. Write code, test & make commits
-      5. Sync to GitHub
-      6. See live website
-
-  - content: |
-      ## Fork & pull request
-
-      *For the automatic marking system*
-
-      1. Fork my repository into your account
-      2. Commit & sync
-      3. Create pull request
-      4. See your automated tests pass/fail
-      5. When pass, automatically submitted and graded
+      2. Clone to your computer
+      3. Write code, test & make commits
+      4. Sync to GitHub
+      5. See live website
 
   - content: |
       ## Commit to save state
@@ -61,15 +49,6 @@ slides:
       - It’s a habit you’ll have to form
 
   - content: |
-      ## Good commit messages
-
-      “Created the basic index.html”
-
-      “Added the navigation”
-
-      “Fixed a bug in the footer”
-
-  - content: |
       ## Bad commit messages
 
       “asdf”
@@ -79,6 +58,26 @@ slides:
       “Commit”
 
       “Fix”
+
+  - content: |
+      ## Good commit messages
+
+      “Created the basic index.html”
+
+      “Added the navigation”
+
+      “Fixed a bug in the footer”
+
+  - content: |
+      ## Fork + Markbot
+
+      *For the automatic marking system*
+
+      1. Fork my repository into your account
+      2. Commit & sync
+      3. Drop the folder into Markbot
+      4. See your automated tests pass/fail
+      5. When they pass, submit it to Canvas
 
   - content: |
       ## Videos & tutorials
