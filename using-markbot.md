@@ -102,7 +102,7 @@ steps:
 
   - title: "Fix problems, Markbot, commit"
     before: |
-      Open up your code again and change `index.html` to say “Hello World!”.
+      Open up your code again and change the content inside `index.html` to say “Hello World!”.
 
       1. Save
       2. Refresh browser
