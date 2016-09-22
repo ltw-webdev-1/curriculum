@@ -30,7 +30,7 @@ tasks:
   - title: "Navigation patterns"
     url: navigation-patterns
     type: lesson
-    submit: "Submit & show nothing."
+    submit: "Submit nothing."
   - title: "Navigation highlight"
     url: https://github.com/acgd-webdev-1/navigation-highlight
   - title: "Button styles"

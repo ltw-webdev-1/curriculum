@@ -22,7 +22,7 @@ tasks:
     type: activity
   - title: "Learning float & clear"
     url: learning-float-and-clear
-    submit: "Submit & show nothing."
+    submit: "Submit nothing."
     type: lesson
   - title: "Header icons"
     url: https://github.com/acgd-webdev-1/header-icons
