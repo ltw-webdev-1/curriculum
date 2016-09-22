@@ -47,14 +47,14 @@ slides:
       ## 3 List elements
 
       `<ul>` — Unordered list
-       └ `<li>` — Each individual item inside
+      <br>`  <li>` — Each individual item inside
 
       `<ol>` — Ordered list
-      └ `<li>` — Each individual item inside
+      <br>`  <li>` — Each individual item inside
 
       `<dl>` — Description list
-      └ `<dt>` — The item title
-      └ `<dd>` — The item description
+      <br>`  <dt>` — The item title
+      <br>`  <dd>` — The item description
 
   - type: image
     image: lists.jpg
@@ -64,13 +64,13 @@ slides:
       ## 4 Image elements
 
       `<img>`
-      — A visual image
+      <br>— A visual image
 
       `<figure>`
-      — An image with a caption, wraps an image
+      <br>— An image with a caption, wraps an image
 
       `<figcaption>`
-      — The descriptive text inside a figure
+      <br>— The descriptive text inside a figure
 
   - type: image
     image: images.jpg
@@ -79,14 +79,11 @@ slides:
     content: |
       ## 5 Quote elements
 
-      `<q>`
-      — Small quotes inside other text
+      `<q>` — Small quotes inside other text
 
-      `<blockquote>`
-      — Large, stand-alone quotes
+      `<blockquote>` — Large, stand-alone quotes
 
-      `<cite>`
-      — The source of the quote
+      `<cite>` — The source of the quote
 
   - type: image
     image: quotes.jpg
@@ -120,11 +117,11 @@ slides:
       ## 8 Document elements
 
       `<header>` — The most important information
-      `<nav>` — The navigation for the page
-      `<main>` — The primary content
-      `<article>` — A chunk of unique content
-      `<aside>` — Secondary information
-      `<footer>` — The least important information
+      <br>`<nav>` — The navigation for the page
+      <br>`<main>` — The primary content
+      <br>`<article>` — A chunk of unique content
+      <br>`<aside>` — Secondary information
+      <br>`<footer>` — The least important information
 
   - type: image
     image: document.jpg
