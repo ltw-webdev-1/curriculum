@@ -30,6 +30,6 @@ tasks:
   - title: "Using your code editor"
     url: using-your-code-editor
     type: lesson
-    submit: "Submit nothing."
+    submit: "Make a GitHub Issue."
     graded-as: false
 ---
