@@ -3,6 +3,8 @@ layout: lesson
 title: "Developer tools"
 desc: "Learn about the developer tools in browsers and use them to modify an existing website."
 
+hide_markbot: true
+
 extra_tutorials:
   - title: "Browser developer tools"
     url: browser-developer-tools

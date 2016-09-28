@@ -15,10 +15,72 @@ slides:
 
       The browser uses a flow to lay out the page—like how Word or Pages works
 
-  - content: |
-      ## Flow control: space & `display`
+  - type: interactive
+    resizable: true
+    html: |
+      <!--
+        # Flow control
 
-      <video src="/large-assets/flow.m4v" loop autoplay></video>
+        Boxes are controlled by:
+
+        - The available space
+        - The display property
+      -->
+    html_hidden: |
+      <p class="inline-wrap">
+        <span class="">Inline</span>
+        <span class="">Inline</span>
+        <span class="">Inline</span>
+        <span class="">Inline</span>
+        <span class="with-width">Inline with width</span>
+      </p>
+      <div class="">Block</div>
+      <span class="ib">Inline-block</span>
+      <span class="ib">Inline-block</span>
+      <span class="ib">Inline-block</span>
+      <div class="with-width margin-fixer">Block with width</div>
+      <div class="with-width-2">Block with width</div>
+      <span class="ib with-width">Inline-block with width</span>
+      <span class="ib">Inline-block</span>
+    css_hidden: |
+      html {
+        box-sizing: border-box;
+        font-size: 1rem
+      }
+      *, *::before, *::after {
+        box-sizing: inherit;
+      }
+      body {
+        font-family: "Source Code Pro", monospace;
+      }
+      span {
+        border: 3px solid #c883d4;
+      }
+      .inline-wrap {
+        margin: 0;
+        padding: .4em 0;
+      }
+      .ib {
+        display: inline-block;
+        padding: 1em;
+        margin: .2em 0;
+        text-align: center;
+      }
+      div {
+        padding: 1em;
+        margin: .2em 0;
+        border: 3px solid #672373;
+        text-align: center;
+      }
+      .with-width {
+        width: 50%;
+      }
+      .with-width-2 {
+        width: 40%;
+      }
+      .margin-fixer {
+        margin-bottom: .4em;
+      }
 
   - type: code
     css: |
