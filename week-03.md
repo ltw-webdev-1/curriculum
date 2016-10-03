@@ -26,10 +26,10 @@ tasks:
   - title: "Create tagged issue"
     url: create-tagged-issue
     type: lesson
-    submit: "Submit nothing."
+    submit: "Make a GitHub Issue."
   - title: "Using your code editor"
     url: using-your-code-editor
     type: lesson
-    submit: "Make a GitHub Issue."
+    submit: "Submit nothing."
     graded-as: false
 ---
