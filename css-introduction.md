@@ -85,7 +85,7 @@ slides:
         font-style: italic;             /* Italic or normal */
         font-weight: bold;              /* Bold, normal, or number like 200 */
         line-height: 1.5;               /* Multiplier against the size */
-        list-style-type: square;        /* Bullets: circle, decimal, lower-alpha, lower-greek, etc. */
+        list-style-type: square;        /* Bullets: none, circle, decimal, lower-alpha, etc. */
         text-align: center;             /* Left, right, center, justify */
         text-decoration: underline;     /* Underline or none */
         text-transform: uppercase;      /* Uppercase, lowercase */
