@@ -82,6 +82,12 @@ steps:
 
       ![](css-snippet.gif)
 
+      **Don’t forget to fill in the `href` with the path to your CSS file!** It should look like this:
+
+      ```html
+      <link href="css/main.css" rel="stylesheet">
+      ```
+
       ### Basic styling
 
       *Inside `main.css`:*
