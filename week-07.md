@@ -35,6 +35,6 @@ tasks:
     url: https://github.com/acgd-webdev-1/navigation-highlight
   - title: "Button styles"
     url: https://github.com/acgd-webdev-1/button-styles
-  - title: "Link cards"
-    url: https://github.com/acgd-webdev-1/link-cards
+  - title: "Link card"
+    url: https://github.com/acgd-webdev-1/link-card
 ---
