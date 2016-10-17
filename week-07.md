@@ -7,7 +7,6 @@ video_tutorials:
   - title: "Navigation"
     url: navigation
     notes: "Inline-list, multiple pages, highlighting current"
-    videos: true
   - title: "Using paths & folders"
     url: paths-folders
   - title: "Naming & paths cheat sheet"

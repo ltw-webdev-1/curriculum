@@ -6,7 +6,6 @@ clr: "1, 2, 3"
 video_tutorials:
   - title: "Float & clear"
     url: float-clear
-    videos: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
   - title: "Navigation"
