@@ -16,12 +16,6 @@ slides:
   - title: "Link patterns"
     url: link-patterns
 
-group_activities:
-  - title: "Sketching a website"
-    url: sketching-a-website
-    type: pencil
-    pair: true
-
 tasks:
   - title: "Display Dominator"
     url: https://activities.learn-the-web.algonquindesign.ca/display-dominator/

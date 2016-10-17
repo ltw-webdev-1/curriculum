@@ -22,6 +22,12 @@ slides:
   - title: "Boxes & flows"
     url: boxes-and-flows
 
+group_activities:
+  - title: "Sketching a website"
+    url: sketching-a-website
+    type: pencil
+    pair: true
+
 tasks:
   - title: "Selector Surgeon"
     url: https://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
