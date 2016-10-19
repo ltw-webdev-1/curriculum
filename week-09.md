@@ -6,7 +6,7 @@ clr: "1, 2, 3"
 video_tutorials:
   - title: "Position & z-index"
     url: position-zindex
-    videos: true
+    # videos: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
 

@@ -6,10 +6,10 @@ clr: "1, 2, 3, 4"
 video_tutorials:
   - title: "All devices setup"
     url: all-devices-setup
-    videos: true
+    # videos: true
   - title: "Media queries"
     url: media-queries
-    videos: true
+    # videos: true
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
     highlight: true
