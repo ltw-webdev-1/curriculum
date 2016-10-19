@@ -1,6 +1,6 @@
 ---
-topic: "Restaurant website milestone"
-desc: "Have a large majority of the restaurant website coded responsively & functioning."
+topic: "Restaurant website planning"
+desc: "Start planning your restaurant website by finding the patterns & the basic CSS properties you need."
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
@@ -24,12 +24,13 @@ video_tutorials:
     url: css-layout-cheat-sheet
 
 tasks:
-  - title: "Acronym Annihilator"
-    url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
+  - title: "Validation Verifier"
+    url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
     type: activity
   - type: blank
-  - title: "Restaurant website check-in"
-    url: https://github.com/acgd-webdev-1/restaurant-website-code-check-in
+  - title: "Restaurant website plan"
+    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
+    graded-as: false
     submit: show
     no-solution: true
   - title: "Restaurant website prototype"

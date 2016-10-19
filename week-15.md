@@ -26,6 +26,9 @@ tasks:
   - title: "Definition Devastator"
     url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
     type: activity
+  # - title: "Acronym Annihilator"
+    # url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
+    # type: activity
   - type: blank
   - title: "Browser testing"
     url: browser-testing

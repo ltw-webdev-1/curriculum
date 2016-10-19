@@ -1,7 +1,7 @@
 ---
-topic: "Media queries & position"
-desc: "Use media queries and position together to make responsive banners & layouts."
-clr: "1, 2, 3, 4, 5"
+topic: "Media queries & float"
+desc: "Use media queries and float together to make responsive layouts."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
   - title: "Screen sizes cheat sheet"
@@ -11,24 +11,20 @@ video_tutorials:
     url: media-queries-layout
 
 group_activities:
-  - title: "Finding patterns"
-    url: finding-patterns
+  - title: "Paper plans"
+    url: paper-plans
     type: pencil
     pair: true
 
 tasks:
-  - title: "Hex Hacker"
-    url: https://activities.learn-the-web.algonquindesign.ca/hex-hacker/
+  - title: "Media Query Manager"
+    url: https://activities.learn-the-web.algonquindesign.ca/media-query-manager/
     type: activity
   - type: blank
-  - title: "Responsive image & caption"
-    url: https://github.com/acgd-webdev-1/responsive-image-caption
-  - title: "Restaurant website prototype"
-    url: https://github.com/acgd-webdev-1/restaurant-website
-    graded-as: restaurant-website
-    due: "End of the term"
-  - title: "Restaurant website plan"
-    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
-    no-solution: true
-    submit: show
+  - title: "Image grid"
+    url: https://github.com/acgd-webdev-1/image-grid
+  - title: "Responsive header"
+    url: https://github.com/acgd-webdev-1/responsive-header
+  - title: "Responsive section"
+    url: https://github.com/acgd-webdev-1/responsive-section
 ---

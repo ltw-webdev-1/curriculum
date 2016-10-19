@@ -1,30 +1,39 @@
 ---
-topic: "Media queries & float"
-desc: "Use media queries and float together to make responsive layouts."
+topic: "Media queries"
+desc: "Explore how media queries help us make responsive websites by allowing layout adjustments."
 clr: "1, 2, 3, 4"
 
 video_tutorials:
+  - title: "All devices setup"
+    url: all-devices-setup
+    # videos: true
+  - title: "Media queries"
+    url: media-queries
+    # videos: true
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
     highlight: true
-  - title: "Media queries layout"
-    url: media-queries-layout
+
+slides:
+  - title: "Media queries"
+    url: media-queries
 
 group_activities:
-  - title: "Paper plans"
-    url: paper-plans
+  - title: "A web of screen sizes"
+    url: a-web-of-screen-sizes
     type: pencil
-    pair: true
 
 tasks:
-  - title: "Media Query Manager"
-    url: https://activities.learn-the-web.algonquindesign.ca/media-query-manager/
+  - title: "Dev Tool Dynamo"
+    url: http://thomasjbradley.github.io/dev-tool-dynamo/
     type: activity
-  - type: blank
-  - title: "Image grid"
-    url: https://github.com/acgd-webdev-1/image-grid
-  - title: "Responsive header"
-    url: https://github.com/acgd-webdev-1/responsive-header
-  - title: "Responsive section"
-    url: https://github.com/acgd-webdev-1/responsive-section
+  - title: "Responsive navigation"
+    url: responsive-navigation
+    type: lesson
+  - title: "Hide & show responsively"
+    url: https://github.com/acgd-webdev-1/hide-show-responsively
+  - title: "Responsive typography"
+    url: https://github.com/acgd-webdev-1/responsive-typography
+  - title: "Responsive icon cards"
+    url: https://github.com/acgd-webdev-1/responsive-icon-cards
 ---

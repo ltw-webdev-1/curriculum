@@ -1,39 +1,30 @@
 ---
-topic: "Media queries"
-desc: "Explore how media queries help us make responsive websites by allowing layout adjustments."
-clr: "1, 2, 3, 4"
+topic: "Position & z-index"
+desc: "Look into layering elements in a website with the position and z-index properties."
+clr: "1, 2, 3"
 
 video_tutorials:
-  - title: "All devices setup"
-    url: all-devices-setup
+  - title: "Position & z-index"
+    url: position-zindex
     # videos: true
-  - title: "Media queries"
-    url: media-queries
-    # videos: true
-  - title: "Screen sizes cheat sheet"
-    url: screen-sizes-cheat-sheet
-    highlight: true
+  - title: "CSS layout cheat sheet"
+    url: css-layout-cheat-sheet
 
 slides:
-  - title: "Media queries"
-    url: media-queries
-
-group_activities:
-  - title: "A web of screen sizes"
-    url: a-web-of-screen-sizes
-    type: pencil
+  - title: "Position & z-index"
+    url: position-zindex
 
 tasks:
-  - title: "Dev Tool Dynamo"
-    url: http://thomasjbradley.github.io/dev-tool-dynamo/
+  - title: "Em Enforcer"
+    url: https://activities.learn-the-web.algonquindesign.ca/em-enforcer/
     type: activity
-  - title: "Responsive navigation"
-    url: responsive-navigation
+  - title: "Making an image card"
+    url: making-an-image-card
     type: lesson
-  - title: "Hide & show responsively"
-    url: https://github.com/acgd-webdev-1/hide-show-responsively
-  - title: "Responsive typography"
-    url: https://github.com/acgd-webdev-1/responsive-typography
-  - title: "Responsive icon cards"
-    url: https://github.com/acgd-webdev-1/responsive-icon-cards
+  - title: "Hero banner"
+    url: https://github.com/acgd-webdev-1/hero-banner
+  - title: "Call to action banner"
+    url: https://github.com/acgd-webdev-1/call-to-action-banner
+  - title: "Exploding robot head"
+    url: https://github.com/acgd-webdev-1/exploding-robot-head
 ---

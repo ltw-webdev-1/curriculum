@@ -1,41 +1,34 @@
 ---
-topic: "Restaurant website planning"
-desc: "Start planning your restaurant website by finding the patterns & the basic CSS properties you need."
+topic: "Media queries & position"
+desc: "Use media queries and position together to make responsive banners & layouts."
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
-  - title: "Naming & paths cheat sheet"
-    url: naming-paths-cheat-sheet
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
     highlight: true
-  - title: "HTML semantics cheat sheet"
-    url: html-semantics-cheat-sheet
-  - title: "HTML semantics checklist"
-    url: html-semantics-checklist
-    highlight: true
-  - title: "Web typography cheat sheet"
-    url: web-typography-cheat-sheet
-    highlight: true
-  - title: "CSS selectors & units cheat sheet"
-    url: css-selectors-units-cheat-sheet
-    highlight: true
-  - title: "CSS layout cheat sheet"
-    url: css-layout-cheat-sheet
+  - title: "Media queries layout"
+    url: media-queries-layout
+
+group_activities:
+  - title: "Finding patterns"
+    url: finding-patterns
+    type: pencil
+    pair: true
 
 tasks:
-  - title: "Validation Verifier"
-    url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
+  - title: "Hex Hacker"
+    url: https://activities.learn-the-web.algonquindesign.ca/hex-hacker/
     type: activity
   - type: blank
-  - title: "Restaurant website plan"
-    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
-    graded-as: false
-    submit: show
-    no-solution: true
+  - title: "Responsive image & caption"
+    url: https://github.com/acgd-webdev-1/responsive-image-caption
   - title: "Restaurant website prototype"
     url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
     due: "End of the term"
-  - type: blank
+  - title: "Restaurant website plan"
+    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
+    no-solution: true
+    submit: show
 ---
