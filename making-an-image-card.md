@@ -3,6 +3,17 @@ layout: lesson
 title: "Making an image card"
 desc: "Use CSS position absolute and relative to make an image card."
 
+extra_tutorials:
+  - title: "Position & z-index"
+    url: position-zindex
+  - title: "Position & z-index slide deck"
+    url: /courses/web-dev-1/position-zindex/
+
+markbot_notes: |
+  *Ignore the “the first heading is an `<h2>`…” error message—but fix everything else.*
+
+  I feel like these cards are part of a larger website so the `<h1>` would probably be somewhere else on the page.
+
 goal:
   before: "We’re going to look at how to make the image card pattern, concentrating on position absolute and relative."
   notes:
@@ -10,12 +21,6 @@ goal:
       text: "The two important bits are the “Plant-eater” label and the “Stegosaurus” heading and how they’re on top of the image."
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
-
-extra_tutorials:
-  - title: "Position & z-index"
-    url: position-zindex
-  - title: "Position & z-index slide deck"
-    url: /courses/web-dev-1/position-zindex/
 
 steps:
   - title: "Set up project"

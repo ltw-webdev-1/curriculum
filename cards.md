@@ -11,6 +11,11 @@ extra_tutorials:
   - title: "Browser developer tools"
     url: browser-developer-tools
 
+markbot_notes: |
+  *Ignore the “there are no headings in this document” error message—but fix everything else.*
+
+  I feel like these cards are part of a larger website so the `<h1>` would probably be somewhere else on the page.
+
 goal:
   before: "We’re going to walk through writing some HTML and CSS to generate an informational layout."
   notes:
@@ -183,7 +188,7 @@ steps:
 
       .cards li {
         display: inline-block;
-        margin: 0 .5em 1em .5em;
+        margin: 0 .5em 1em;
         max-width: 20em;
         padding: 1em;
         background-color: #fff;
@@ -306,7 +311,7 @@ steps:
 
       .cards img {
         display: block;
-        margin: 0 auto 1rem auto;
+        margin: 0 auto 1rem;
       }
 
       .cards strong {
