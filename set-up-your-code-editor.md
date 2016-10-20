@@ -45,7 +45,7 @@ steps:
       First let’s double-check some important settings—in the menu go to:
 
       ```
-      Atom > Preferences
+      Atom > Preferences…
       ```
 
       ![](preferences.jpg)
@@ -103,7 +103,7 @@ steps:
       From Atom, go in the menu to:
 
       ```
-      Atom > Snippets
+      Atom > Snippets…
       ```
 
       ![](snippets-menu.jpg)
@@ -122,7 +122,7 @@ steps:
       Go to your keymap file:
 
       ```
-      Atom > Keymap
+      Atom > Keymap…
       ```
 
       ![](keymap-menu.jpg)
