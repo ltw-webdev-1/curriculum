@@ -24,6 +24,7 @@ tasks:
     url: navigation-patterns
     type: lesson
     submit: "Submit nothing."
+    graded-as: false
   - title: "Navigation highlight"
     url: https://github.com/acgd-webdev-1/navigation-highlight
   - title: "Button styles"

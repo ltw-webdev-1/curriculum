@@ -23,6 +23,7 @@ tasks:
     url: learning-float-and-clear
     submit: "Submit nothing."
     type: lesson
+    graded-as: false
   - title: "Header icons"
     url: https://github.com/acgd-webdev-1/header-icons
   - title: "Typographic insets"
