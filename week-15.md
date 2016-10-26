@@ -26,9 +26,6 @@ tasks:
   - title: "Definition Devastator"
     url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
     type: activity
-  # - title: "Acronym Annihilator"
-    # url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
-    # type: activity
   - type: blank
   - title: "Browser testing"
     url: browser-testing
@@ -41,4 +38,7 @@ tasks:
     url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
     due: "End of the term"
+  - title: "Acronym Annihilator"
+    url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
+    type: activity
 ---
