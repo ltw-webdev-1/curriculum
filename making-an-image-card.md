@@ -141,7 +141,7 @@ steps:
       .card {
         overflow: hidden;
         border: 1px solid #ccc;
-        border-radius: 0 6px 6px 6px;
+        border-radius: 0 6px 6px;
       }
 
       .card-body {
