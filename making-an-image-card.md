@@ -112,7 +112,6 @@ steps:
 
       </body>
       </html>
-      ⋮
     lines:
       - num: "2-3"
         fade: true
