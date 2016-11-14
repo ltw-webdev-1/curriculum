@@ -21,8 +21,8 @@ slides:
       - [x] iMac 5K (5120 x 2880)
       - [ ] iPhone 4
       - [ ] iPhone 5
-      - [ ] iPhone 6
-      - [ ] iPhone 6 Plus
+      - [ ] iPhone 7
+      - [ ] iPhone 7 Plus
       - [ ] iPad Mini
       - [ ] iPad
       - [ ] iPad Pro
@@ -37,29 +37,24 @@ slides:
       - [ ] HDTV
       - [ ] Sony Ericsson Xperia
       - [ ] Blackberry Classic
-      - [ ] Blackberry Leap
       - [ ] Blackberry Passport
       - [ ] Microsoft Surface
+      - [ ] Microsoft Surface Studio
       - [ ] Microsoft Surface Pro
-      - [ ] Samsung Galaxy Tab S (10.5ʺ)
-      - [ ] Samsung Galaxy Note 4
-      - [ ] Samsung Galaxy S6
-      - [ ] Samsung Galaxy S3 Mini
-      - [ ] Samsung Galaxy Core
+      - [ ] Samsung Galaxy Tab
+      - [ ] Samsung Galaxy S*
+      - [ ] Microsoft Lumia
 
     col3: |
       - [ ] Kindle Paperwhite
       - [ ] Kindle Fire
-      - [ ] Palm Pre
-      - [ ] Google Nexus 5
-      - [ ] Google Nexus 6
-      - [ ] Google Nexus 9
+      - [ ] Google Pixel
+      - [ ] Google Nexus
       - [ ] Nokia 5800
-      - [ ] Microsoft Lumia 1520
-      - [ ] Microsoft Lumia 430
       - [ ] Motorola DROID
+      - [ ] Palm Pre
       - [ ] Nintendo DSi
       - [ ] Nintendo 3DS
-      - [ ] Sony PS Vista
+      - [ ] Sony PS Vita
 
 ---
