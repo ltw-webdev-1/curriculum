@@ -28,14 +28,15 @@ tasks:
     url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
     type: activity
   - type: blank
-  - title: "Restaurant website plan"
-    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
+  - title: "Confectionery website check-in"
+    # url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
     graded-as: false
     submit: show
     no-solution: true
-  - title: "Restaurant website prototype"
-    url: https://github.com/acgd-webdev-1/restaurant-website
-    graded-as: restaurant-website
+  - title: "Confectionery website prototype"
+    # url: https://github.com/acgd-webdev-1/restaurant-website
+    graded-as: confectionery-website
     due: "End of the term"
+    no-solution: true
   - type: blank
 ---

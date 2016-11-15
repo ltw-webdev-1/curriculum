@@ -34,10 +34,11 @@ tasks:
     url: "https://github.com/acgd-webdev-1/request-for-grade"
     type: basic
     graded-as: false
-  - title: "Restaurant website prototype"
-    url: https://github.com/acgd-webdev-1/restaurant-website
+  - title: "Confectionary website prototype"
+    # url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: restaurant-website
     due: "End of the term"
+    no-solution: true
   - title: "Acronym Annihilator"
     url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
     type: activity

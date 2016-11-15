@@ -23,12 +23,9 @@ tasks:
   - type: blank
   - title: "Responsive image & caption"
     url: https://github.com/acgd-webdev-1/responsive-image-caption
-  - title: "Restaurant website prototype"
-    url: https://github.com/acgd-webdev-1/restaurant-website
-    graded-as: restaurant-website
+  - title: "Confectionary website prototype"
+    # url: https://github.com/acgd-webdev-1/restaurant-website
+    graded-as: confectionery-website
     due: "End of the term"
-  - title: "Restaurant website plan"
-    url: https://github.com/acgd-webdev-1/restaurant-website-paper-plan
     no-solution: true
-    submit: show
 ---
