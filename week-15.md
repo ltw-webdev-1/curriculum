@@ -36,7 +36,7 @@ tasks:
     graded-as: false
   - title: "Confectionary website prototype"
     # url: https://github.com/acgd-webdev-1/restaurant-website
-    graded-as: restaurant-website
+    graded-as: confectionary-website
     due: "End of the term"
     no-solution: true
   - title: "Acronym Annihilator"
