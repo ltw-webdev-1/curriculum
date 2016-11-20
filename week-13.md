@@ -23,7 +23,7 @@ tasks:
   - type: blank
   - title: "Responsive image & caption"
     url: https://github.com/acgd-webdev-1/responsive-image-caption
-  - title: "Confectionary website prototype"
+  - title: "Confectionery website prototype"
     # url: https://github.com/acgd-webdev-1/restaurant-website
     graded-as: confectionery-website
     due: "End of the term"
