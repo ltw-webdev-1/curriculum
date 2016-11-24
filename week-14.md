@@ -23,6 +23,11 @@ video_tutorials:
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
 
+group_activities:
+  - title: "Course feedback"
+    url: https://www.algonquincollege.com/studentfeedback/
+    type: star
+
 tasks:
   - title: "Validation Verifier"
     url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/

@@ -17,11 +17,6 @@ slides:
   - title: "Preview next term"
     url: preview-next-term
 
-group_activities:
-  - title: "Course feedback"
-    url: https://www.algonquincollege.com/studentfeedback/
-    type: star
-
 tasks:
   - title: "Definition Devastator"
     url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
