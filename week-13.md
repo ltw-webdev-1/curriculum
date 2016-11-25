@@ -24,7 +24,7 @@ tasks:
   - title: "Responsive image & caption"
     url: https://github.com/acgd-webdev-1/responsive-image-caption
   - title: "Confectionery website prototype"
-    # url: https://github.com/acgd-webdev-1/restaurant-website
+    url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
     due: "End of the term"
     no-solution: true
