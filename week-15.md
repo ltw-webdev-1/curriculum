@@ -27,12 +27,13 @@ tasks:
     submit: show
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-1/request-for-grade"
+    due: "Midnight, last day of term"
     type: basic
     graded-as: false
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
+    due: "Midnight, last day of term"
     graded-as: confectionery-website
-    due: "End of the term"
     no-solution: true
   - title: "Acronym Annihilator"
     url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
