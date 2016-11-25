@@ -9,18 +9,14 @@ slides:
       **Preview next term**
 
   - content: |
-      ## Modularity & systems
+      ## What we’ll learn
 
-      - Grid frameworks
-      - Type systems
-      - Modular code
-
-  - content: |
-      ## Visual design
-
-      - Exporting & preparing images
-      - Performance
-      - Visual design for the web
+      - **Modularity & systems**
+        <br>— grids, type systems, reusable code
+      - **New HTML**
+        <br>— tables, forms
+      - **Accessibility**
+        <br>— making our website work for everybody
 
   - content: |
       ## Starting where we left
@@ -29,23 +25,6 @@ slides:
       - *It’s up to you to maintain your skills*
 
   - content: |
-      **I will not slow down or change the material because you were too lazy to practice over the summer**
-
-  - content: |
-      ## Ideas for practice
-
-      - Watch the videos you didn’t already<br>(or watch them again)
-      - Do the assignments over again
-      - Make your own personal website
-      - Make a website for friends, family, etc.
-      - *Just make websites & write code!*
-
-  - content: |
-      ## Learning websites
-
-      - [Codecademy](https://www.codecademy.com/learn)
-      - [Code School](https://www.codeschool.com/)
-      - [Treehouse](https://teamtreehouse.com/)
-      - [Tuts+](http://code.tutsplus.com/)
+      **We will not slow down or change the material because you were forgot everything over the break.**
 
 ---
