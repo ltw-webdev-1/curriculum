@@ -1,6 +1,6 @@
 ---
-topic: "Restaurant website completion"
-desc: "Finish the responsively restaurant website prototype by the end of the term."
+topic: "Confectionery website completion"
+desc: "Finish the responsive confectionery website prototype by the end of the term."
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:

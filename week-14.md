@@ -1,6 +1,6 @@
 ---
-topic: "Restaurant website planning"
-desc: "Start planning your restaurant website by finding the patterns & the basic CSS properties you need."
+topic: "Confectionery website planning"
+desc: "Start planning your confectionery website by sketching, writing text & starting to write code."
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
