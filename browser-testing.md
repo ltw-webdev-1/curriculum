@@ -89,7 +89,7 @@ steps:
     before: |
       If there are any problems with your website in a specific browser—fix them.
 
-      **Thomas will be looking at the websites in random browsers while marking. You will be graded on any problems seen, independent of what browser—so make sure there aren’t major, breaking problems in the browsers.**
+      **The teacher will be looking at the websites in random browsers while marking. You will be graded on any problems seen, independent of what browser—so make sure there aren’t major, breaking problems in the browsers.**
     notes:
       - label: 'Reminder'
         text: "Remember that your website [doesn’t have to look exactly the same in every browser](http://dowebsitesneedtolookexactlythesameineverybrowser.com/), but it should be functional and not look broken."
