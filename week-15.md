@@ -13,10 +13,6 @@ video_tutorials:
     url: launch-checklist-web-dev-1
     highlight: true
 
-slides:
-  - title: "Preview next term"
-    url: preview-next-term
-
 tasks:
   - title: "Definition Devastator"
     url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
