@@ -20,7 +20,7 @@ tasks:
   - type: blank
   - title: "Browser testing"
     url: browser-testing
-    submit: show
+    submit: "Submit nothing."
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-1/request-for-grade"
     due: "Midnight, last day of term"
