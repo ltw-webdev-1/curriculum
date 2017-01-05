@@ -31,7 +31,4 @@ tasks:
     due: "Midnight, last day of term"
     graded-as: confectionery-website
     no-solution: true
-  - title: "Acronym Annihilator"
-    url: https://activities.learn-the-web.algonquindesign.ca/acronym-annihilator/
-    type: activity
 ---
