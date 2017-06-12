@@ -12,4 +12,5 @@ tasks:
   - type: blank
   - type: blank
   - type: blank
+  - type: watch-videos
 ---

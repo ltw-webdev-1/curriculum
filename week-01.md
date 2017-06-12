@@ -16,4 +16,5 @@ tasks:
     type: lesson
     submit: "Submit nothing."
     graded-as: false
+  - type: watch-videos
 ---
