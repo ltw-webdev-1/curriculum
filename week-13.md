@@ -25,7 +25,7 @@ tasks:
     url: https://github.com/acgd-webdev-1/responsive-image-caption
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     graded-as: confectionery-website
     no-solution: true
 ---

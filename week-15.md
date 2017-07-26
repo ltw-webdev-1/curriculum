@@ -23,12 +23,12 @@ tasks:
     submit: "Submit nothing."
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-1/request-for-grade"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     type: basic
     graded-as: false
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     graded-as: confectionery-website
     no-solution: true
 ---
