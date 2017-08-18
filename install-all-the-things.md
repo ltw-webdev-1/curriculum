@@ -214,7 +214,5 @@ steps:
 
       **Open up Markbot and sign in with your GitHub username.**
 
-      *If Markbot gives you an “Unidentified developer” security warning—instead of double-clicking, right click and press `Open`*
-
       ![](markbot.jpg)
 ---
