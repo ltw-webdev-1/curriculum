@@ -21,12 +21,14 @@ video_tutorials:
 slides:
   - title: "Boxes & flows"
     url: boxes-and-flows
+    disabled: true
 
 group_activities:
   - title: "Sketching a website"
     url: sketching-a-website
     type: pencil
     pair: true
+    disabled: true
 
 tasks:
   - title: "Selector Surgeon"
@@ -35,11 +37,15 @@ tasks:
   - title: "Developer tools"
     url: developer-tools
     type: lesson
+    disabled: true
   - title: "Cards"
     url: cards
     type: lesson
+    disabled: true
   - title: "Horizontal navigation"
     url: https://github.com/acgd-webdev-1/horizontal-nav
+    disabled: true
   - title: "Sections"
     url: https://github.com/acgd-webdev-1/sections
+    disabled: true
 ---

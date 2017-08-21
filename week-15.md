@@ -26,9 +26,11 @@ tasks:
     due: "Midnight, last day of class"
     type: basic
     graded-as: false
+    disabled: true
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     due: "Midnight, last day of class"
     graded-as: confectionery-website
     no-solution: true
+    disabled: true
 ---

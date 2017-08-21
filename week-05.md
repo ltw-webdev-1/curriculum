@@ -27,6 +27,7 @@ video_tutorials:
 slides:
   - title: "CSS introduction"
     url: css-introduction
+    disabled: true
 
 tasks:
   - title: "Semantics Soothsayer"
@@ -35,10 +36,14 @@ tasks:
   - title: "Dinosaur designs"
     url: dinosaur-designs
     type: lesson
+    disabled: true
   - title: "Use all the selectors!"
     url: https://github.com/acgd-webdev-1/use-all-the-selectors
+    disabled: true
   - title: "CSS validation fixes"
     url: https://github.com/acgd-webdev-1/css-validation-fixes
+    disabled: true
   - title: "Stylish beets"
     url: https://github.com/acgd-webdev-1/stylish-beets
+    disabled: true
 ---

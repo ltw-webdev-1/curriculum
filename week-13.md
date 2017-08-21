@@ -15,6 +15,7 @@ group_activities:
     url: finding-patterns
     type: pencil
     pair: true
+    disabled: true
 
 tasks:
   - title: "Hex Hacker"
@@ -23,9 +24,11 @@ tasks:
   - type: blank
   - title: "Responsive image & caption"
     url: https://github.com/acgd-webdev-1/responsive-image-caption
+    disabled: true
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     due: "Midnight, last day of class"
     graded-as: confectionery-website
     no-solution: true
+    disabled: true
 ---

@@ -15,6 +15,7 @@ group_activities:
     url: paper-plans
     type: pencil
     pair: true
+    disabled: true
 
 tasks:
   - title: "Media Query Manager"
@@ -23,8 +24,11 @@ tasks:
   - type: blank
   - title: "Image grid"
     url: https://github.com/acgd-webdev-1/image-grid
+    disabled: true
   - title: "Responsive header"
     url: https://github.com/acgd-webdev-1/responsive-header
+    disabled: true
   - title: "Responsive section"
     url: https://github.com/acgd-webdev-1/responsive-section
+    disabled: true
 ---

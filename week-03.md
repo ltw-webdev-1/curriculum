@@ -13,6 +13,7 @@ video_tutorials:
 slides:
   - title: "Version control & GitHub"
     url: version-control-github
+    disabled: true
 
 tasks:
   - title: "Keyboard Commander"
@@ -21,15 +22,19 @@ tasks:
   - title: "Website on GitHub"
     url: website-on-github
     type: lesson
+    disabled: true
   - title: "Using Markbot"
     url: using-markbot
+    disabled: true
   - title: "Create tagged issue"
     url: create-tagged-issue
     type: lesson
     submit: "Make a GitHub Issue."
+    disabled: true
   - title: "Using your code editor"
     url: using-your-code-editor
     type: lesson
     submit: "Submit nothing."
     graded-as: false
+    disabled: true
 ---

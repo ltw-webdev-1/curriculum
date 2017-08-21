@@ -13,6 +13,7 @@ video_tutorials:
 slides:
   - title: "Position & z-index"
     url: position-zindex
+    disabled: true
 
 tasks:
   - title: "Em Enforcer"
@@ -21,10 +22,14 @@ tasks:
   - title: "Making an image card"
     url: making-an-image-card
     type: lesson
+    disabled: true
   - title: "Hero banner"
     url: https://github.com/acgd-webdev-1/hero-banner
+    disabled: true
   - title: "Call to action banner"
     url: https://github.com/acgd-webdev-1/call-to-action-banner
+    disabled: true
   - title: "Exploding robot head"
     url: https://github.com/acgd-webdev-1/exploding-robot-head
+    disabled: true
 ---

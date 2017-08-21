@@ -15,6 +15,7 @@ video_tutorials:
 slides:
   - title: "Link patterns"
     url: link-patterns
+    disabled: true
 
 tasks:
   - title: "Display Dominator"
@@ -25,10 +26,14 @@ tasks:
     type: lesson
     submit: "Submit nothing."
     graded-as: false
+    disabled: true
   - title: "Navigation highlight"
     url: https://github.com/acgd-webdev-1/navigation-highlight
+    disabled: true
   - title: "Button styles"
     url: https://github.com/acgd-webdev-1/button-styles
+    disabled: true
   - title: "Link card"
     url: https://github.com/acgd-webdev-1/link-card
+    disabled: true
 ---

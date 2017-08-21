@@ -17,11 +17,13 @@ video_tutorials:
 slides:
   - title: "Media queries"
     url: media-queries
+    disabled: true
 
 group_activities:
   - title: "A web of screen sizes"
     url: a-web-of-screen-sizes
     type: pencil
+    disabled: true
 
 tasks:
   - title: "Dev Tool Dynamo"
@@ -30,10 +32,14 @@ tasks:
   - title: "Responsive navigation"
     url: responsive-navigation
     type: lesson
+    disabled: true
   - title: "Hide & show responsively"
     url: https://github.com/acgd-webdev-1/hide-show-responsively
+    disabled: true
   - title: "Responsive typography"
     url: https://github.com/acgd-webdev-1/responsive-typography
+    disabled: true
   - title: "Responsive icon cards"
     url: https://github.com/acgd-webdev-1/responsive-icon-cards
+    disabled: true
 ---
