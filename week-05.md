@@ -30,8 +30,8 @@ slides:
     disabled: true
 
 tasks:
-  - title: "Semantics Soothsayer"
-    url: https://activities.learn-the-web.algonquindesign.ca/semantics-soothsayer/
+  - title: "Semantics Specifier"
+    url: https://activities.learn-the-web.algonquindesign.ca/semantics-specifier/
     type: activity
   - title: "Dinosaur designs"
     url: dinosaur-designs
