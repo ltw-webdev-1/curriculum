@@ -34,9 +34,7 @@ group_activities:
     disabled: true
 
 tasks:
-  - title: "Character Classifier"
-    url: https://activities.learn-the-web.algonquindesign.ca/character-classifier/
-    type: activity
+  - type: blank
   - title: "HTML document setup"
     url: html-document-setup
     type: lesson

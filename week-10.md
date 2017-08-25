@@ -9,6 +9,8 @@ video_tutorials:
     videos: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
+  - title: "Web typography cheat sheet"
+    url: web-typography-cheat-sheet
 
 slides:
   - title: "Position & z-index"

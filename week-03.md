@@ -9,6 +9,9 @@ video_tutorials:
     videos: true
   - title: "GitHub Issues"
     url: github-issues
+  - title: "Keyboard shortcut cheat sheet"
+    url: keyboard-shortcut-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Version control & GitHub"

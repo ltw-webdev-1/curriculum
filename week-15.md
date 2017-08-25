@@ -14,13 +14,11 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - title: "Definition Devastator"
-    url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
-    type: activity
   - type: blank
   - title: "Browser testing"
     url: browser-testing
     submit: "Submit nothing."
+    pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-1/request-for-grade"
     due: "Midnight, last day of class"
@@ -33,4 +31,5 @@ tasks:
     graded-as: confectionery-website
     no-solution: true
     disabled: true
+  - type: blank
 ---

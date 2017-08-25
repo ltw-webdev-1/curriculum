@@ -26,9 +26,7 @@ group_activities:
     disabled: true
 
 tasks:
-  - title: "Dev Tool Dynamo"
-    url: http://thomasjbradley.github.io/dev-tool-dynamo/
-    type: activity
+  - type: blank
   - title: "Responsive navigation"
     url: responsive-navigation
     type: lesson

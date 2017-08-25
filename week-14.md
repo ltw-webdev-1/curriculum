@@ -22,6 +22,8 @@ video_tutorials:
     highlight: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
+  - title: "Code character cheat sheet"
+    url: code-character-cheat-sheet
 
 group_activities:
   - title: "Course feedback"
@@ -29,13 +31,14 @@ group_activities:
     type: star
 
 tasks:
-  - title: "Validation Verifier"
-    url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
+  - title: "Character Classifier"
+    url: https://activities.learn-the-web.algonquindesign.ca/character-classifier/
     type: activity
   - type: blank
   - title: "Confectionery website check-in"
     url: "https://github.com/acgd-webdev-1/confectionery-website-check-in"
-    submit: show
+    button: activity
+    type: basic
     no-solution: true
     disabled: true
   - title: "Confectionery website prototype"
@@ -44,5 +47,4 @@ tasks:
     graded-as: confectionery-website
     no-solution: true
     disabled: true
-  - type: blank
 ---

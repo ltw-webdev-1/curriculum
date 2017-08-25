@@ -11,6 +11,9 @@ video_tutorials:
     url: paths-folders
   - title: "Naming & paths cheat sheet"
     url: naming-paths-cheat-sheet
+  - title: "Flow & display"
+    url: flow-display
+    videos: true
 
 slides:
   - title: "Link patterns"

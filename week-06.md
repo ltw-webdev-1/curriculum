@@ -31,9 +31,7 @@ group_activities:
     disabled: true
 
 tasks:
-  - title: "Selector Surgeon"
-    url: https://activities.learn-the-web.algonquindesign.ca/selector-surgeon/
-    type: activity
+  - type: blank
   - title: "Developer tools"
     url: developer-tools
     type: lesson

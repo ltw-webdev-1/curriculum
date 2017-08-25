@@ -10,6 +10,8 @@ video_tutorials:
     url: css-layout-cheat-sheet
   - title: "Navigation"
     url: navigation
+  - title: "HTML indentation"
+    url: html-indentation
 
 slides:
   - title: "Float & clear"

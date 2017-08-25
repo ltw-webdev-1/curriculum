@@ -9,6 +9,8 @@ video_tutorials:
     highlight: true
   - title: "Media queries layout"
     url: media-queries-layout
+  - title: "Browser developer tools"
+    url: browser-developer-tools
 
 group_activities:
   - title: "Paper plans"
@@ -18,8 +20,8 @@ group_activities:
     disabled: true
 
 tasks:
-  - title: "Media Query Manager"
-    url: https://activities.learn-the-web.algonquindesign.ca/media-query-manager/
+  - title: "Dev Tool Dynamo"
+    url: http://thomasjbradley.github.io/dev-tool-dynamo/
     type: activity
   - type: blank
   - title: "Image grid"
