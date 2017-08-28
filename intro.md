@@ -22,6 +22,14 @@ slides:
       - Fully responsive interactive wireframes
 
   - content: |
+      ## Final project
+
+      - Theme: Confectionary website
+      - Single page website, integrating everything from this term
+      - ~3 weeks to complete
+      - Fully responsive interactive wireframes
+
+  - content: |
       ## High expectations
 
       *Coding is a different mindset—and will be difficult for most*
