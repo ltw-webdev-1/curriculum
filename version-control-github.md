@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Version control & GitHub"
+desc: "Explaining different version control systems, what their purpose is, and how they work."
 
 slides:
   - type: super-big-text

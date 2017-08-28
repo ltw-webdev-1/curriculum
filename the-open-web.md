@@ -1,6 +1,7 @@
 ---
 layout: slide-deck
-title: The Open Web
+title: "The Open Web"
+desc: "A small overview of the World Wide Web, why it matters to our program and how it became what it is today."
 
 slides:
   - type: super-big-text
