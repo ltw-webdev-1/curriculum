@@ -14,7 +14,7 @@ slides:
       *Super nerd*
 
       Office @ J104<br>
-      [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
+      [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
 
   - content: |
       ## What we’re learning
