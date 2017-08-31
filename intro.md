@@ -42,16 +42,9 @@ slides:
       - Watch the videos before class
 
   - content: |
-      ## TAs
+      ## Labs & TAs
 
-      *Available in class and during labs*
-
-      - Hannah
-      - Maja
-      - Matthew
-
-  - content: |
-      ## Labs
+      **TAs in class & scheduled work labs**
 
       - 1 hour work labs
       - Scheduled outside class
