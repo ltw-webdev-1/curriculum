@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Finding patterns"
+desc: "A group activity helping recognize common patterns on the web and comparing them to practiced patterns."
+
+group_work: true
 
 slides:
   - type: super-big-text

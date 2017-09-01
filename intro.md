@@ -1,8 +1,7 @@
 ---
 layout: slide-deck
-desc: "A quick introduction to Web Dev 1, explaining what’s covered, expectations & marking scheme."
-
 title: "Web Dev 1 intro"
+desc: "A quick introduction to Web Dev 1, explaining what’s covered, expectations & marking scheme."
 
 slides:
   - type: super-big-text

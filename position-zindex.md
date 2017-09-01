@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Position & z-index"
+desc: "A quick overview of how CSS positioning works with relative & static and a small intro to z-index."
 
 slides:
   - type: super-big-text

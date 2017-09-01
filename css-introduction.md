@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "CSS introduction"
+desc: "A quick introduction to CSS, what it is, what it does, and how to write it."
 
 slides:
   - type: super-big-text

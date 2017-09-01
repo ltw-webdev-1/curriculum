@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Link patterns"
+desc: "A quick look at different link design patterns on the Open Web and how to code them."
+
+group_work: true
 
 slides:
   - type: super-big-text

@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Semantics map-out"
+desc: "An activity to help learn the HTML semantics by working in small groups to identify pieces of content."
+
+group_work: true
 
 slides:
   - type: super-big-text

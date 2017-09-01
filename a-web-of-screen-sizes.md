@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "A web of screen sizes"
+desc: "A group activity to help everyone understand the big mash of different screen sizes that exist in the world."
+
+group_work: true
 
 slides:
   - type: super-big-text

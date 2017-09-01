@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Sketching a website"
+desc: "An activity to practice recognizing and drawing parts of a website including semantics and basic CSS."
+
+group_work: true
 
 slides:
   - type: super-big-text

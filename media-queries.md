@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Media queries"
+desc: "A quick introduction to what media queries are, what they’re trying to achieve, and how they’re used."
 
 slides:
   - type: super-big-text

@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "HTML introduction"
+desc: "A quick introduction to HTML, how it works, what it’s purpose is, and how to write it."
 
 slides:
   - type: super-big-text

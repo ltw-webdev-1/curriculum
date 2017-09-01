@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Boxes & flows"
+desc: "A quick introduction to how the browser displays a website & the CSS box model."
 
 slides:
   - type: super-big-text

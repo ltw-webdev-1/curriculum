@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Float & clear"
+desc: "A quick introduction to the CSS float & clear properties, how they work and what they do."
 
 slides:
   - type: super-big-text

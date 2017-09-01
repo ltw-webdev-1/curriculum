@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Paper plans"
+desc: "A small activity to practice drawing HTML elements, and basic CSS, with additional difficulty of multiple screen sizes."
+
+group_work: true
 
 slides:
   - type: super-big-text
