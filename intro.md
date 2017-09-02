@@ -24,7 +24,7 @@ slides:
   - content: |
       ## Final project
 
-      - Theme: Confectionary website
+      - Theme: *Confectionery website*
       - Single page website, integrating everything from this term
       - ~3 weeks to complete
       - Fully responsive interactive wireframes
@@ -47,7 +47,7 @@ slides:
 
       - 1 hour work labs
       - Scheduled outside class
-      - Watch videos—*progress is graded*
+      - Watch videos
       - Get help from TAs
       - Attendance expected
 
