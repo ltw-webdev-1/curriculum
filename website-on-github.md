@@ -5,7 +5,7 @@ desc: "Create a repository on GitHub, set it up to host a website, and launch a 
 
 hide_markbot: true
 
-video: "xg01o51TxCQ"
+video: "okAvvY_LeyI"
 
 extra_tutorials:
   - title: "Version control & GitHub"
