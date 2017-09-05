@@ -37,6 +37,7 @@ tasks:
   - type: blank
   - title: "Confectionery website check-in"
     url: "https://github.com/acgd-webdev-1/confectionery-website-check-in"
+    submit: show
     button: activity
     type: basic
     no-solution: true
