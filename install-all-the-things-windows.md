@@ -114,7 +114,7 @@ steps:
     before: |
       All of the coding exercises we do in this class will be using Markbot to automatically grade your work. So, we need to set that up.
 
-      1. Download [Markbot](https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe1). (*or [Markbot for Mac](https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg)*)
+      1. Download [Markbot](https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe). (*or [Markbot for Mac](https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg)*)
       3. Double click the installer and let it do its thing.
       5. Delete the downloaded file.
 
