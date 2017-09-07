@@ -70,7 +70,7 @@ steps:
         text: 'Will jump to the previous word.'
       - keys: '`⌘↑`'
         text: 'Will jump to the top of the text.'
-      - keys: '`⌘↑`'
+      - keys: '`⌘↓`'
         text: 'Will jump to the bottom of the text.'
       - keys: '`Shift Arrows`'
         text: |
