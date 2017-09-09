@@ -43,10 +43,21 @@ slides:
       ## Commit to save state
 
       - Commit when you’ve done something significant
-        *Added the navigation, styled the footer, fixed a bug*
+        <br>*Add the navigation; Style the footer; Fix a bug*
       - Every commit needs a message describing what changed
       - **Commit often!**
       - It’s a habit you’ll have to form
+
+  - content: |
+      ## Commit message best practices
+
+      1. Minimum 3 words & 10 characters
+      2. Proper spelling & grammar
+        <br>Capital starting letter, no period
+      3. Must start with an imperative verb
+        <br>*Create*, *Fix*, *Add*, *Solve*, etc.
+
+      Pretend every commit starts with the phrase: **“This commit will…”**
 
   - content: |
       ## Bad commit messages
@@ -62,11 +73,11 @@ slides:
   - content: |
       ## Good commit messages
 
-      “Created the basic index.html”
+      “Create the basic index.html”
 
-      “Added the navigation”
+      “Add the navigation”
 
-      “Fixed a bug in the footer”
+      “Fix a bug in the footer”
 
   - content: |
       ## Fork + Markbot
@@ -82,7 +93,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Installing & using GitHub ➔](/topics/installing-and-using-github/)
-      - [Hosting with GitHub Pages ➔](/topics/github-pages/)
+      - [Version control & GitHub ➔](/topics/version-control-github/)
       - [GitHub Issues ➔](/topics/github-issues/)
+      - [Commit message cheat sheet ➔](/topics/commit-message-cheat-sheet/)
 ---

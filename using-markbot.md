@@ -7,6 +7,14 @@ video: "Li9RIuDSMFo"
 hide_show_for_marks: true
 hide_markbot: true
 
+extra_tutorials:
+  - title: "Markbot download (MacOS)"
+    url: "https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg"
+  - title: "Markbot download (Windows)"
+    url: "https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe"
+  - title: "Markbot source code"
+    url: "https://github.com/thomasjbradley/markbot"
+
 steps:
   - title: "Fork the assignment repo"
     before: |
@@ -14,7 +22,7 @@ steps:
 
       The repository contains a `.markbot.yml` hidden file used to check and submit your code—running it through a battery of tests like checking commits, checking naming conventions, validation, indentation and more.
 
-      [**Go to this repository and press the “Fork” button**](https://github.com/acgd-webdev-1/using-markbot)
+      ### [Go to this repository and press the “Fork” button ➔](https://github.com/acgd-webdev-1/using-markbot)
 
       Forking makes a copy of the repository, in your account, that you can edit.
 
@@ -33,7 +41,7 @@ steps:
     before: |
       After forking, clone the repository to your computer by clicking the GitHub Desktop button.
 
-      *You don’t have to make the `gh-pages` branch because that’s already done.*
+      *You don’t have to set this repo up as a hosted website because that’s already done.*
 
       ![](clone.jpg)
 
@@ -64,7 +72,6 @@ steps:
     before: |
       Go to your folder in Finder and double click the HTML to preview in your browser.
 
-
       ![](local.jpg)
     notes:
       - label: "Shortcut"
@@ -93,10 +100,11 @@ steps:
 
       We can scroll through the big list of what’s missing, each error will be described & point to the line of code.
 
-      In our current code we have two problems:
+      In our current code we have a few problems:
 
-      1. We don’t have enough commit messages, representative of sloppy code
+      1. We don’t have enough commit messages, representative of sloppy code and poor forethought
       2. The test is expecting “Hello World!” inside our `index.html`
+      3. The website isn’t live online yet—because we haven’t pushed
 
       *So we need to fix them…*
 
@@ -108,6 +116,7 @@ steps:
       2. Refresh browser
       3. Check Markbot
       4. Commit
+      5. Push
 
       If everything is good you should get a green check mark!
 
@@ -116,16 +125,14 @@ steps:
       - label: "Shortcut"
         text: "To run the test in Markbot again press `⌘R`."
 
-  - title: "Sync & test the live website"
+  - title: "Test the live website"
     before: |
-      After you’ve finalized your code, making sure it passes Markbot **sync the website to GitHub**.
+      After you’ve finalized your code, making sure it passes Markbot, we need to test the live website.
 
-      ![](sync.jpg)
+      *We want to make sure it works on the live website before submitting for grades.*
 
-      We want to make sure it works on the live website before submitting.
-
-      Go to the live url: `http://username.github.io/fork-pass-tests`
-      Or go to “Settings” > “GitHub Pages” and click the link.
+      - Go to the live url: `http://username.github.io/using-markbot`
+      - Or go to `Settings > GitHub Pages` and click the link.
 
       ![](settings.jpg)
       ![](gh-pages.jpg)
@@ -141,7 +148,7 @@ steps:
     before: |
       When everything is working perfectly, submit the assignment to Canvas with the big button in Markbot.
 
-      ![](canvas-submit.jpg)
+      ![](submit.jpg)
 
       *Go check it out to make sure.*
 

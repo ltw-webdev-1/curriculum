@@ -43,44 +43,21 @@ steps:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
 
-  - title: "Create the gh-pages branch"
+  - title: "Set up for hosting"
     before: |
-      Our repository is completely usable—but it’s not a live website. By default GitHub allows us to share code online, but we have to opt-in to their website hosting service.
+      Before we write any code we’re going to set up the code repository so it’s a live, hosted website.
 
-      To opt-in to the hosting service we have to make a new branch named `gh-pages`
-
-      ![](gh-pages.jpg)
-
-      1. Click the “Branch” button.
-      2. Type `gh-pages` into the text field.
-      3. Press “Create branch: gh-pages” to execute.
-
-    notes:
-      - label: "Shortcut"
-        text: "Hit `Return` after typing `gh-pages` to create the branch."
-
-  - title: "Set the default branch"
-    before: |
-      Now we have two branches in our repository—but we only need `gh-pages`
-
-      We should set `gh-pages` as the default branch and delete the old `master` branch.
+      By default the code stored on GitHub isn’t assumed to be a website—any code can be store on the service. We need to opt-into the free website hosting that GitHub provides, named GitHub Pages.
     image_steps:
-      - url: branches.jpg
-        text: "Click “2 branches” in the top navigation."
-      - url: change-default.jpg
-        text: "Press the “Change default branch” button."
-      - url: master-default.jpg
-        text: "Change `master` to `gh-pages`"
-      - url: update.jpg
-        text: "Press “Update”."
-      - url: back-to-repo.jpg
-        text: "Go back to the main page for the repo."
-      - url: branches-2.jpg
-        text: "Press “2 branches” again."
-      - url: delete-master.jpg
-        text: "Delete `master` by pressing the trash icon."
-    after: |
-      **We now have a completely hosted GitHub website repository. But it doesn’t work yet because there’s no HTML in it.**
+      - url: "settings.jpg"
+        text: |
+          Click the “Settings” tab at the top of the repository.
+      - url: "gh-pages.jpg"
+        text: |
+          Scroll down a little and under the “GitHub Pages” section, where it says “None”, select “master branch”.
+      - url: "gh-pages-save.jpg"
+        text: |
+          Press “Save”
 
   - title: "Clone to computer"
     before: |
@@ -90,7 +67,11 @@ steps:
 
       The GitHub Desktop application will pop up and ask you where to save the repository. Put it into your `web-dev` folder—**you don’t have to make a folder specifically for this repo, the app will make it for you.**
 
-      ![](desktop.jpg)
+      ![](desktop-location.jpg)
+
+      Then click the “Clone” button:
+
+      ![](desktop-clone.jpg)
 
   - title: "Open in code editor"
     before: |
@@ -165,14 +146,17 @@ steps:
 
       ![](commit.jpg)
 
-      Then sync it to the GitHub website.
+      Then send it to the GitHub website with the “Push” button.
 
-      ![](sync.jpg)
+      ![](push.jpg)
     notes:
       - label: "Shortcut"
         text: "`⌘Return` to save the commit."
       - label: "Shortcut"
-        text: "`⌘S` to sync your changes."
+        text: "`⌘P` to push your changes."
+      - label: "Best practices"
+        text: |
+          Refer to the [**commit messages cheat sheet**](/topics/commit-message-cheat-sheet/) for the commit best practices.
 
   - title: "Test the live website"
     before: |
@@ -184,7 +168,7 @@ steps:
     after: |
       Find the URL on the GitHub website under the repository’s “Settings” tab.
 
-      ![](settings.jpg)
+      ![](settings-url.jpg)
 
       **And you should see your website!** The URL is completely open to anyone in the world.
 
@@ -192,7 +176,7 @@ steps:
 
   - title: "Fork instead…"
     before: |
-      **For all the code exercises in class we don’t have to go through the `gh-pages` branching set up process above.**
+      **For all the code exercises in class we don’t have to go through the process of setting up for hosting—the assignments are all ready.**
 
       **We’ll be using the [fork & pass tests method with Markbot](/courses/web-dev-1/using-markbot/) to hand in all work.**
       [**That lesson comes next ➔**](/courses/web-dev-1/using-markbot/)
