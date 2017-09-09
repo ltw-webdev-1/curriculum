@@ -39,6 +39,8 @@ steps:
 
       **If you have an Apple App Store account, search and install it from there.**
 
+      ![](unarchiver.jpg)
+
       *If you don’t have an Apple App Store account (or forget your password):*
 
       1. [Download The Unarchiver](http://unarchiver.c3.cx/unarchiver) from the website.
@@ -49,6 +51,8 @@ steps:
 
   - title: "Install Firefox"
     before: |
+      ![](firefox.jpg)
+
       We need to install a bunch of browsers because, as web designers, we don’t know what browser someone will be using—so we need to test our websites in all of them.
 
       1. Go to Mozilla’s website and [download Firefox](http://getfirefox.com/).
@@ -62,14 +66,18 @@ steps:
 
   - title: "Install Chrome"
     before: |
+      ![](chrome.jpg)
+
       Go to Google’s website and [download Chrome](https://www.google.com/chrome/).
       *(Ditto steps above.)*
+
     notes:
       - label: "Warning"
         text: "Make sure to only download Chrome directly from Google—other websites may inject malware."
 
   - title: "Install Opera"
     before: |
+      ![](opera.jpg)
 
       1. Go to Opera’s website and [download Opera](http://www.opera.com/).
       2. Mount the disk image by double clicking.
@@ -91,44 +99,55 @@ steps:
       2. Go to the “Advanced” tab.
       3. Make sure “Show Develop menu in menu bar” is enabled.
 
-  - title: "Install VirtualBox"
+  - title: "Create a BrowserStack account"
     before: |
-      We want to install Internet Explorer and Microsoft Edge on our computers but they browsers only run on Windows.
+      We want to be able to test Microsoft Edge, but because we’re using MacOS, that becomes a little more difficult.
 
-      To start, we have to install an emulator system that will allow us to run Windows alongside Mac OS X.
+      ![](browserstack.jpg)
 
-      ![](virtual-box.jpg)
+      A simple way to test is using an online emulation service. *BrowserStack, sponsored by Microsoft, provides free Microsoft Edge testing.* So, we’re going to use that service.
 
-      1. Go to the VirtualBox website and [download VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-        *Be sure to get the VirtualBox binary for **“OS X Hosts amd64”**.*
-      2. Mount the disk image by double clicking.
-      3. Double-click the “VirtualBox.pkg” installer file.
-      4. Step through all the instructions—the defaults are good.
-      5. Eject the mounted disk from your computer.
-      6. Delete the downloaded file.
+      1. Go to [BrowserStack’s website](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud) and create an account (press “Get Started”).
+      2. When it prompts you if you want to test `localhost`: “Yes” you want to do that, so install the extension.
 
-  - title: "Install Internet Explorer 11 & Edge"
-    before: |
-      Normally you’d have to download IE/11 from [Microsoft directly](http://modern.ie)—but I’ve gone ahead and done that because it’s faster over the school network.
+  # - title: "Install VirtualBox"
+  #   before: |
+  #     We want to install Internet Explorer and Microsoft Edge on our computers but they browsers only run on Windows.
 
-      1. Go to the Graphic Design Dropbox: `smb://dropbox.ottawa.ad.algonquincollege.com`
-        <br>*To connect: in Finder, go to `Go > Connect to Server…`*
-        <br>*The username and password is your Algonquin Wi-Fi password.*
-      2. Go to my folder
-        <br>`Faculty Folders > Thomas Bradley > Public`
-      3. Look for a folder called “MS Browsers”.
-      4. Drag the two files to your computer—**do not double click**.
-      5. Unzip them both.
-        *(If you get a `cpgz` file, try right clicking on the original `zip` and pressing `Open With > The Unarchiver`.)*
-      6. You’ll be presented with an orange “ova” box icon—double click it.
-      7. VirtualBox will request that you import—press “Import”.
-      8. Wait…
-      9. Delete the orange “ova” file and the zip afterwards.
-    notes:
-      - label: "Warning"
-        text: "Do not double click the browser installers from within the dropbox!"
-      - label: "Big files"
-        text: "The installers for IE/11 and Edge are **huge** because we’re actually installing two complete copies of Windows on our computer."
+  #     To start, we have to install an emulator system that will allow us to run Windows alongside Mac OS X.
+
+  #     ![](virtual-box.jpg)
+
+  #     1. Go to the VirtualBox website and [download VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+  #       *Be sure to get the VirtualBox binary for **“OS X Hosts amd64”**.*
+  #     2. Mount the disk image by double clicking.
+  #     3. Double-click the “VirtualBox.pkg” installer file.
+  #     4. Step through all the instructions—the defaults are good.
+  #     5. Eject the mounted disk from your computer.
+  #     6. Delete the downloaded file.
+
+  # - title: "Install Internet Explorer 11 & Edge"
+  #   before: |
+  #     Normally you’d have to download IE/11 from [Microsoft directly](http://modern.ie)—but I’ve gone ahead and done that because it’s faster over the school network.
+
+  #     1. Go to the Graphic Design Dropbox: `smb://dropbox.ottawa.ad.algonquincollege.com`
+  #       <br>*To connect: in Finder, go to `Go > Connect to Server…`*
+  #       <br>*The username and password is your Algonquin Wi-Fi password.*
+  #     2. Go to my folder
+  #       <br>`Faculty Folders > Thomas Bradley > Public`
+  #     3. Look for a folder called “MS Browsers”.
+  #     4. Drag the two files to your computer—**do not double click**.
+  #     5. Unzip them both.
+  #       *(If you get a `cpgz` file, try right clicking on the original `zip` and pressing `Open With > The Unarchiver`.)*
+  #     6. You’ll be presented with an orange “ova” box icon—double click it.
+  #     7. VirtualBox will request that you import—press “Import”.
+  #     8. Wait…
+  #     9. Delete the orange “ova” file and the zip afterwards.
+  #   notes:
+  #     - label: "Warning"
+  #       text: "Do not double click the browser installers from within the dropbox!"
+  #     - label: "Big files"
+  #       text: "The installers for IE/11 and Edge are **huge** because we’re actually installing two complete copies of Windows on our computer."
 
   - title: "Get HTML files to open properly"
     before: |
@@ -147,6 +166,8 @@ steps:
     before: |
       Git is a version control system and GitHub allows us to host all our code & websites online. (More on these two things next week.)
 
+      ![](github.jpg)
+
       1. Go to [GitHub](https://github.com/) and sign up for an account.
         *Choose whatever username and email address you’d like.*
       2. Choose the *free* plan when you get to that screen.
@@ -161,10 +182,13 @@ steps:
       We need to install the GitHub Desktop application so that we can manage and upload our code to GitHub.
 
       1. Download the app from the [GitHub Desktop](https://desktop.github.com/) website.
-      2. When it asks you to move it to the applications folder—press “Move to Applications Folder”.
-      3. Sign in with your GitHub username, email address, and password.
-      4. When it asks you to look for repositories—press “Skip”.
-      5. *It will try to get you to do a tutorial with these little pop-up bubbles—don’t bother, press the little “x” icon on the bubble.*
+      2. Unzip the downloaded file
+      3. Drag the GitHub Desktop application icon to your “Applications” folder.
+
+      ![](github-desktop.jpg)
+      ![](github-desktop-user.jpg)
+
+      **Make sure to sign in with your GitHub username, email address, and password.**
 
   - title: "Install the Command Line Tools"
     before: |

@@ -25,6 +25,8 @@ steps:
     before: |
       We need to install a bunch of browsers because, as web designers, we don’t know what browser someone will be using—so we need to test our websites in all of them.
 
+      ![](firefox.jpg)
+
       1. Go to Mozilla’s website and [download Firefox](http://getfirefox.com/).
       2. Run the installer on your computer by double clicking.
     notes:
@@ -33,16 +35,22 @@ steps:
 
   - title: "Install Chrome"
     before: |
+      ![](chrome.jpg)
+
       Go to Google’s website and [download Chrome](https://www.google.com/chrome/).
       <br>*(Ditto steps above.)*
+
     notes:
       - label: "Warning"
         text: "Make sure to only download Chrome directly from Google—other websites may inject malware."
 
   - title: "Install Opera"
     before: |
-      Go to Google’s website and [download Chrome](https://www.google.com/chrome/).
+      ![](opera.jpg)
+
+      Go to Opera’s website and [download Opera](https://www.opera.com/).
       <br>*(Ditto steps above.)*
+
     notes:
       - label: "Warning"
         text: "Make sure to only download Opera directly from Opera—other websites may inject malware."
@@ -63,6 +71,8 @@ steps:
     before: |
       Git is a version control system and GitHub allows us to host all our code & websites online. (More on these two things next week.)
 
+      ![](github.jpg)
+
       1. Go to [GitHub](https://github.com/) and sign up for an account.
         *Choose whatever username and email address you’d like.*
       2. Choose the *free* plan when you get to that screen.
@@ -79,8 +89,6 @@ steps:
       1. Download the app from the [GitHub Desktop](https://desktop.github.com/) website.
       2. Double click the installer and let it do its thing.
       3. Sign in with your GitHub username, email address, and password.
-      4. When it asks you to look for repositories—press “Skip”.
-      5. *It will try to get you to do a tutorial with these little pop-up bubbles—don’t bother, press the little “x” icon on the bubble.*
 
   - title: "Install the Command Line Tools"
     before: |
