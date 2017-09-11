@@ -131,4 +131,21 @@ steps:
       *If Markbot gives you an “Unidentified developer” security warning—click the “More info” link and press “Run anyways”.*
 
       ![](markbot.jpg)
+
+  - title: "Final checklist"
+    before: |
+      Double check you’ve installed everything on your computer.
+
+      *Here’s a checklist to help out:*
+    tasks:
+      - "Configure File Explorer"
+      - "Firefox"
+      - "Chrome"
+      - "Opera"
+      - "Get HTML files to open properly"
+      - "Create a GitHub account"
+      - "GitHub Desktop"
+      - "Command Line Tools"
+      - "Java Developer Kit"
+      - "Markbot"
 ---

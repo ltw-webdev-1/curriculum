@@ -239,4 +239,25 @@ steps:
       **Open up Markbot and sign in with your GitHub username.**
 
       ![](markbot.jpg)
+
+  - title: "Final checklist"
+    before: |
+      Double check you’ve installed everything on your computer.
+
+      *Here’s a checklist to help out:*
+    tasks:
+      - "Configure Finder"
+      - "Configure keyboard preferences"
+      - "The Unarchiver"
+      - "Firefox"
+      - "Chrome"
+      - "Opera"
+      - "Configure Safari"
+      - "Create a BrowserStack account"
+      - "Get HTML files to open properly"
+      - "Create a GitHub account"
+      - "GitHub Desktop"
+      - "Command Line Tools"
+      - "Java Developer Kit"
+      - "Markbot"
 ---
