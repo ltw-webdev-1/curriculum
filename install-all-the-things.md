@@ -194,7 +194,7 @@ steps:
     before: |
       We need to install some extra development tools on our computer so Markbot can work well.
 
-      Open the application on your computer called “Terminal”.
+      Open the application on your computer called “Terminal”, it can be found in `Applications > Utilities`
 
       Type exactly this:
 
