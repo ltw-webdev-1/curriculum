@@ -24,28 +24,23 @@ video_tutorials:
 slides:
   - title: "HTML introduction"
     url: html-introduction
-    disabled: true
 
 group_activities:
   - title: Semantics map-out
     url: semantics-map-out
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - type: blank
   - title: "HTML document setup"
     url: html-document-setup
     type: lesson
-    disabled: true
+    submit: code
   - title: "Masthead semantics"
     url: https://github.com/acgd-webdev-1/masthead-semantics
-    disabled: true
   - title: "HTML validation fixes"
     url: https://github.com/acgd-webdev-1/html-validation-fixes
-    disabled: true
   - title: "Content semantics"
     url: https://github.com/acgd-webdev-1/content-semantics
-    disabled: true
 ---

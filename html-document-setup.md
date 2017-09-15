@@ -5,6 +5,9 @@ desc: "Create a valid HTML document with all the right starter code."
 
 video: "DDMgQc6lX8o"
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "HTML semantics"
     url: html-semantics
@@ -26,26 +29,27 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-1/html-document-setup"
+
 steps:
   - title: "Set up project"
     before: |
       Before we get started, create some files and get ready.
     folders:
-      - label: "html-template"
+      - label: "html-document-setup"
         type: folder
       - label: "index.html"
         indent: 1
       - label: "images"
         type: folder
         indent: 1
+        notes: "This folder already exists, it was cloned from GitHub"
       - label: "logo.svg"
         indent: 2
     after: |
-      1. Create a folder named `html-template`
-      2. Drag the folder to your code editor.
-      3. Inside the folder make a file named `index.html`
-      4. <a href="logo.svg" download>Download this image</a> and put it in an `images` folder.
-        *Right-click and press “Download Linked File”.*
+      1. Drag the `html-document-setup` folder you cloned to your code editor (likely Atom).
+      2. Using your code editor, create a new file, then immediate save it as exactly `index.html` into the `html-document-setup` folder.
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
@@ -104,6 +108,11 @@ steps:
         text: "The `<h1>` tag *is the most important* piece of content on the page—every single HTML file needs one."
       - num: "16-20"
         text: "We can write as much HTML in here as we want. The indentation is there to help us understand our code, but the browser doesn’t really care."
+    notes:
+      - label: "Type it, type it real good"
+        text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
+    after: |
+      **The code above is intentionally not copy-and-paste-able. You need to write the code by hand to learn it properly. So every single lesson will have the ability to copy-and-paste its code snippets disabled.**
 
   - title: "Test it in the browser"
     before: |
@@ -127,9 +136,10 @@ steps:
 
       ![](html.jpg)
 
+      2. Select all your HTML code with `⌘A`
+      2. Copy the code with `⌘C`
       1. Go to the [W3C HTML validator](https://validator.w3.org/).
-      2. Select all your HTML code with `⌘A`.
-      3. Paste the code into the “Validate by Direct Input” text box with `⌘V`.
+      3. Paste the code into the “Validate by Direct Input” text box with `⌘V`
       4. Press “Check”.
       5. See your errors, correct them, and validate again.
 
