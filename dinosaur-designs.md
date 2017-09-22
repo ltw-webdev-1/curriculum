@@ -3,6 +3,9 @@ layout: lesson
 title: "Dinosaur designs"
 desc: "Work to build this website and style its typography."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "CSS introduction slide deck"
     url: /courses/web-dev-1/css-introduction/
@@ -26,14 +29,19 @@ extra_tutorials:
 goal:
   before: |
     We’re going to explore CSS selectors and properties to design the typography of a simple website.
-
-    ### [Download the content and images.](https://github.com/acgd-webdev-1/dinosaur-designs/archive/gh-pages.zip)
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-1/dinosaur-designs/"
+
 steps:
   - title: "Set up project"
+    before: |
+      After cloning the repository to your computer you should have some starter images.
+
+      **Drag the `dinosaur-designs` folder to Atom and make an HTML file & a CSS file.**
     folders:
       - label: "dinosaur-designs"
         type: folder
@@ -47,22 +55,25 @@ steps:
       - label: "images"
         type: folder
         indent: 1
+        fade: true
+        notes: "Already full of images to use"
       - label: "dinos-r-us.svg"
         indent: 2
+        fade: true
       - label: "hadrosaur.jpg"
         indent: 2
+        fade: true
       - label: "iguanodon.jpg"
         indent: 2
+        fade: true
       - label: "stegosaurus.jpg"
         indent: 2
+        fade: true
     after: |
       ### HTML setup
 
-      1. Make a new folder named `dinosaur-designs`
-      2. Move the `images` folder from the download into your `dinosaur-designs` folder
-      2. Drag the `dinosaur-designs` folder into your code editor
-      3. Make a new `index.html` file
-      4. Add the HTML boilerplate code to `index.html`
+      1. Make a new `index.html` file
+      2. Add the HTML boilerplate code to `index.html`
 
       *Use the snippets we installed in the first class: `html5 — Tab`*
 
@@ -125,7 +136,7 @@ steps:
 
   - title: "Web fonts"
     before: |
-      1. Go to Google Fonts and find the Patua One typeface—[see the step-by-step tutorial](/topics/google-fonts/)
+      1. Go to Google Fonts and find the Patua One typeface. [(Follow this step-by-step tutorial if you need help.)](/topics/google-fonts/)
       2. Add it to a collection and use it
       3. Include the new font in your HTML
       4. Change the headings and the navigation to use the new font

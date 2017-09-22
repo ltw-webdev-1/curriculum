@@ -36,7 +36,7 @@ tasks:
   - title: "Dinosaur designs"
     url: dinosaur-designs
     type: lesson
-    disabled: true
+    submit: code
   - title: "Use all the selectors!"
     url: https://github.com/acgd-webdev-1/use-all-the-selectors
     disabled: true
