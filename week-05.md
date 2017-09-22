@@ -38,11 +38,8 @@ tasks:
     submit: code
   - title: "Use all the selectors!"
     url: https://github.com/acgd-webdev-1/use-all-the-selectors
-    disabled: true
   - title: "CSS validation fixes"
     url: https://github.com/acgd-webdev-1/css-validation-fixes
-    disabled: true
   - title: "Stylish beets"
     url: https://github.com/acgd-webdev-1/stylish-beets
-    disabled: true
 ---
