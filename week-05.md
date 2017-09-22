@@ -27,7 +27,6 @@ video_tutorials:
 slides:
   - title: "CSS introduction"
     url: css-introduction
-    disabled: true
 
 tasks:
   - title: "Semantics Specifier"
