@@ -60,6 +60,15 @@ slides:
       Pretend every commit starts with the phrase: **“This commit will…”**
 
   - content: |
+      ## Good commit messages
+
+      “Create the basic index.html”
+
+      “Add the navigation”
+
+      “Fix a bug in the footer”
+
+  - content: |
       ## Bad commit messages
 
       “asdf”
@@ -69,15 +78,6 @@ slides:
       “Commit”
 
       “Fix”
-
-  - content: |
-      ## Good commit messages
-
-      “Create the basic index.html”
-
-      “Add the navigation”
-
-      “Fix a bug in the footer”
 
   - content: |
       ## Fork + Markbot
