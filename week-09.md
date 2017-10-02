@@ -11,6 +11,8 @@ video_tutorials:
     url: css-layout-cheat-sheet
   - title: "Web typography cheat sheet"
     url: web-typography-cheat-sheet
+  - title: "Boxes & borders cheat sheet"
+    url: boxes-borders-cheat-sheet
 
 slides:
   - title: "Position & z-index"

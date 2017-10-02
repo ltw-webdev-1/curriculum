@@ -11,9 +11,12 @@ video_tutorials:
     url: paths-folders
   - title: "Naming & paths cheat sheet"
     url: naming-paths-cheat-sheet
-  - title: "Flow & display"
-    url: flow-display
-    videos: true
+  - title: "Boxes & borders cheat sheet"
+    url: boxes-borders-cheat-sheet
+    highlight: true
+  - title: "CSS layout cheat sheet"
+    url: css-layout-cheat-sheet
+    highlight: true
 
 slides:
   - title: "Link patterns"

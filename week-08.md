@@ -8,6 +8,8 @@ video_tutorials:
     url: float-clear
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
+  - title: "Boxes & borders cheat sheet"
+    url: boxes-borders-cheat-sheet
   - title: "Navigation"
     url: navigation
   - title: "HTML indentation"

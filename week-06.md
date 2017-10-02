@@ -10,6 +10,12 @@ video_tutorials:
   - title: "Flow & display"
     url: flow-display
     videos: true
+  - title: "Boxes & borders cheat sheet"
+    url: boxes-borders-cheat-sheet
+    highlight: true
+  - title: "CSS layout cheat sheet"
+    url: css-layout-cheat-sheet
+    highlight: true
   - title: "Browser developer tools"
     url: browser-developer-tools
   - title: "Navigation"
