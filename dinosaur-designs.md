@@ -105,6 +105,7 @@ steps:
 
       1. Target the whole page and change the background colour to `#f2f1ed`
       2. Change the text on the whole page to `Georgia` with a backup font of `serif`
+      3. Set the `line-height` of the whole page to `1.5`
       3. Open in your browser—make the window narrower than normal
 
       *After you’re done the above steps it should look like this in your browser:*
