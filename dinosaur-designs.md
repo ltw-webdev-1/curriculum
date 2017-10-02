@@ -126,7 +126,9 @@ steps:
   - title: "Style the navigation"
     before: |
       1. Add the two remaining images and content
-      2. Add the navigation & style it to match—[see the tutorial on styling links](/topics/basic-typography/#styling-links)
+      2. Make the links in the navigation `bold`
+      3. Make the size of the links `1.125rem`
+      4. Add the navigation & style it to match—[see the tutorial on styling links](/topics/basic-typography/#styling-links)
         — normal colour: `#793284`
         — `:hover` colour: `#b42885`
 
