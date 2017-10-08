@@ -17,7 +17,7 @@ goal:
 
     *The developer tools are really helpful when making websites because we can see what code is being applied and test solutions live in the browser.*
 
-    **The developer tools should almost always be open when working on websites.**
+    **The developer tools should almost always be open when working on websites.** Since I use two monitors the developer tools are always open on my laptop, my code and browser open on the large screen.
   no_image: true
 
 steps:
@@ -27,7 +27,11 @@ steps:
 
   - title: "Modify a website"
     before: |
-      [**Go to this website**](https://acgd-webdev-1.github.io/dev-tools-modifier/) and, using the developer tools, modify it to look like the screenshots below.
+      We’re going to load up a website, the using the developer tools we’re going to modify it to look a specific way.
+
+      ### [Go to this website.](https://acgd-webdev-1.github.io/dev-tools-modifier/)
+
+      **Then, using the developer tools, modify it to look like the screenshots.** See the list of changes below.
 
       ![](goal.jpg)
 

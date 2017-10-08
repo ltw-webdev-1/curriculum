@@ -39,7 +39,7 @@ tasks:
   - title: "Developer tools"
     url: developer-tools
     type: lesson
-    disabled: true
+    no-solution: true
   - title: "Cards"
     url: cards
     type: lesson
