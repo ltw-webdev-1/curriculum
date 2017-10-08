@@ -43,10 +43,9 @@ tasks:
   - title: "Cards"
     url: cards
     type: lesson
-    disabled: true
+    submit: code
   - title: "Horizontal navigation"
     url: https://github.com/acgd-webdev-1/horizontal-nav
-    disabled: true
   - title: "Sections"
     url: https://github.com/acgd-webdev-1/sections
 ---

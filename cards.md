@@ -3,6 +3,9 @@ layout: lesson
 title: "Cards"
 desc: "Dig into the browser’s layout models to make a simple, flexible informational design."
 
+hide_show_for_marks: true
+markbot_submit: true
+
 extra_tutorials:
   - title: "Everything is a box"
     url: box-model
@@ -12,9 +15,7 @@ extra_tutorials:
     url: browser-developer-tools
 
 markbot_notes: |
-  *Ignore the “there are no headings in this document” error message—but fix everything else.*
-
-  I feel like these cards are part of a larger website so the `<h1>` would probably be somewhere else on the page.
+  We don’t have an `<h1>` in this code because I feel like these cards are part of a larger website so the `<h1>` would probably be somewhere else on the page.
 
 goal:
   before: "We’re going to walk through writing some HTML and CSS to generate an informational layout."
@@ -22,10 +23,13 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-1/cards"
+
 steps:
   - title: "Set up the project"
     before: |
-      Set up a folder on your computer and get things ready to go.
+      After cloning the repo to your computer we need to create the default files.
     folders:
       - label: "cards"
         type: folder
@@ -37,8 +41,8 @@ steps:
       - label: "main.css"
         indent: 2
     after: |
-      1. Create a new folder named `cards`
-      2. Make a new `index.html` file in your `cards` folder.
+      1. Make a new `index.html` file in your `cards` folder.
+      2. Make a folder named `css` in your `cards` folder.
       3. Make a new `main.css` in your `css` folder.
     notes:
       - label: "Naming conventions"
