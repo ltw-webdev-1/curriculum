@@ -14,8 +14,22 @@ slides:
       Every single thing—every tag—is a box
 
       The browser uses a flow to lay out the page—like how Word or Pages works
+    notes: |
+      Like Microsoft Word, web browsers will attempt to fit an element on the same line as the previous element unless there isn’t enough space.
+
+      When the space on a “line” runs out the element will be moved to the line below.
+
+      There are a whole whack CSS properties to control this flow and control how elements are situated and displayed.
 
   - type: interactive
+    notes: |
+      In CSS there is a property named `display`, this helps control the flow of the HTML elements.
+
+      There are 3 basic values to `display`:
+
+      1. `inline` — essentially just text, allows elements on the same line, but elements will get broken when wrapped to multiple lines.
+      2. `block` — force the element to be on its own line regardless of its width.
+      3. `inline-block` — a combination of `inline` & `block`: allows elements on the same line, but won’t get broken when it wraps.
     resizable: true
     html: |
       <!--
@@ -103,20 +117,44 @@ slides:
 
   - type: image
     image: box-model-content.svg
+    notes: |
+      The CSS box models starts with the content, which defines the basic box.
 
   - type: image
     image: box-model-padding.svg
+    notes: |
+      Next to the content, pushing the edge of the box away is called `padding`
 
   - type: image
     image: box-model-border.svg
+    notes: |
+      At the edge of the `padding` is a stroke around the edges of the box called `border`
 
   - type: image
     image: box-model-margin.svg
+    notes: |
+      Outside the border, pushing other boxes away, is called `margin`
 
   - type: image
     image: margin-order.svg
+    notes: |
+      Since a box has 4 sides, we can specify different `margin`, `padding` and `border` for each side.
+
+      When specifying `margin` or `padding` we can write 1–4 numbers.
+
+      - 1 number specifies a margin (or padding) on all 4 sides
+      - 2 numbers: top/bottom & left/right
+      - 3 numbers: top, left/right, bottom
+
+      Then we writing 4 numbers we’re specifying all different sizes, starting at the top and working around the box clockwise: top, right, bottom, left.
 
   - type: code-n-image
+    notes: |
+      Browser’s have a few different layout width calculation models. The default is called `content-box` and the one we’re **always** going to use is called `border-box`. When making responsive websites `border-box` simplifies the math.
+
+      With the default `content-box` if we specify a `width` the actual layout width is not what we specify but the sum of the `width` + `padding` + `border` so our layouts become cumbersome because we always have to make mathematical choices.
+
+      With `border-box` the `width` we define is the final `width`: `border` and `padding` are inside what we define, making the math inconsequential.
     image: border-box.svg
     css: |
       /*
@@ -169,4 +207,7 @@ slides:
 
       - [Everything is a box ➔](/topics/box-model/)
       - [Flow & display ➔](/topics/flow-display/)
+      - [Boxes & borders cheat sheet ➔](/topics/boxes-borders-cheat-sheet/)
+      - [CSS layout cheat sheet ➔](/topics/css-layout-cheat-sheet/)
+
 ---

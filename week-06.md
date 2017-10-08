@@ -27,14 +27,12 @@ video_tutorials:
 slides:
   - title: "Boxes & flows"
     url: boxes-and-flows
-    disabled: true
 
 group_activities:
   - title: "Sketching a website"
     url: sketching-a-website
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - type: blank
@@ -51,5 +49,4 @@ tasks:
     disabled: true
   - title: "Sections"
     url: https://github.com/acgd-webdev-1/sections
-    disabled: true
 ---
