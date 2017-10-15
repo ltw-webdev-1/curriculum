@@ -16,9 +16,20 @@ slides:
       Users should always be shown the currently highlighted page
 
       ![](current-page.svg)
+    notes: |
+      Highlighting the current navigation on a page helps users remember where they are; if they’re distracted or have trouble remembering things this is a clear indicator of their location on the website.
 
   - type: interactive
-    html_lines: "5"
+    html_lines:
+      - num: 5
+        text: |
+          There’s no special way to highlight the current navigation. We solve the problem by putting a class onto the `<a>` tag in the navigation that represents the current page.
+
+          Since there’s now a class on that `<a>` tag we can style it a little differently from the other links.
+
+          To make other pages appear highlighted, in the code for that page, we move the `.current` class to the appropriate link.
+
+          *There will never be more than one `<a>` tag highlighted with the `.current` class in one HTML file.*
     html: |
       <nav>
         <ul>
@@ -74,11 +85,23 @@ slides:
       **Share styles by using multiple CSS classes on a single element**
 
   - type: interactive
-    html_lines: "2"
+    html_lines:
+      - num: 2
+        text: |
+          Did you realize that HTML elements can have more than 1 class? It’s crazy.
+
+          When there are multiple classes on the same HTML element it will get all the CSS from **both** classes applied to it.
+
+          The order of the classes in the HTML doesn’t matter, only the order of the CSS code. That means that the CSS class code that’s further down the CSS file is the one that overwrites.
     html: |
       <a class="btn" href="#">Main button</a>
       <a class="btn btn-alt" href="#">Alternative style</a>
-    css_lines: "10-12"
+    css_lines:
+      - num: "10-12"
+        text: |
+          In the case of this CSS, if an element has both `.btn` & `.btn-alt` it will get all the CSS from the basic `.btn` class but the `background-color` will be overwritten by `.btn-alt` to be slightly different.
+
+          We can save so much code be using multiple classes for slight variations of a pattern.
     css: |
       .btn {
         display: inline-block;
@@ -107,6 +130,7 @@ slides:
 
   - type: image
     image: cards.jpg
+    alt: "Some different card examples from Facebook, Pinterest and Instagram"
 
   - type: interactive
     html: |
@@ -117,7 +141,12 @@ slides:
           <span class="btn">Learn More!</span>
         </div>
       </a>
-    css_lines: "6"
+    css_lines:
+      - num: 6
+        text: |
+          When doing link cards we need to think about what thing we’re hovering on—in this case it’s `.link-card` itself.
+
+          Because `.link-card` has elements inside, that means we can target those elements when `.link-card` is hovered. By using CSS like this we can hover anywhere on a larger box and make elements inside that box change style.
     css: |
       .link-card:hover {
         background-color: #5e54af;

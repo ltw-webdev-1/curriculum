@@ -21,7 +21,6 @@ video_tutorials:
 slides:
   - title: "Link patterns"
     url: link-patterns
-    disabled: true
 
 tasks:
   - title: "Display Dominator"
