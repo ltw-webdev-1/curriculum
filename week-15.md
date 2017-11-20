@@ -9,9 +9,6 @@ video_tutorials:
   - title: "Browser testing checklist"
     url: browser-testing-checklist
     highlight: true
-  - title: "Launch checklist, Web Dev 1"
-    url: launch-checklist-web-dev-1
-    highlight: true
 
 tasks:
   - type: blank
@@ -24,7 +21,6 @@ tasks:
     due: "Midnight, last day of class"
     type: basic
     graded-as: false
-    disabled: true
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
@@ -32,6 +28,5 @@ tasks:
     due_week: 15
     due_time: "23:59"
     no-solution: true
-    disabled: true
   - type: blank
 ---

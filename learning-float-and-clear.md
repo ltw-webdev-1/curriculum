@@ -7,6 +7,8 @@ hide_show_for_marks: true
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Float & clear slide deck"
+    url: "/courses/web-dev-1/float-clear/"
   - title: "Float & clear"
     url: float-clear
   - title: "Navigation"

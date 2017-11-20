@@ -45,7 +45,7 @@ tasks:
     type: lesson
     submit: code
   - title: "Horizontal navigation"
-    url: https://github.com/acgd-webdev-1/horizontal-nav
+    url: "https://github.com/acgd-webdev-1/horizontal-nav"
   - title: "Sections"
-    url: https://github.com/acgd-webdev-1/sections
+    url: "https://github.com/acgd-webdev-1/sections"
 ---

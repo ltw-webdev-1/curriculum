@@ -7,6 +7,8 @@ hide_show_for_marks: true
 markbot_submit: true
 
 extra_tutorials:
+  - title: "Boxes & flows slide deck"
+    url: "/courses/web-dev-1/boxes-and-flows/"
   - title: "Everything is a box"
     url: box-model
   - title: "Flow & display"

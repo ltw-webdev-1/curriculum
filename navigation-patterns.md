@@ -7,6 +7,8 @@ hide_show_for_marks: true
 hide_markbot: true
 
 extra_tutorials:
+  - title: "Link patterns slide deck"
+    url: "/courses/web-dev-1/link-patterns/"
   - title: "Navigation"
     url: navigation
   - title: "Using paths & folders"

@@ -94,7 +94,7 @@ slides:
 
       - HTML
       - CSS
-      - Javascript
+      - JavaScript
       - Images
       - Video
 
@@ -102,7 +102,7 @@ slides:
     notes: |
       Websites are just code (except for images & video)
 
-      As your browser reads the HTML code it finds that it needs other code, like CSS or Javascript or other files like images and videos
+      As your browser reads the HTML code it finds that it needs other code, like CSS or JavaScript or other files like images and videos
 
       *Each of these things are downloaded to your computer separately*
 

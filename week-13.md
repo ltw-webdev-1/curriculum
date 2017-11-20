@@ -15,16 +15,14 @@ group_activities:
     url: finding-patterns
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - title: "Hex Hacker"
-    url: https://activities.learn-the-web.algonquindesign.ca/hex-hacker/
+    url: "https://activities.learn-the-web.algonquindesign.ca/hex-hacker/"
     type: activity
   - type: blank
   - title: "Responsive image & caption"
-    url: https://github.com/acgd-webdev-1/responsive-image-caption
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/responsive-image-caption"
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
@@ -32,5 +30,4 @@ tasks:
     due_week: 15
     due_time: "23:59"
     no-solution: true
-    disabled: true
 ---

@@ -18,25 +18,20 @@ video_tutorials:
 slides:
   - title: "Float & clear"
     url: float-clear
-    disabled: true
 
 tasks:
   - title: "Ingenious Indentor"
-    url: https://activities.learn-the-web.algonquindesign.ca/ingenious-indentor/
+    url: "https://activities.learn-the-web.algonquindesign.ca/ingenious-indentor/"
     type: activity
   - title: "Learning float & clear"
     url: learning-float-and-clear
     submit: "Submit nothing."
     type: lesson
     graded-as: false
-    disabled: true
   - title: "Header icons"
-    url: https://github.com/acgd-webdev-1/header-icons
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/header-icons"
   - title: "Typographic insets"
-    url: https://github.com/acgd-webdev-1/typographic-insets
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/typographic-insets"
   - title: "Columns of cards"
-    url: https://github.com/acgd-webdev-1/columns-of-cards
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/columns-of-cards"
 ---

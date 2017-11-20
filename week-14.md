@@ -27,12 +27,12 @@ video_tutorials:
 
 group_activities:
   - title: "Course feedback"
-    url: https://www.algonquincollege.com/studentfeedback/
+    url: "https://www.algonquincollege.com/studentfeedback/"
     type: star
 
 tasks:
   - title: "Character Classifier"
-    url: https://activities.learn-the-web.algonquindesign.ca/character-classifier/
+    url: "https://activities.learn-the-web.algonquindesign.ca/character-classifier/"
     type: activity
   - type: blank
   - title: "Confectionery website check-in"
@@ -41,7 +41,6 @@ tasks:
     button: activity
     type: basic
     no-solution: true
-    disabled: true
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
@@ -49,5 +48,4 @@ tasks:
     due_week: 15
     due_time: "23:59"
     no-solution: true
-    disabled: true
 ---

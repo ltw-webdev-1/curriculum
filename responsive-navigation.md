@@ -3,6 +3,9 @@ layout: lesson
 title: "Responsive navigation"
 desc: "Use media queries and knowledge of how display works to create a responsive navigation."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 goal:
   before: "We’re going to look at how to make the image card pattern, concentrating on position absolute and relative."
   image: goal.gif
@@ -18,14 +21,17 @@ extra_tutorials:
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
   - title: "Media queries slide deck"
-    url: /web-dev-1/media-queries/
+    url: "/courses/web-dev-1/media-queries/"
+
+fork:
+  url: "https://github.com/acgd-webdev-1/responsive-navigation"
 
 steps:
   - title: "Set up project"
     before: |
-      Before we get started, create some files and get ready.
+      After forking & cloning, before writing some code, create some files and get ready.
     folders:
-      - label: "responsive-nav"
+      - label: "responsive-navigation"
         type: folder
       - label: "index.html"
         indent: 1
@@ -35,9 +41,8 @@ steps:
       - label: "main.css"
         indent: 2
     after: |
-      1. Create a folder named `responsive-nav`
-      2. Make an `index.html`
-      3. Make a `main.css` in your `css` folder.
+      1. Make an `index.html`
+      2. Make a `main.css` in your `css` folder.
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
@@ -293,6 +298,14 @@ steps:
         }
 
       }
+
+      @media only screen and (min-width: 90em) {
+
+        html {
+          font-size: 130%;
+        }
+
+      }
     lines:
       - num: "2-5"
         fade: true
@@ -310,6 +323,12 @@ steps:
 
           - A `font-size` of `120%`
           - A `line-height` of `1.5`
+      - num: "27-29"
+        text: |
+          Extra large screens—`90em` get these settings:
+
+          - A `font-size` of `130%`
+          - We don’t need to change the `line-height` because it will just be inherited from the `60em` media query.
     after: |
       Play with the width of the browser window to see the font-size increase as the browser gets wider:
 
@@ -346,6 +365,7 @@ steps:
         }
 
       }
+      ⋮
     lines:
       - num: "3-6"
         fade: true

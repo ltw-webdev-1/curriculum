@@ -34,6 +34,11 @@ slides:
         -webkit-text-size-adjust: 100%;
         text-size-adjust: 100%;
       }
+    notes: |
+      We’re going to start adding some new boilerplate code to our files.
+
+      - One more line in the HTML: the viewport
+      - A few more lines in the CSS: secondary viewport & text adjustments
 
   - content: |
       ## Media queries
@@ -73,7 +78,7 @@ slides:
       - `60em` — large screens
       - `90em` — extra large screens
 
-      *I found these numbers work for me based on making lots of websites and seeing what numbers appear*
+      *I found these numbers work for me based on making lots of websites and seeing what numbers appear most often*
 
   - content: |
       ## Always start small!
@@ -105,6 +110,13 @@ slides:
           background-color: yellow;
         }
       }
+    css_lines:
+      - num: "5-9"
+        text: |
+          When the content has `25em` of available space make the colour of the `<h1>` green.
+      - num: "11-15"
+        text: |
+          When the content has `38em` of available space make the colour of the `<h1>` yellow.
 
   - type: interactive
     resizable: true
@@ -127,6 +139,10 @@ slides:
         ul { text-align: center; }
         li { display: inline-block; }
       }
+    css_lines:
+      - num: "10-13"
+        text: |
+          When the content has `60em` of available space make the `<li>` tags `inline-block` so they are side-by-side on the same line.
 
   - type: code
     html: |
@@ -146,6 +162,8 @@ slides:
           display: none;
         }
       }
+    notes: |
+      We can target other things than just screen sizes with media queries. Here’s an example: `@media print` will allow us to change how our website looks when it’s printed to paper.
 
   - content: |
       ## Videos & tutorials

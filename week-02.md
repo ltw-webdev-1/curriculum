@@ -36,7 +36,7 @@ tasks:
     url: set-up-your-code-editor
     type: lesson
   - title: "Submit GitHub account"
-    url: https://github.com/acgd-webdev-1/submit-github-account
+    url: "https://github.com/acgd-webdev-1/submit-github-account"
     type: basic
   - type: watch-videos
 ---

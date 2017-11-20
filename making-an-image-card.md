@@ -3,16 +3,16 @@ layout: lesson
 title: "Making an image card"
 desc: "Use CSS position absolute and relative to make an image card."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Position & z-index"
     url: position-zindex
   - title: "Position & z-index slide deck"
     url: /courses/web-dev-1/position-zindex/
-
-markbot_notes: |
-  *Ignore the “the first heading is an `<h2>`…” error message—but fix everything else.*
-
-  I feel like these cards are part of a larger website so the `<h1>` would probably be somewhere else on the page.
+  - title: "CSS layout cheat sheet"
+    url: css-layout-cheat-sheet
 
 goal:
   before: "We’re going to look at how to make the image card pattern, concentrating on position absolute and relative."
@@ -22,12 +22,15 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-1/making-an-image-card"
+
 steps:
   - title: "Set up project"
     before: |
       Before we get started, create some files and get ready.
     folders:
-      - label: "image-card"
+      - label: "making-an-image-card"
         type: folder
       - label: "index.html"
         indent: 1
@@ -37,9 +40,8 @@ steps:
       - label: "main.css"
         indent: 2
     after: |
-      1. Create a folder named `image-card`
-      2. Make an `index.html`
-      3. Make a `main.css` in your `css` folder.
+      1. Make an `index.html`
+      2. Make a `main.css` in your `css` folder.
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."

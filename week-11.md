@@ -17,27 +17,22 @@ video_tutorials:
 slides:
   - title: "Media queries"
     url: media-queries
-    disabled: true
 
 group_activities:
   - title: "A web of screen sizes"
     url: a-web-of-screen-sizes
     type: pencil
-    disabled: true
 
 tasks:
   - type: blank
   - title: "Responsive navigation"
     url: responsive-navigation
     type: lesson
-    disabled: true
+    submit: code
   - title: "Hide & show responsively"
-    url: https://github.com/acgd-webdev-1/hide-show-responsively
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/hide-show-responsively"
   - title: "Responsive typography"
-    url: https://github.com/acgd-webdev-1/responsive-typography
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/responsive-typography"
   - title: "Responsive icon cards"
-    url: https://github.com/acgd-webdev-1/responsive-icon-cards
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/responsive-icon-cards"
 ---

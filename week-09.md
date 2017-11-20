@@ -17,23 +17,19 @@ video_tutorials:
 slides:
   - title: "Position & z-index"
     url: position-zindex
-    disabled: true
 
 tasks:
   - title: "Em Enforcer"
-    url: https://activities.learn-the-web.algonquindesign.ca/em-enforcer/
+    url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
     type: activity
   - title: "Making an image card"
     url: making-an-image-card
     type: lesson
-    disabled: true
+    submit: code
   - title: "Hero banner"
-    url: https://github.com/acgd-webdev-1/hero-banner
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/hero-banner"
   - title: "Call to action banner"
-    url: https://github.com/acgd-webdev-1/call-to-action-banner
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/call-to-action-banner"
   - title: "Exploding robot head"
-    url: https://github.com/acgd-webdev-1/exploding-robot-head
-    disabled: true
+    url: "https://github.com/acgd-webdev-1/exploding-robot-head"
 ---

@@ -24,7 +24,7 @@ slides:
 
 tasks:
   - title: "Display Dominator"
-    url: https://activities.learn-the-web.algonquindesign.ca/display-dominator/
+    url: "https://activities.learn-the-web.algonquindesign.ca/display-dominator/"
     type: activity
   - title: "Navigation patterns"
     url: navigation-patterns
@@ -32,9 +32,9 @@ tasks:
     submit: "Submit nothing."
     graded-as: false
   - title: "Navigation highlight"
-    url: https://github.com/acgd-webdev-1/navigation-highlight
+    url: "https://github.com/acgd-webdev-1/navigation-highlight"
   - title: "Button styles"
-    url: https://github.com/acgd-webdev-1/button-styles
+    url: "https://github.com/acgd-webdev-1/button-styles"
   - title: "Link card"
-    url: https://github.com/acgd-webdev-1/link-card
+    url: "https://github.com/acgd-webdev-1/link-card"
 ---

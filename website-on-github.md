@@ -11,9 +11,9 @@ extra_tutorials:
   - title: "Version control & GitHub"
     url: version-control-github
   - title: "Version control & GitHub slide deck"
-    url: /courses/web-dev-1/version-control-github/
+    url: "/courses/web-dev-1/version-control-github/"
   - title: "Hosting with GitHub Pages"
-    url: github-pages
+    url: "/topics/version-control-github/#setting-up-hosting-with-github-pages"
 
 steps:
   - title: "Sign in to GitHub"
@@ -23,7 +23,7 @@ steps:
       We’ll put all of our coding exercises on GitHub where they will be live websites visible to anybody.
     notes:
       - label: "Reminder"
-        text: "For most coding exercises you won’t need to perform these steps, you’ll be using the [fork & pass tests method](/courses/web-dev-1/fork-pass-tests/) to hand in all your work."
+        text: "For most coding exercises you won’t need to perform these steps, you’ll be using [Markbot](/courses/web-dev-1/using-markbot/) to hand in all your work."
 
   - title: "Create a new repo"
     before: |

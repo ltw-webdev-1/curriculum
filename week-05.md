@@ -30,16 +30,16 @@ slides:
 
 tasks:
   - title: "Semantics Specifier"
-    url: https://activities.learn-the-web.algonquindesign.ca/semantics-specifier/
+    url: "https://activities.learn-the-web.algonquindesign.ca/semantics-specifier/"
     type: activity
   - title: "Dinosaur designs"
     url: dinosaur-designs
     type: lesson
     submit: code
   - title: "Use all the selectors!"
-    url: https://github.com/acgd-webdev-1/use-all-the-selectors
+    url: "https://github.com/acgd-webdev-1/use-all-the-selectors"
   - title: "CSS validation fixes"
-    url: https://github.com/acgd-webdev-1/css-validation-fixes
+    url: "https://github.com/acgd-webdev-1/css-validation-fixes"
   - title: "Stylish beets"
-    url: https://github.com/acgd-webdev-1/stylish-beets
+    url: "https://github.com/acgd-webdev-1/stylish-beets"
 ---

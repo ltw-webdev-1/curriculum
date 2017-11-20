@@ -13,7 +13,7 @@ slides:
 
       1. HTML
       2. CSS
-      3. Javascript
+      3. JavaScript
     notes: |
       Each layer is a completely unique and independent coding language.
 
@@ -47,16 +47,16 @@ slides:
 
   - type: image
     image: layer-3.svg
-    alt: "Javascript: interactivity/candy"
+    alt: "JavaScript: interactivity/candy"
     notes: |
-      ### The Javascript
+      ### The JavaScript
 
-      Javascript—the interactivity—the third level, the candy.
+      JavaScript—the interactivity—the third level, the candy.
 
       A candy-coated, chocolate-covered peanut is infinitely better than just a chocolate covered peanut.
       Does the chocolate peanut need the candy? No. But it’s totally better with candy.
 
-      *CSS does not need Javascript, HTML does not need Javascript—but Javascript makes the website better.*
+      *CSS does not need JavaScript, HTML does not need JavaScript—but JavaScript makes the website better.*
 
   - content: |
       ## Semantics

@@ -21,7 +21,7 @@ slides:
 
 tasks:
   - title: "Keyboard Commander"
-    url: https://activities.learn-the-web.algonquindesign.ca/keyboard-commander/
+    url: "https://activities.learn-the-web.algonquindesign.ca/keyboard-commander/"
     type: activity
   - title: "Website on GitHub"
     url: website-on-github

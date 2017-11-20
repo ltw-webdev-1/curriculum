@@ -38,9 +38,9 @@ tasks:
     type: lesson
     submit: code
   - title: "Masthead semantics"
-    url: https://github.com/acgd-webdev-1/masthead-semantics
+    url: "https://github.com/acgd-webdev-1/masthead-semantics"
   - title: "HTML validation fixes"
-    url: https://github.com/acgd-webdev-1/html-validation-fixes
+    url: "https://github.com/acgd-webdev-1/html-validation-fixes"
   - title: "Content semantics"
-    url: https://github.com/acgd-webdev-1/content-semantics
+    url: "https://github.com/acgd-webdev-1/content-semantics"
 ---
