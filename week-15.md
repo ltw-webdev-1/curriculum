@@ -13,7 +13,7 @@ video_tutorials:
 tasks:
   - type: blank
   - title: "Browser testing"
-    url: browser-testing
+    url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
   - title: "Request for grade"
