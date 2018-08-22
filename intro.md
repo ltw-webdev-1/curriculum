@@ -41,15 +41,13 @@ slides:
       - Watch the videos before class
 
   - content: |
-      ## Labs & TAs
+      ## Getting help
 
-      **TAs in class & scheduled work labs**
+      **TAs in class** — to help answer questions
 
-      - 1 hour work labs
-      - Scheduled outside class
-      - Watch videos
-      - Get help from TAs
-      - Attendance expected
+      **GitHub Issues** — help outside class
+
+      **Tutors** — [available to hire for one-on-one](https://algonquincollege.libguides.com/slc/peer-tutoring)
 
   - content: |
       ## Marking scheme
