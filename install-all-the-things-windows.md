@@ -77,7 +77,7 @@ steps:
         *Choose whatever username and email address you’d like.*
       2. Choose the *free* plan when you get to that screen.
 
-      You’ll be handing in your profile page to Canvas later.
+      You’ll be handing in your profile page online later.
     notes:
       - label: "Remember"
         text: "Though it shouldn’t need to be said: remember your password!"

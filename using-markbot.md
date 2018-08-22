@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "Using Markbot"
-desc: "Use Markbot to check that your code follows all the requirements and submit it to Canvas when it passes."
+desc: "Use Markbot to check that your code follows all the requirements and submit it for grades when it passes."
 
 video: "Li9RIuDSMFo"
 hide_show_for_marks: true
@@ -144,9 +144,9 @@ steps:
       - label: "Reminder"
         text: "Always test the live website before submitting—it can easily look different from the local one."
 
-  - title: "Submit to Canvas"
+  - title: "Submit for grades"
     before: |
-      When everything is working perfectly, submit the assignment to Canvas with the big button in Markbot.
+      When everything is working perfectly, submit the assignment for grades with the big button in Markbot.
 
       ![](submit.jpg)
 

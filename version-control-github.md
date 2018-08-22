@@ -88,7 +88,7 @@ slides:
       2. Commit & sync
       3. Drop the folder into Markbot
       4. See your automated tests pass/fail
-      5. When they pass, submit it to Canvas
+      5. When they pass, submit it for grades
 
   - content: |
       ## Videos & tutorials
