@@ -1,6 +1,6 @@
 ---
-topic: "Media queries & float"
-desc: "Use media queries and float together to make responsive layouts."
+topic: "Media queries & Flexbox"
+desc: "Use media queries and Flexbox together to make responsive layouts."
 clr: "1, 2, 3, 4"
 
 video_tutorials:

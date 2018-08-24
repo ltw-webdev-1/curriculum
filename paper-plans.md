@@ -25,7 +25,7 @@ slides:
         Assign each box a semantically appropriate HTML tag.
 
       3. **Apply basic CSS**
-        `@media`, `display`, `margin`, `padding`, `width`, `float`, `position`
+        `@media`, `display`, `margin`, `padding`, `width`, `position`
 
   - type: image
     image: layout-1.png

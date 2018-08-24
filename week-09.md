@@ -1,11 +1,11 @@
 ---
-topic: "Float & clear"
-desc: "Learn to create more complex layouts with the float and clear CSS properties."
+topic: "Flexbox"
+desc: "Learn to create more complex layouts with the Flexbox CSS properties."
 clr: "1, 2, 3"
 
 video_tutorials:
-  - title: "Float & clear"
-    url: float-clear
+  - title: "Flexbox"
+    # url: flexbox
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
   - title: "Boxes & borders cheat sheet"
@@ -16,22 +16,19 @@ video_tutorials:
     url: html-indentation
 
 slides:
-  - title: "Float & clear"
-    url: float-clear
+  - title: "Flexbox"
+    url: flexbox
 
 tasks:
   - title: "Ingenious Indentor"
     url: "https://activities.learn-the-web.algonquindesign.ca/ingenious-indentor/"
     type: activity
-  - title: "Learning float & clear"
-    url: learning-float-and-clear
-    submit: "Submit nothing."
+  - title: "Flexing your muscles"
+    url: flexing-your-muscles
     type: lesson
-    graded-as: false
+    disabled: true
   - title: "Header icons"
     url: "https://github.com/acgd-webdev-1/header-icons"
-  - title: "Typographic insets"
-    url: "https://github.com/acgd-webdev-1/typographic-insets"
   - title: "Columns of cards"
     url: "https://github.com/acgd-webdev-1/columns-of-cards"
 ---
