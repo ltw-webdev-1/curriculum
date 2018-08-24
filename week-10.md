@@ -1,35 +1,35 @@
 ---
-# topic: "Reading week—no classes"
-topic: "Work week"
-# during_class: "No class"
-# desc: "No classes, labs or new homework this week—get caught up!"
-desc: "Work classes to get caught up and ready for the final push to the end of the term!"
+topic: "Position & z-index"
+desc: "Look into layering elements in a website with the position and z-index properties."
 clr: "1, 2, 3"
 
-# no_lab_times: true
-# no_office_hours: true
+video_tutorials:
+  - title: "Position & z-index"
+    url: position-zindex
+    videos: true
+  - title: "CSS layout cheat sheet"
+    url: css-layout-cheat-sheet
+  - title: "Web typography cheat sheet"
+    url: web-typography-cheat-sheet
+  - title: "Boxes & borders cheat sheet"
+    url: boxes-borders-cheat-sheet
 
-group_activities:
-  - title: "Index card Q&A"
-    url: "/courses/shared/index-card-qa/"
-    type: pencil
+slides:
+  - title: "Position & z-index"
+    url: position-zindex
 
 tasks:
-  - type: blank
-  - title: "One-on-one time"
-    url: "https://github.com/acgd-webdev-shared/one-on-one-time"
-    type: basic
-    button: activity
-    submit: "Submit nothing."
-    graded-as: false
-  - title: "Mid-course feedback"
-    url: "/feedback/"
-    type: basic
-    submit: "Submit feedback form."
-    graded-as: false
-  - title: "Continue assignments"
-    url: "https://github.com/acgd-webdev-shared/continue-assignments"
-    submit: "Submit nothing new."
-    graded-as: false
-  - type: watch-videos
+  - title: "Em Enforcer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
+    type: activity
+  - title: "Making an image card"
+    url: making-an-image-card
+    type: lesson
+    submit: code
+  - title: "Hero banner"
+    url: "https://github.com/acgd-webdev-1/hero-banner"
+  - title: "Call to action banner"
+    url: "https://github.com/acgd-webdev-1/call-to-action-banner"
+  - title: "Exploding robot head"
+    url: "https://github.com/acgd-webdev-1/exploding-robot-head"
 ---

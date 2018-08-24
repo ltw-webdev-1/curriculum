@@ -1,37 +1,35 @@
 ---
-topic: "Float & clear"
-desc: "Learn to create more complex layouts with the float and clear CSS properties."
+# topic: "Reading week—no classes"
+topic: "Work week"
+# during_class: "No class"
+# desc: "No classes, labs or new homework this week—get caught up!"
+desc: "Work classes to get caught up and ready for the final push to the end of the term!"
 clr: "1, 2, 3"
 
-video_tutorials:
-  - title: "Float & clear"
-    url: float-clear
-  - title: "CSS layout cheat sheet"
-    url: css-layout-cheat-sheet
-  - title: "Boxes & borders cheat sheet"
-    url: boxes-borders-cheat-sheet
-  - title: "Navigation"
-    url: navigation
-  - title: "HTML indentation"
-    url: html-indentation
+# no_lab_times: true
+# no_office_hours: true
 
-slides:
-  - title: "Float & clear"
-    url: float-clear
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
 
 tasks:
-  - title: "Ingenious Indentor"
-    url: "https://activities.learn-the-web.algonquindesign.ca/ingenious-indentor/"
-    type: activity
-  - title: "Learning float & clear"
-    url: learning-float-and-clear
+  - type: blank
+  - title: "One-on-one time"
+    url: "https://github.com/acgd-webdev-shared/one-on-one-time"
+    type: basic
+    button: activity
     submit: "Submit nothing."
-    type: lesson
     graded-as: false
-  - title: "Header icons"
-    url: "https://github.com/acgd-webdev-1/header-icons"
-  - title: "Typographic insets"
-    url: "https://github.com/acgd-webdev-1/typographic-insets"
-  - title: "Columns of cards"
-    url: "https://github.com/acgd-webdev-1/columns-of-cards"
+  - title: "Mid-course feedback"
+    url: "/feedback/"
+    type: basic
+    submit: "Submit feedback form."
+    graded-as: false
+  - title: "Continue assignments"
+    url: "https://github.com/acgd-webdev-shared/continue-assignments"
+    submit: "Submit nothing new."
+    graded-as: false
+  - type: watch-videos
 ---
