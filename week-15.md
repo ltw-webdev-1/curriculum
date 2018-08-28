@@ -4,6 +4,9 @@ desc: "Finish the responsive confectionery website prototype by the end of the t
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
+  - title: "Homepage checklist"
+    url: homepage-checklist
+    highlight: true
   - title: "Browser testing"
     url: browser-testing
   - title: "Browser testing checklist"

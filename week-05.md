@@ -21,6 +21,9 @@ video_tutorials:
   - title: "Web typography cheat sheet"
     url: web-typography-cheat-sheet
     highlight: true
+  - title: "Web typography checklist"
+    url: web-typography-checklist
+    highlight: true
   - title: "Validators"
     url: validators
 

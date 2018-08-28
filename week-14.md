@@ -4,6 +4,9 @@ desc: "Start planning your confectionery website by sketching, writing text & st
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
+  - title: "Homepage checklist"
+    url: homepage-checklist
+    highlight: true
   - title: "Naming & paths cheat sheet"
     url: naming-paths-cheat-sheet
   - title: "Screen sizes cheat sheet"
