@@ -28,6 +28,7 @@ tasks:
     type: lesson
   - title: "Using Markbot"
     url: using-markbot
+    disabled: true
   - title: "Create tagged issue"
     url: create-tagged-issue
     type: lesson
