@@ -44,10 +44,8 @@ steps:
       *If you don’t have an Apple App Store account (or forget your password):*
 
       1. [Download The Unarchiver](http://unarchiver.c3.cx/unarchiver) from the website.
-      2. Mount the disk image by double clicking.
+      2. Unzip the downloaded file
       3. Drag the application to your “Applications” folder.
-      4. Eject the mounted disk from your computer.
-      5. Delete the downloaded file.
 
   - title: "Install Firefox"
     before: |
@@ -80,10 +78,9 @@ steps:
       ![](opera.jpg)
 
       1. Go to Opera’s website and [download Opera](http://www.opera.com/).
-      2. Mount the disk image by double clicking.
+      2. Unzip the download
       3. Double click the installer and let it do its thing.
-      4. Eject the mounted disk from your computer.
-      5. Delete the downloaded file.
+      5. Delete the downloaded installer file.
 
     notes:
       - label: "Warning"
@@ -108,7 +105,7 @@ steps:
       A simple way to test is using an online emulation service. *BrowserStack, sponsored by Microsoft, provides free Microsoft Edge testing.* So, we’re going to use that service.
 
       1. Go to [BrowserStack’s website](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud) and create an account (press “Get Started”).
-      2. When it prompts you if you want to test `localhost`: “Yes” you want to do that, so install the extension.
+      2. You may be prompted to install something else for testing on `localhost`: Press “Yes” you want to do that, and install the extension.
 
   # - title: "Install VirtualBox"
   #   before: |
@@ -157,7 +154,7 @@ steps:
 
       1. <a href="fixer.html" download="fixer.html">Download this HTML file.</a>
         *(If clicking this link doesn’t download the file, `Right Click > Download Linked File`.)*
-      2. Go to where it was downloaded and right click—press “Get Info”.
+      2. In Finder, go to where it was downloaded (likely your “Downloads” folder) and right click—press “Get Info”.
       3. Under the “Open with” section, set it to “Firefox” or “Chrome”.
       4. Press “Change All…”.
       5. Close the info window and trash the HTML file.

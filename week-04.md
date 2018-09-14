@@ -10,14 +10,15 @@ video_tutorials:
   - title: "HTML indentation"
     url: html-indentation
     videos: true
+  - title: "Marking up a webpage"
+    url: marking-up-a-webpage
+    videos: true
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
     highlight: true
   - title: "HTML semantics checklist"
     url: html-semantics-checklist
     highlight: true
-  - title: "Marking up a webpage"
-    url: marking-up-a-webpage
   - title: "Validators"
     url: validators
 
