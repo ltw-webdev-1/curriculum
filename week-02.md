@@ -37,7 +37,7 @@ tasks:
     type: lesson
   - title: "Submit GitHub account"
     url: "https://github.com/acgd-webdev-1/submit-github-account"
-    type: activity
+    type: basic
     submit: online
     button: online
     icon: star
