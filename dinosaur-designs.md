@@ -279,7 +279,7 @@ steps:
         text: |
           We are adding a matching `id` attribute to the `<h2>` tag that will show the matching navigation item where to jump down to in the content.
     after: |
-      **The next part is completely up to you: copy and paste the `<figure>` to add the remaining two dinosaurs onto the page.**
+      **The next part is completely up to you: copy and paste the `<h2>` & `<figure>` tags to add the remaining two dinosaurs onto the page.**
 
       After you’ve added the final two dinosaurs you should see this:
 
