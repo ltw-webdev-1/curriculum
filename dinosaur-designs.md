@@ -400,6 +400,8 @@ steps:
       3. Put the new font in your HTML
       4. Change the headings and the navigation to use the new font
 
+      **Double check Google’s CSS `font-family` code, it states that the backup font for ”Patua One” is a `cursive` font, which isn’t correct—replace `cursive` with a more appropriate backup font like `sans-serif`.**
+
       *After you’re done the above steps it should look like this in your browser:*
 
       ![](goal.jpg)
