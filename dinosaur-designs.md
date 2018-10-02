@@ -45,9 +45,6 @@ steps:
     folders:
       - label: "dinosaur-designs"
         type: folder
-      - label: "content.txt"
-        indent: 1
-        fade: true
       - label: "index.html"
         indent: 1
       - label: "css"
@@ -55,6 +52,10 @@ steps:
         indent: 1
       - label: "main.css"
         indent: 2
+      - label: "content.txt"
+        indent: 1
+        fade: true
+        notes: "For copying-and-pasting the text"
       - label: "images"
         type: folder
         indent: 1
