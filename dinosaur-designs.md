@@ -39,12 +39,15 @@ fork:
 steps:
   - title: "Set up project"
     before: |
-      After cloning the repository to your computer you should have some starter images.
+      After cloning the repository to your computer you should have some starter images. And a file named `content.txt` that contains all the text content so you can copy and paste.
 
       **Drag the `dinosaur-designs` folder to Atom and make an HTML file & a CSS file.**
     folders:
       - label: "dinosaur-designs"
         type: folder
+      - label: "content.txt"
+        indent: 1
+        fade: true
       - label: "index.html"
         indent: 1
       - label: "css"
@@ -138,6 +141,8 @@ steps:
   - title: "Add some content"
     before: |
       Switch to your `index.html` file inside Atom—open it in a new tab.
+
+      *You can copy and paste the text content from `content.txt` to make sure there are no typos.*
     code_lang: 'html'
     code_file: 'index.html'
     code: |
