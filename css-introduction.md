@@ -111,7 +111,7 @@ slides:
         background-color: cornsilk;
       }
       b {
-        color: #228b22;
+        color: #22bb22;
       }
       .intro {
         background-color: rgba(85, 107, 47, .4);
