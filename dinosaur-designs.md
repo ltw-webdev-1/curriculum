@@ -265,7 +265,7 @@ steps:
 
         <main>
 
-          <h2 id="#hadrosaur">Hadrosaur</h2>
+          <h2 id="hadrosaur">Hadrosaur</h2>
           <figure>
             <img src="images/hadrosaur.jpg" alt="">
       ⋮
@@ -352,7 +352,7 @@ steps:
         code_lang: 'html'
         code: |
           ⋮
-          <h2 id="#hadrosaur">Hadrosaur</h2>
+          <h2 id="hadrosaur">Hadrosaur</h2>
           <figure>
             <img src="images/hadrosaur.jpg" alt="">
             <figcaption class="intro">Hadrosaurids are descendants of the Upper Jurassic/Lower Cretaceous iguanodontian dinosaurs and had a similar body layout.</figcaption>
