@@ -105,7 +105,7 @@ steps:
         <ul class="cards">
 
           <li>
-            <img src="http://placehold.it/32x32" alt="">
+            <img src="https://placehold.it/32x32" alt="">
             <strong>Voyager 1</strong>
             <dl>
               <dt>Launched:</dt>
