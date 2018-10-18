@@ -142,12 +142,20 @@ slides:
         </div>
       </a>
     css_lines:
-      - num: 6
+      - num: 2
+        text: |
+          The `<a>` tag is `display: inline` by default. But in the HTML here, we have block-level elements (`<h2>`, `<p>`, `<div>`) in the `<a>` tag.
+
+          **We cannot have `block` elements inside `inline` elements.** To solve the problem we must also set the `<a>` tag to be `display: block`
+      - num: 9
         text: |
           When doing link cards we need to think about what thing we’re hovering on—in this case it’s `.link-card` itself.
 
           Because `.link-card` has elements inside, that means we can target those elements when `.link-card` is hovered. By using CSS like this we can hover anywhere on a larger box and make elements inside that box change style.
     css: |
+      .link-card {
+        display: block;
+      }
       .link-card:hover {
         background-color: #5e54af;
         border-color: #5e54af;
