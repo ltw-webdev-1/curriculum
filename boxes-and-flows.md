@@ -199,6 +199,7 @@ slides:
                                       /*   `auto` allows a display block box to centre */
         padding: 1em;                 /* All 4 sides the same */
         display: inline-block;        /* inline, block, inline-block */
+        vertical-align: middle;       /* Shift elements up & down to align different positions */
         text-align: center;           /* Only centres children, not the box itself */
       }
 
