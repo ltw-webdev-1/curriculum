@@ -209,11 +209,11 @@ steps:
     before: |
       We need to install the JDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
 
-      Go to the JDK download page on [Oracle’s Java Downloads](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) website.
+      Go to the JDK download page on [Oracle’s Java Downloads](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) website.
 
       ![](jdk-license.jpg)
 
-      *Don’t forget to accept the license agreement.*
+      **Chosse the `.dmg` version.** *And don’t forget to accept the license agreement.*
 
       ![](jdk.jpg)
 
