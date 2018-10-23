@@ -5,7 +5,12 @@ clr: "1, 2, 3"
 
 video_tutorials:
   - title: "Flexbox"
-    # url: flexbox
+    url: flexbox
+    videos: true
+    highlight: true
+  - title: "Flexbox cheat sheet"
+    url: flexbox-cheat-sheet
+    highlight: true
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
   - title: "Boxes & borders cheat sheet"

@@ -53,9 +53,12 @@ slides:
         background-color: yellow;
       }
     css_lines:
-      - num: "2-3"
+      - num: 2
         text: |
           We’re targeting all the child elements with the `.columns` class and applying a flexbox layout to them.
+      - num: 3
+        text: |
+          We don’t have to specify `flex-direction` if we want `row`—that’s the default. I’ve added it here just be more explicit.
 
   - type: interactive
     html: |
@@ -114,6 +117,7 @@ slides:
       ## Videos & tutorials
 
       - [Flexbox ➔](/topics/flexbox/)
+      - [Flexbox cheat sheet ➔](/topics/flexbox-cheat-sheet/)
       - [CSS layout cheat sheet ➔](/topics/css-layout-cheat-sheet/)
 
 ---
