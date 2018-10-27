@@ -24,6 +24,12 @@ slides:
   - title: "Flexbox"
     url: flexbox
 
+group_activities:
+  - title: "Family lines"
+    url: family-lines
+    type: pencil
+    pair: true
+
 tasks:
   - title: "Ingenious Indentor"
     url: "https://activities.learn-the-web.algonquindesign.ca/ingenious-indentor/"
@@ -31,7 +37,6 @@ tasks:
   - title: "Flexing your muscles"
     url: flexing-your-muscles
     type: lesson
-    disabled: true
   - title: "Header icons"
     url: "https://github.com/acgd-webdev-1/header-icons"
   - title: "Columns of cards"
