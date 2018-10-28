@@ -109,9 +109,9 @@ slides:
           - `center` — align their centres within the parent box
           - `stretch` — force the elements to be exactly the same height
           - `flex-start` — align them to the top
-          - `flex-end` — align them to the top
+          - `flex-end` — align them to the bottom
 
-          † “Vertical” is a real simplification because Flexbox can actually work vertically too, so `align-items` technically works on the “cross axis” of the flex container. [Learn more about flexbox axes ➔](/topics/flexbox/#flexbox-axes)
+          † “Vertical” is a real simplification because Flexbox can actually work vertically too, so `align-items` technically works on the “cross axis” of the flex container. [Learn more about flexbox axes ➔](/topics/flexbox/#vertically-flexible--wrapping)
 
   - content: |
       ## Videos & tutorials
