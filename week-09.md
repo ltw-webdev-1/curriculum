@@ -41,4 +41,5 @@ tasks:
     url: "https://github.com/acgd-webdev-1/header-icons"
   - title: "Columns of cards"
     url: "https://github.com/acgd-webdev-1/columns-of-cards"
+  - type: watch-videos
 ---
