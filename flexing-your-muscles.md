@@ -102,7 +102,7 @@ steps:
       }
 
       body {
-        margin: 0
+        margin: 0;
       }
 
       img {
@@ -257,7 +257,7 @@ steps:
       .footer {
         display: flex;
         justify-content: space-between;
-        flex-wrap: wrap
+        flex-wrap: wrap;
         padding: 1em 0;
 
         background-color: #8bc9d9;
