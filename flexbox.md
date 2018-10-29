@@ -49,7 +49,6 @@ slides:
         flex-direction: row;
       }
       .col {
-        width: 50%;
         background-color: yellow;
       }
     css_lines:
@@ -82,6 +81,26 @@ slides:
 
           - `space-between` — push them to the edges and distribute space between them evenly
           - `space-around` — distribute even space on the sides of the boxes, meaning they will no longer touch the edges
+
+  - type: interactive
+    html: |
+      <div class="columns">
+        <div class="col">Column 1</div>
+        <div class="col">Column 2</div>
+      </div>
+    css: |
+      .columns {
+        display: flex;
+        flex-direction: row;
+      }
+      .col {
+        width: 50%;
+        background-color: yellow;
+      }
+    css_lines:
+      - num: 6
+        text: |
+          We can still add other CSS properties we’re used to, like `width`, if we want to fill the elements inside the space.
 
   - type: interactive
     html: |
