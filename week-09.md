@@ -37,6 +37,7 @@ tasks:
   - title: "Flexing your muscles"
     url: flexing-your-muscles
     type: lesson
+    submit: code
   - title: "Header icons"
     url: "https://github.com/acgd-webdev-1/header-icons"
   - title: "Columns of cards"
