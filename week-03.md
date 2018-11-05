@@ -26,12 +26,14 @@ tasks:
   - title: "Website on GitHub"
     url: website-on-github
     type: lesson
+    no-solution: true
   - title: "Using Markbot"
     url: using-markbot
   - title: "Create tagged issue"
     url: create-tagged-issue
     type: lesson
     submit: "Make a GitHub Issue."
+    no-solution: true
   - title: "Using your code editor"
     url: using-your-code-editor
     type: lesson

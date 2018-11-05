@@ -22,6 +22,7 @@ group_activities:
   - title: "A web of screen sizes"
     url: a-web-of-screen-sizes
     type: pencil
+    no-solution: true
 
 tasks:
   - type: blank

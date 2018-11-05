@@ -29,6 +29,7 @@ group_activities:
     url: family-lines
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - title: "Ingenious Indentor"

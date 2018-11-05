@@ -17,6 +17,7 @@ group_activities:
     url: paper-plans
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - title: "Dev Tool Dynamo"

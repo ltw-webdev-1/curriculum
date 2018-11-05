@@ -33,6 +33,7 @@ group_activities:
     url: sketching-a-website
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - type: blank

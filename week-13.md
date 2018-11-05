@@ -15,6 +15,7 @@ group_activities:
     url: finding-patterns
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - title: "Hex Hacker"

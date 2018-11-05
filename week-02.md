@@ -32,9 +32,11 @@ tasks:
   - title: "Install all the things!"
     url: install-all-the-things
     type: lesson
+    no-solution: true
   - title: "Set up your code editor"
     url: set-up-your-code-editor
     type: lesson
+    no-solution: true
   - title: "Submit GitHub account"
     url: "https://github.com/acgd-webdev-1/submit-github-account"
     type: basic
