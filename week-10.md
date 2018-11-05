@@ -18,6 +18,13 @@ slides:
   - title: "Position & z-index"
     url: position-zindex
 
+group_activities:
+  - title: "C’mon do the sketchin’"
+    url: cmon-do-the-sketchin
+    pair: true
+    type: pencil
+    no-solution: true
+
 tasks:
   - title: "Em Enforcer"
     url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
