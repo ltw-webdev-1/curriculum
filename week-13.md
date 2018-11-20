@@ -24,6 +24,9 @@ tasks:
   - type: blank
   - title: "Responsive image & caption"
     url: "https://github.com/acgd-webdev-1/responsive-image-caption"
+  - title: "Confectionery website sketches"
+    url: "https://github.com/acgd-webdev-1/confectionery-website-sketches"
+    type: paper
   - title: "Confectionery website prototype"
     url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
