@@ -21,6 +21,7 @@ tasks:
     submit: "Submit nothing."
     pair: true
     no-solution: true
+    progressinator_id: confectionery-browser-testing
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-1/request-for-grade"
     due: "Midnight, last day of class"
