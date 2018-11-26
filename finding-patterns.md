@@ -11,6 +11,15 @@ slides:
       **Finding patterns**
 
   - content: |
+      ## What & why
+
+      Many websites are made of up of similar design patterns, repeated and tweaked to create a new website.
+
+      When we can determine what pattern the design matches we can more easily duplicate it.
+
+      **Matching patterns to references we’ve done before simplifies writing code.**
+
+  - content: |
       ## Set up
 
       1. Form into pairs
