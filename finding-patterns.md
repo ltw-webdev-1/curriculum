@@ -56,7 +56,4 @@ slides:
   - type: image
     image: pattern-10.jpg
 
-  - type: image
-    image: pattern-11.jpg
-
 ---
