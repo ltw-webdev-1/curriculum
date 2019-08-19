@@ -29,6 +29,10 @@ slides:
 
 tasks:
   - type: blank
+  - title: "Create Progressinator account"
+    url: create-progressinator-account
+    type: lesson
+    no-solution: true
   - title: "Install all the things!"
     url: install-all-the-things
     type: lesson
@@ -37,11 +41,5 @@ tasks:
     url: set-up-your-code-editor
     type: lesson
     no-solution: true
-  - title: "Submit GitHub account"
-    url: "https://github.com/acgd-webdev-1/submit-github-account"
-    type: basic
-    submit: online
-    button: online
-    icon: star
   - type: watch-videos
 ---

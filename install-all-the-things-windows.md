@@ -5,6 +5,13 @@ desc: "Set up your computer, install all the different web browsers, install a c
 
 hide_markbot: true
 
+important:
+  title: "Windows-specific tutorial"
+  text: |
+    If you have a MacOS-based computer jump to the correct lesson.
+
+    [**☛ Go to the MacOS installation tutorial.**](/courses/web-dev-1/install-all-the-things/)
+
 steps:
   - title: "Configure File Explorer"
     before: |
@@ -15,11 +22,6 @@ steps:
       1. Go to a folder.
       2. Go to the “View” tab.
       3. Make sure “File name extensions” is checked.
-    notes:
-      - label: "Mac"
-        text: |
-          If you’re a Mac user, this tutorial isn’t for you.
-          <br>[**☛ Go to the Mac installation tutorial.**](/courses/web-dev-1/install-all-the-things/)
 
   - title: "Install Firefox"
     before: |
@@ -106,7 +108,7 @@ steps:
     before: |
       We need to install the JDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
 
-      Go to the JDK download page on [Oracle’s Java Downloads](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) website.
+      Go to the JDK download page on [Oracle’s Java Downloads](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) website.
 
       ![](jdk-license.jpg)
 
@@ -131,6 +133,14 @@ steps:
       *If Markbot gives you an “Unidentified developer” security warning—click the “More info” link and press “Run anyways”.*
 
       ![](markbot.jpg)
+
+      ### Add your Progressinator API key
+
+      Go back to your browser tab with your Progressinator profile & copy & paste the API key into Markbot:
+
+      ![](markbot-api-key.jpg)
+
+      **Then “Sign-in” to Markbot.**
 
   - title: "Final checklist"
     before: |

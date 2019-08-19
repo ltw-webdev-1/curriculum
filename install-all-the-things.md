@@ -6,6 +6,13 @@ desc: "Set up your computer, install all the different web browsers, install a c
 hide_markbot: true
 video: "-wwzFCj_keE"
 
+important:
+  title: "MacOS-specific tutorial"
+  text: |
+    If you have a Windows-based computer jump to the correct lesson.
+
+    [**☛ Go to the Windows installation tutorial.**](/courses/web-dev-1/install-all-the-things-windows/)
+
 steps:
   - title: "Configure Finder"
     before: |
@@ -16,15 +23,10 @@ steps:
       1. Go to `Finder > Preferences`.
       2. Go to “Advanced”.
       3. Make sure “Show all filename extensions” is checked.
-    notes:
-      - label: "Windows"
-        text: |
-          If you’re a Windows user, this tutorial isn’t for you.
-          <br>[**☛ Go to the Windows installation tutorial.**](/courses/web-dev-1/install-all-the-things-windows/)
 
   - title: "Configure keyboard preferences"
     before: |
-      By default some of the keyboard features are turned off on Mac OS X—let’s fix that.
+      By default some of the keyboard features are turned off on MacOS—let’s fix that.
 
       ![](keyboard.jpg)
 
@@ -96,16 +98,16 @@ steps:
       2. Go to the “Advanced” tab.
       3. Make sure “Show Develop menu in menu bar” is enabled.
 
-  - title: "Create a BrowserStack account"
-    before: |
-      We want to be able to test Microsoft Edge, but because we’re using MacOS, that becomes a little more difficult.
+  # - title: "Create a BrowserStack account"
+  #   before: |
+  #     We want to be able to test Microsoft Edge, but because we’re using MacOS, that becomes a little more difficult.
 
-      ![](browserstack.jpg)
+  #     ![](browserstack.jpg)
 
-      A simple way to test is using an online emulation service. *BrowserStack, sponsored by Microsoft, provides free Microsoft Edge testing.* So, we’re going to use that service.
+  #     A simple way to test is using an online emulation service. *BrowserStack, sponsored by Microsoft, provides free Microsoft Edge testing.* So, we’re going to use that service.
 
-      1. Go to [BrowserStack’s website](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud) and create an account (press “Get Started”).
-      2. You may be prompted to install something else for testing on `localhost`: Press “Yes” you want to do that, and install the extension.
+  #     1. Go to [BrowserStack’s website](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud) and create an account (press “Get Started”).
+  #     2. You may be prompted to install something else for testing on `localhost`: Press “Yes” you want to do that, and install the extension.
 
   # - title: "Install VirtualBox"
   #   before: |
@@ -209,7 +211,7 @@ steps:
     before: |
       We need to install the JDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
 
-      Go to the JDK download page on [Oracle’s Java Downloads](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) website.
+      Go to the JDK download page on [Oracle’s Java Downloads](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) website.
 
       ![](jdk-license.jpg)
 
@@ -237,6 +239,14 @@ steps:
 
       ![](markbot.jpg)
 
+      ### Add your Progressinator API key
+
+      Go back to your browser tab with your Progressinator profile & copy & paste the API key into Markbot:
+
+      ![](markbot-api-key.jpg)
+
+      **Then “Sign-in” to Markbot.**
+
   - title: "Final checklist"
     before: |
       Double check you’ve installed everything on your computer.
@@ -250,7 +260,7 @@ steps:
       - "Chrome"
       - "Opera"
       - "Configure Safari"
-      - "Create a BrowserStack account"
+      # - "Create a BrowserStack account"
       - "Get HTML files to open properly"
       - "Create a GitHub account"
       - "GitHub Desktop"
