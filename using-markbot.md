@@ -150,8 +150,8 @@ steps:
 
       ![](submit.jpg)
 
-      *Go check it out to make sure.*
+      [**Go check Progressinator it out to make sure.**](https://progress.learn-the-web.algonquindesign.ca/)
 
-      ![](canvas-grades.jpg)
+      ![](progressinator-grades.jpg)
 
 ---
