@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "Install all the things!"
-desc: "Set up your computer, install all the different web browsers, install a code editor, and set up GitHub."
+desc: "Set up your computer, install all the different web browsers, install a code editor, and set up GitHub Desktop."
 
 hide_markbot: true
 
@@ -68,21 +68,6 @@ steps:
       2. Go to where it was downloaded and right click—press “Properties”.
       3. Under the “Opens with” section, click the “Change…” button and set it to “Firefox” or “Chrome”.
       5. Close the properties window and trash the HTML file.
-
-  - title: "Create a GitHub account"
-    before: |
-      Git is a version control system and GitHub allows us to host all our code & websites online. (More on these two things next week.)
-
-      ![](github.jpg)
-
-      1. Go to [GitHub](https://github.com/) and sign up for an account.
-        *Choose whatever username and email address you’d like.*
-      2. Choose the *free* plan when you get to that screen.
-
-      You’ll be handing in your profile page online later.
-    notes:
-      - label: "Remember"
-        text: "Though it shouldn’t need to be said: remember your password!"
 
   - title: "Install GitHub Desktop"
     before: |

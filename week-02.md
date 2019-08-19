@@ -29,8 +29,8 @@ slides:
 
 tasks:
   - type: blank
-  - title: "Create Progressinator account"
-    url: create-progressinator-account
+  - title: "Create online accounts"
+    url: create-online-accounts
     type: lesson
     no-solution: true
   - title: "Install all the things!"
