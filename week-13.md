@@ -11,6 +11,10 @@ video_tutorials:
     url: media-queries-layout
 
 group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+    no-solution: true
   - title: "Finding patterns"
     url: finding-patterns
     type: pencil

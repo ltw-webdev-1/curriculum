@@ -22,6 +22,12 @@ slides:
   - title: "Link patterns"
     url: link-patterns
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+    no-solution: true
+
 tasks:
   - title: "Display Dominator"
     url: "https://activities.learn-the-web.algonquindesign.ca/display-dominator/"
