@@ -9,10 +9,12 @@ slides:
       **Web Dev 1**
 
   - content: |
-      ## Thomas J Bradley
-      *Super nerd*
+      ## Thomas J Bradley <em class="not-bold exa">(He, him, his)</em>
 
-      Office @ J104<br>
+      **Super nerd**
+
+      Office @ J104
+
       [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
 
   - content: |
