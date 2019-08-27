@@ -19,6 +19,18 @@ steps:
       - label: "Remember"
         text: "Though it shouldn’t need to be said: remember your password!"
 
+  - title: "Put your name into GitHub"
+    before: |
+      After creating your account go to your user settings and input your full name—**this is the name that will be shown to me when I do marking.**
+
+      ![](github-settings.jpg)
+
+      *Go to “Settings” in the user menu.*
+
+      ![](github-name.jpg)
+
+      *Input your full name for grading purposes.*
+
   - title: "Create your Progressinator account"
     before: |
       For the Web Dev courses you’ll be watching your progress & getting your grades on a application named Progressinator—instead of in Algonquin’s BrightSpace.
