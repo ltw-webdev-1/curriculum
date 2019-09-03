@@ -32,14 +32,30 @@ slides:
       - Fully responsive interactive wireframes
 
   - content: |
-      ## High expectations
+      ## How to succeed in Web Dev
 
       *Coding is a different mindset—and will be difficult for most*
 
-      - Attend every class
-      - Do all the work
-      - Put in the effort
-      - Watch the videos before class
+      - [ ] Attend every class & lab
+      - [ ] Do all the work
+      - [ ] Put in the effort
+      - [ ] Watch the videos before class
+      - [ ] Use the resources available: teachers, TAs, lab time
+      - [ ] Always ask for help
+
+  - content: |
+      ## You will struggle & fail*
+
+      *\*Fail in the make mistakes sense, not in the fail the course sense*
+
+      - It’s okay to struggle
+      - It’s to make mistakes & have to start over
+      - It’s okay to need help
+
+      **Some of the best learning comes from failure**
+    notes: |
+      > “Take chances, make mistakes & get messy.”
+      > — Miss Frizzle
 
   - content: |
       ## Getting help
