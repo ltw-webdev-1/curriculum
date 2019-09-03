@@ -20,7 +20,7 @@ slides:
     url: version-control-github
 
 notes:
-  - "Graphic Design alumni presentation on the impact of learning to code on their career"
+  - "Graphic Design alumni presentation on the career impact of learning to code"
 
 tasks:
   - title: "Keyboard Commander"
