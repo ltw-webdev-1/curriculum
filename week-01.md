@@ -6,6 +6,8 @@ clr: ""
 slides:
   - title: "Web Dev 1 intro"
     url: intro
+  - title: "Why learn to code?"
+    url: why-learn-to-code
 
 tasks:
   - type: blank

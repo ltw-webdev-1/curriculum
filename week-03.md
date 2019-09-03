@@ -19,6 +19,9 @@ slides:
   - title: "Version control & GitHub"
     url: version-control-github
 
+notes:
+  - "Graphic Design alumni presentation on the impact of learning to code on their career"
+
 tasks:
   - title: "Keyboard Commander"
     url: "https://activities.learn-the-web.algonquindesign.ca/keyboard-commander/"
