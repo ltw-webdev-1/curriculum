@@ -27,6 +27,13 @@ slides:
   - title: "The Open Web"
     url: the-open-web
 
+group_activities:
+  - title: "How much code have you used?"
+    url: how-much-code-have-you-used
+    type: pencil
+    pair: true
+    no-solution: true
+
 tasks:
   - type: blank
   - title: "Create online accounts"
