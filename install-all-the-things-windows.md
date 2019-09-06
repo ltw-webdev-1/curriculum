@@ -91,15 +91,13 @@ steps:
 
   - title: "Install the Java Developer Kit"
     before: |
-      We need to install the JDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
+      We need to install the OpenJDK because the automated marking program, Markbot, needs access to Java for performing some of it’s tasks.
 
-      Go to the JDK download page on [Oracle’s Java Downloads](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) website.
-
-      ![](jdk-license.jpg)
-
-      **Choose the `.exe` version.** *And don’t forget to accept the license agreement.*
+      Go to the OpenJDK download page on [Adopt OpenJDK](https://adoptopenjdk.net/) website.
 
       ![](jdk.jpg)
+
+      **Choose the “latest” version of OpenJDK at the bottom of the list.**
 
       1. Download the JDK for your computer.
       3. Double click the installer and let it do its thing.
