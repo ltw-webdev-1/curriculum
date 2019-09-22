@@ -23,6 +23,8 @@ video_tutorials:
     url: validators
 
 slides:
+  - title: "Naming conventions"
+    url: naming-conventions
   - title: "HTML introduction"
     url: html-introduction
 

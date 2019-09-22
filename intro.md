@@ -91,11 +91,4 @@ slides:
 
       ![](sticky-notes.svg)
 
-  - content: |
-      ## Naming conventions
-
-      1. All lowercase.
-      2. No spaces!
-      3. Only letters, numbers, and dashes (-).
-
 ---
