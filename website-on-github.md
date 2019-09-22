@@ -54,10 +54,7 @@ steps:
           Click the “Settings” tab at the top of the repository.
       - url: "gh-pages.jpg"
         text: |
-          Scroll down a little and under the “GitHub Pages” section, where it says “None”, select “master branch”.
-      - url: "gh-pages-save.jpg"
-        text: |
-          Press “Save”
+          Scroll down a little and under the “GitHub Pages” section, where it says “None”, select “master branch”. **The change will automatically save.**
 
   - title: "Clone to computer"
     before: |
