@@ -143,21 +143,6 @@ slides:
       }
 
   - content: |
-      ## Font sizes
-
-      Suggestions for the size to be displayed—user is always in control
-
-      - **`rem` — scalable size based on browser settings**
-      - `em` — scalable size based on parent element
-      - `px` — don’t use for font-size—ever
-    notes: |
-      We are not—and shouldn’t be—in control of the font-size a person uses to view our website. They can increase or decrease the font-size however they want.
-
-      Instead we specify a scale of font-sizes. Using the `rem` unit we can say that the font-size should be 1.5× larger than the body copy.
-
-      The default font-size in browsers (assuming you didn’t change it) is `16px`. This is a nice readable size and you **should never** make the body copy small than that. So, translated to `rem`: *the body copy of your website should never be smaller than `1rem`*
-
-  - content: |
       ## Core typefaces
 
       - Arial
@@ -184,6 +169,21 @@ slides:
       As designers you’ll likely want to use more than just the default typefaces. That’s where online services like Google Fonts of Typekit help out. They provide large databases of properly web-licensed fonts for you to use on your website.
 
       You cannot just use any font that’s on your computer, like you can in print, because the user of the website would have to also have that font installed on their computer to view it properly. Not to mention the fact that almost all of the fonts on your computer aren’t licensed to be used on the web so it’d be illegal to use the in a website anyways.
+
+  - content: |
+      ## Font sizes
+
+      Suggestions for the size to be displayed—user is always in control
+
+      - **`rem` — scalable size based on browser settings**
+      - `em` — scalable size based on parent element
+      - `px` — don’t use for font-size—ever
+    notes: |
+      We are not—and shouldn’t be—in control of the font-size a person uses to view our website. They can increase or decrease the font-size however they want.
+
+      Instead we specify a scale of font-sizes. Using the `rem` unit we can say that the font-size should be 1.5× larger than the body copy.
+
+      The default font-size in browsers (assuming you didn’t change it) is `16px`. This is a nice readable size and you **should never** make the body copy small than that. So, translated to `rem`: *the body copy of your website should never be smaller than `1rem`*
 
   - content: |
       ## Videos & tutorials
