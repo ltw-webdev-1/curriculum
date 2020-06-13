@@ -15,7 +15,7 @@ slides:
 
       Office @ J104
 
-      [thomas.bradley@algonquincollege.com](mailto:thomas.bradley@algonquincollege.com)
+      [thomas@learntheweb.courses](mailto:thomas@learntheweb.courses)
 
   - content: |
       ## What we’re learning
@@ -90,5 +90,4 @@ slides:
       Specify your working status by sticking sticky notes on your monitor
 
       ![](sticky-notes.svg)
-
 ---
