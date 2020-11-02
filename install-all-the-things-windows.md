@@ -97,7 +97,7 @@ steps:
 
       ![](jdk.jpg)
 
-      **Choose the “latest” version of OpenJDK at the bottom of the list.**
+      **Choose the “Open JDK 11 (LTS)” version of OpenJDK at the bottom of the list.**
 
       1. Download the JDK for your computer.
       3. Double click the installer and let it do its thing.
