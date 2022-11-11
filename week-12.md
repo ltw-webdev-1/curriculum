@@ -21,13 +21,13 @@ group_activities:
 
 tasks:
   - title: "Dev Tool Dynamo"
-    url: "https://activities.learn-the-web.algonquindesign.ca/dev-tool-dynamo/"
+    url: "https://activities.learntheweb.courses/dev-tool-dynamo/"
     type: activity
   - type: blank
   - title: "Image grid"
-    url: "https://github.com/acgd-webdev-1/image-grid"
+    url: "https://github.com/ltw-webdev-1/image-grid"
   - title: "Responsive header"
-    url: "https://github.com/acgd-webdev-1/responsive-header"
+    url: "https://github.com/ltw-webdev-1/responsive-header"
   - title: "Responsive section"
-    url: "https://github.com/acgd-webdev-1/responsive-section"
+    url: "https://github.com/ltw-webdev-1/responsive-section"
 ---

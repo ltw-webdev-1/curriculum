@@ -73,10 +73,10 @@ slides:
   - content: |
       ## Common media query widths
 
-      - `25em` — small screens
-      - `38em` — medium screens
-      - `60em` — large screens
-      - `90em` — extra large screens
+      - `25em` — small screens
+      - `38em` — medium screens
+      - `60em` — large screens
+      - `90em` — extra large screens
 
       *I found these numbers work for me based on making lots of websites and seeing what numbers appear most often*
 

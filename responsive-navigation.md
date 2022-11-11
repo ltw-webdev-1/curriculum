@@ -24,7 +24,7 @@ extra_tutorials:
     url: "/courses/web-dev-1/media-queries/"
 
 fork:
-  url: "https://github.com/acgd-webdev-1/responsive-navigation"
+  url: "https://github.com/ltw-webdev-1/responsive-navigation"
 
 steps:
   - title: "Set up project"
@@ -117,10 +117,10 @@ steps:
 
           The `-moz-`, `-ms-`, `-o-` & `-webkit-` parts are called vendor prefixes. They are beta versions of the feature that target specific browsers.
 
-          - `-moz-` — Mozilla, aka Firefox
-          - `-ms-` — Microsoft: IE & Edge
-          - `-o-` — Opera, older versions
-          - `-webkit-` — Webkit: Safari, Chrome, newer Opera
+          - `-moz-` — Mozilla, aka Firefox
+          - `-ms-` — Microsoft: IE & Edge
+          - `-o-` — Opera, older versions
+          - `-webkit-` — Webkit: Safari, Chrome, newer Opera
       - num: "8-11"
         text: |
           The `text-size-adjust` property tells the browser not to scale the fonts because we’ve set them up properly to be readable on any device screen.

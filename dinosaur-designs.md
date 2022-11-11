@@ -34,7 +34,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-1/dinosaur-designs/"
+  url: "https://github.com/ltw-webdev-1/dinosaur-designs/"
 
 steps:
   - title: "Set up project"
@@ -79,11 +79,11 @@ steps:
       1. Make a new `index.html` file
       2. Add the HTML boilerplate code to `index.html`
 
-      *Use the snippets we installed in the first class: `html5 — Tab`*
+      *Use the snippets we installed in the first class: `html5 — Tab`*
 
       ![](html5-snippet.gif)
 
-      *And: `viewport — Tab`*
+      *And: `viewport — Tab`*
 
       ![](viewport-snippet.gif)
 
@@ -93,7 +93,7 @@ steps:
       2. Create a new file named `main.css` and save it into the `css` folder
       3. Connect the HTML to the CSS
 
-      *Use the snippet: `css — Tab`*
+      *Use the snippet: `css — Tab`*
 
       ![](css-snippet.gif)
 
@@ -400,7 +400,7 @@ steps:
       3. Put the new font in your HTML
       4. Change the headings and the navigation to use the new font
 
-      **Double check Google’s CSS `font-family` code, it states that the backup font for ”Patua One” is a `cursive` font, which isn’t correct—replace `cursive` with a more appropriate backup font like `sans-serif`.**
+      **Double check Google’s CSS `font-family` code, it states that the backup font for ”Patua One” is a `cursive` font, which isn’t correct—replace `cursive` with a more appropriate backup font like `sans-serif`.**
 
       *After you’re done the above steps it should look like this in your browser:*
 

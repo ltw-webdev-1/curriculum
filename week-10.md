@@ -27,16 +27,16 @@ group_activities:
 
 tasks:
   - title: "Em Enforcer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
+    url: "https://activities.learntheweb.courses/em-enforcer/"
     type: activity
   - title: "Making an image card"
     url: making-an-image-card
     type: lesson
     submit: code
   - title: "Hero banner"
-    url: "https://github.com/acgd-webdev-1/hero-banner"
+    url: "https://github.com/ltw-webdev-1/hero-banner"
   - title: "Call to action banner"
-    url: "https://github.com/acgd-webdev-1/call-to-action-banner"
+    url: "https://github.com/ltw-webdev-1/call-to-action-banner"
   - title: "Exploding robot head"
-    url: "https://github.com/acgd-webdev-1/exploding-robot-head"
+    url: "https://github.com/ltw-webdev-1/exploding-robot-head"
 ---

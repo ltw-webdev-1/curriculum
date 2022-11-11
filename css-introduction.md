@@ -175,9 +175,9 @@ slides:
 
       Suggestions for the size to be displayed—user is always in control
 
-      - **`rem` — scalable size based on browser settings**
+      - **`rem` — scalable size based on browser settings**
       - `em` — scalable size based on parent element
-      - `px` — don’t use for font-size—ever
+      - `px` — don’t use for font-size—ever
     notes: |
       We are not—and shouldn’t be—in control of the font-size a person uses to view our website. They can increase or decrease the font-size however they want.
 

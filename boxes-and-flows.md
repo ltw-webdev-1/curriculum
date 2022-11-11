@@ -27,9 +27,9 @@ slides:
 
       There are 3 basic values to `display`:
 
-      1. `inline` — essentially just text, allows elements on the same line, but elements will get broken when wrapped to multiple lines.
-      2. `block` — force the element to be on its own line regardless of its width.
-      3. `inline-block` — a combination of `inline` & `block`: allows elements on the same line, but won’t get broken when it wraps.
+      1. `inline` — essentially just text, allows elements on the same line, but elements will get broken when wrapped to multiple lines.
+      2. `block` — force the element to be on its own line regardless of its width.
+      3. `inline-block` — a combination of `inline` & `block`: allows elements on the same line, but won’t get broken when it wraps.
     resizable: true
     html: |
       <!--
@@ -177,7 +177,7 @@ slides:
       ## Centering boxes
 
       `text-align: center`
-      — works on children only
+      — works on children only
       — only works on `inline` and `inline-block`
 
       `margin: 0 auto`

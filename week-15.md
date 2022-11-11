@@ -23,14 +23,14 @@ tasks:
     no-solution: true
     progressinator_id: confectionery-browser-testing
   - title: "Request for grade"
-    url: "https://github.com/acgd-webdev-1/request-for-grade"
+    url: "https://github.com/ltw-webdev-1/request-for-grade"
     due: "Midnight, last day of class"
     due_week: 15
     due_time: "23:59"
     type: basic
     graded-as: false
   - title: "Confectionery website prototype"
-    url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
+    url: "https://github.com/ltw-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
     due: "Midnight, last day of class"
     due_week: 15

@@ -83,7 +83,7 @@ steps:
       - `autoprefixer` — when run, adds the appropriate vendor prefixes to all CSS
       - `browser-refresh` — pressing Fn+F5 will refresh the current HTML file in the browser
       - `color-picker` — a pop-up color picker
-      - `pigments` — displays the colours in the code behind the number
+      - `pigments` — displays the colours in the code behind the number
       - `editorconfig` — for matching other designers’ coding standards
       - `emmet` — quick way to write HTML, using CSS selectors
       - `advanced-open-file` — opens up a quick new file input at the bottom of the screen, ⌘⌥O
@@ -99,7 +99,7 @@ steps:
 
       You type a keyword then hit `Tab` and it will insert a bunch of code automatically.
 
-      #### [Copy my starter snippets.](https://raw.githubusercontent.com/acgd-learn-the-web/atom-code/master/snippets.cson)
+      #### [Copy my starter snippets.](https://raw.githubusercontent.com/ltw-learn-the-web/atom-code/master/snippets.cson)
 
       From Atom, go in the menu to:
 

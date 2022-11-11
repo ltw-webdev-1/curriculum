@@ -33,9 +33,9 @@ slides:
       ## Flexbox
 
       - **`display: flex`** — turn the system on
-      - `flex-direction: row` — make all the children go side-by-side
-      - `justify-contents` — control the spacing around the children
-      - `align-items` — control the space above/below the children
+      - `flex-direction: row` — make all the children go side-by-side
+      - `justify-contents` — control the spacing around the children
+      - `align-items` — control the space above/below the children
 
   - type: interactive
     html: |
@@ -79,7 +79,7 @@ slides:
         text: |
           Without a width the flexbox’d elements will shrink to their smallest size. We can control how they are arranged using the `justify-content` property.
 
-          - `space-between` — push them to the edges and distribute space between them evenly
+          - `space-between` — push them to the edges and distribute space between them evenly
           - `space-around` — distribute even space on the sides of the boxes, meaning they will no longer touch the edges
 
   - type: interactive
@@ -125,8 +125,8 @@ slides:
         text: |
           The `align-items` property allows us to control the *vertical†* alignment of the elements in a row.
 
-          - `center` — align their centres within the parent box
-          - `stretch` — force the elements to be exactly the same height
+          - `center` — align their centres within the parent box
+          - `stretch` — force the elements to be exactly the same height
           - `flex-start` — align them to the top
           - `flex-end` — align them to the bottom
 

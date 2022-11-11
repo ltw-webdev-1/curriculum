@@ -98,56 +98,6 @@ steps:
       2. Go to the “Advanced” tab.
       3. Make sure “Show Develop menu in menu bar” is enabled.
 
-  # - title: "Create a BrowserStack account"
-  #   before: |
-  #     We want to be able to test Microsoft Edge, but because we’re using MacOS, that becomes a little more difficult.
-
-  #     ![](browserstack.jpg)
-
-  #     A simple way to test is using an online emulation service. *BrowserStack, sponsored by Microsoft, provides free Microsoft Edge testing.* So, we’re going to use that service.
-
-  #     1. Go to [BrowserStack’s website](https://www.browserstack.com/test-on-microsoft-edge-browser#live-cloud) and create an account (press “Get Started”).
-  #     2. You may be prompted to install something else for testing on `localhost`: Press “Yes” you want to do that, and install the extension.
-
-  # - title: "Install VirtualBox"
-  #   before: |
-  #     We want to install Internet Explorer and Microsoft Edge on our computers but they browsers only run on Windows.
-
-  #     To start, we have to install an emulator system that will allow us to run Windows alongside Mac OS X.
-
-  #     ![](virtual-box.jpg)
-
-  #     1. Go to the VirtualBox website and [download VirtualBox](https://www.virtualbox.org/wiki/Downloads).
-  #       *Be sure to get the VirtualBox binary for **“OS X Hosts amd64”**.*
-  #     2. Mount the disk image by double clicking.
-  #     3. Double-click the “VirtualBox.pkg” installer file.
-  #     4. Step through all the instructions—the defaults are good.
-  #     5. Eject the mounted disk from your computer.
-  #     6. Delete the downloaded file.
-
-  # - title: "Install Internet Explorer 11 & Edge"
-  #   before: |
-  #     Normally you’d have to download IE/11 from [Microsoft directly](http://modern.ie)—but I’ve gone ahead and done that because it’s faster over the school network.
-
-  #     1. Go to the Graphic Design Dropbox: `smb://dropbox.ottawa.ad.algonquincollege.com`
-  #       <br>*To connect: in Finder, go to `Go > Connect to Server…`*
-  #       <br>*The username and password is your Algonquin Wi-Fi password.*
-  #     2. Go to my folder
-  #       <br>`Faculty Folders > Thomas Bradley > Public`
-  #     3. Look for a folder called “MS Browsers”.
-  #     4. Drag the two files to your computer—**do not double click**.
-  #     5. Unzip them both.
-  #       *(If you get a `cpgz` file, try right clicking on the original `zip` and pressing `Open With > The Unarchiver`.)*
-  #     6. You’ll be presented with an orange “ova” box icon—double click it.
-  #     7. VirtualBox will request that you import—press “Import”.
-  #     8. Wait…
-  #     9. Delete the orange “ova” file and the zip afterwards.
-  #   notes:
-  #     - label: "Warning"
-  #       text: "Do not double click the browser installers from within the dropbox!"
-  #     - label: "Big files"
-  #       text: "The installers for IE/11 and Edge are **huge** because we’re actually installing two complete copies of Windows on our computer."
-
   - title: "Get HTML files to open properly"
     before: |
       This will make it so double clicking HTML files opens your browser instead of a code editor.
@@ -210,7 +160,7 @@ steps:
     before: |
       All of the coding exercises we do in this class will be using Markbot to automatically grade your work. So, we need to set that up.
 
-      1. Download [Markbot](https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg). (*or [Markbot for Windows](https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe)*)
+      1. Download [Markbot](https://assets.learntheweb.courses/markbot/Install%20Markbot.dmg). (*or [Markbot for Windows](https://assets.learntheweb.courses/markbot/Markbot%20Setup.exe)*)
       2. Mount the disk image by double clicking.
       3. Drag the application to your “Applications” folder.
       4. Eject the mounted disk from your computer.

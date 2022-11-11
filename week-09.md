@@ -33,15 +33,15 @@ group_activities:
 
 tasks:
   - title: "Ingenious Indentor"
-    url: "https://activities.learn-the-web.algonquindesign.ca/ingenious-indentor/"
+    url: "https://activities.learntheweb.courses/ingenious-indentor/"
     type: activity
   - title: "Flexing your muscles"
     url: flexing-your-muscles
     type: lesson
     submit: code
   - title: "Header icons"
-    url: "https://github.com/acgd-webdev-1/header-icons"
+    url: "https://github.com/ltw-webdev-1/header-icons"
   - title: "Columns of cards"
-    url: "https://github.com/acgd-webdev-1/columns-of-cards"
+    url: "https://github.com/ltw-webdev-1/columns-of-cards"
   - type: watch-videos
 ---

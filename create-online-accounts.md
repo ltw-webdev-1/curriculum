@@ -33,13 +33,13 @@ steps:
 
   - title: "Create your Progressinator account"
     before: |
-      For the Web Dev courses you’ll be watching your progress & getting your grades on a application named Progressinator—instead of in Algonquin’s BrightSpace.
+      For the Web Dev courses you’ll be watching your progress & getting your grades on a application named Progressinator.
 
       Progressinator connects to Markbot and the Learn the Web website to track your progress and for submitting assignments.
 
       ![](progress-github.jpg)
 
-      *Go to [Progressinator](https://progress.learn-the-web.algonquindesign.ca/) and sign in using your GitHub account.*
+      *Go to [Progressinator](https://progress.learntheweb.courses/) and sign in using your GitHub account.*
 
       You don’t need a unique username & password for signing into Progressinator—it uses your GitHub account as the authentication mechanism.
 

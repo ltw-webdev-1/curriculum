@@ -24,7 +24,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdev-1/family-ties/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdev-1/family-ties/archive/master.zip)
       3. Print “family-ties.pdf”
       4. Get out a pencil for marking up the paper
 

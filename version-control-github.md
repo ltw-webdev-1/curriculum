@@ -19,9 +19,9 @@ slides:
   - content: |
       ## Solutions
 
-      - *Dropbox* — for big files, Creative Suite
-      - *InVision* — for UX files, wireframes, prototypes
-      - *GitHub* — for code, text files, small images
+      - *Dropbox* — for big files, Creative Suite
+      - *InVision* — for UX files, wireframes, prototypes
+      - *GitHub* — for code, text files, small images
 
   - content: |
       ## Why GitHub?

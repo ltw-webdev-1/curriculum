@@ -23,16 +23,16 @@ group_activities:
 
 tasks:
   - title: "Hex Hacker"
-    url: "https://activities.learn-the-web.algonquindesign.ca/hex-hacker/"
+    url: "https://activities.learntheweb.courses/hex-hacker/"
     type: activity
   - type: blank
   - title: "Responsive image & caption"
-    url: "https://github.com/acgd-webdev-1/responsive-image-caption"
+    url: "https://github.com/ltw-webdev-1/responsive-image-caption"
   - title: "Confectionery website sketches"
-    url: "https://github.com/acgd-webdev-1/confectionery-website-sketches"
+    url: "https://github.com/ltw-webdev-1/confectionery-website-sketches"
     type: paper
   - title: "Confectionery website prototype"
-    url: "https://github.com/acgd-webdev-1/confectionery-website-prototype"
+    url: "https://github.com/ltw-webdev-1/confectionery-website-prototype"
     graded-as: confectionery-website
     due: "Midnight, last day of class"
     due_week: 15

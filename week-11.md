@@ -31,9 +31,9 @@ tasks:
     type: lesson
     submit: code
   - title: "Hide & show responsively"
-    url: "https://github.com/acgd-webdev-1/hide-show-responsively"
+    url: "https://github.com/ltw-webdev-1/hide-show-responsively"
   - title: "Responsive typography"
-    url: "https://github.com/acgd-webdev-1/responsive-typography"
+    url: "https://github.com/ltw-webdev-1/responsive-typography"
   - title: "Responsive icon cards"
-    url: "https://github.com/acgd-webdev-1/responsive-icon-cards"
+    url: "https://github.com/ltw-webdev-1/responsive-icon-cards"
 ---

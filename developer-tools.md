@@ -29,7 +29,7 @@ steps:
     before: |
       We’re going to load up a website, the using the developer tools we’re going to modify it to look a specific way.
 
-      ### [Go to this website.](https://acgd-webdev-1.github.io/dev-tools-modifier/)
+      ### [Go to this website.](https://ltw-webdev-1.github.io/dev-tools-modifier/)
 
       **Then, using the developer tools, modify it to look like the screenshots.** See the list of changes below.
 

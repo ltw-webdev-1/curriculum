@@ -9,9 +9,9 @@ hide_markbot: true
 
 extra_tutorials:
   - title: "Markbot download (MacOS)"
-    url: "https://assets.learn-the-web.algonquindesign.ca/markbot/Install%20Markbot.dmg"
+    url: "https://assets.learntheweb.courses/markbot/Install%20Markbot.dmg"
   - title: "Markbot download (Windows)"
-    url: "https://assets.learn-the-web.algonquindesign.ca/markbot/Markbot%20Setup.exe"
+    url: "https://assets.learntheweb.courses/markbot/Markbot%20Setup.exe"
   - title: "Markbot source code"
     url: "https://github.com/thomasjbradley/markbot"
 
@@ -22,7 +22,7 @@ steps:
 
       The repository contains a `.markbot.yml` hidden file used to check and submit your code—running it through a battery of tests like checking commits, checking naming conventions, validation, indentation and more.
 
-      ### [Go to this repository and press the “Fork” button ➔](https://github.com/acgd-webdev-1/using-markbot)
+      ### [Go to this repository and press the “Fork” button ➔](https://github.com/ltw-webdev-1/using-markbot)
 
       Forking makes a copy of the repository, in your account, that you can edit.
 
@@ -150,7 +150,7 @@ steps:
 
       ![](submit.jpg)
 
-      [**Go check Progressinator it out to make sure.**](https://progress.learn-the-web.algonquindesign.ca/)
+      [**Go check Progressinator it out to make sure.**](https://progress.learntheweb.courses/)
 
       ![](progressinator-grades.jpg)
 

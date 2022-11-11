@@ -32,11 +32,11 @@ slides:
 
       - `left`
       - `right`
-      - `none` — helpful later for responsive sites
+      - `none` — helpful later for responsive sites
     notes: |
       There are three options for `float`:
 
-      - `left` — moves the element to the left, wrapping text around the right
+      - `left` — moves the element to the left, wrapping text around the right
       - `right` — moves the element to the right, wrapping text around the left
       - `none` — disables the `float` and will be helpful later with responsive websites
 
@@ -143,10 +143,10 @@ slides:
       **You almost always have to clearfix the parent of floated elements.**
 
       1. `overflow: hidden`
-        — Can clearfix parents, but also crops
+        — Can clearfix parents, but also crops
 
       2. `.clearfix {…}`
-        — More reliable, more code
+        — More reliable, more code
 
   - content: |
       ## Videos & tutorials

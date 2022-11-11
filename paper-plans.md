@@ -15,7 +15,7 @@ slides:
 
       1. Form into pairs
       2. Get out pencils
-      3. [**Download & print these files**](https://github.com/acgd-webdev-1/paper-plans/archive/gh-pages.zip)
+      3. [**Download & print these files**](https://github.com/ltw-webdev-1/paper-plans/archive/gh-pages.zip)
 
   - content: |
       1. **Draw boxes**

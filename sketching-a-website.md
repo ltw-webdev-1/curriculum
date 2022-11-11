@@ -14,7 +14,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdev-1/sketching-a-website/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdev-1/sketching-a-website/archive/master.zip)
       3. Print “mockups.pdf”
       4. Get out a pencil for marking up the paper
 

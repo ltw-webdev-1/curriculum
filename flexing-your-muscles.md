@@ -23,7 +23,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-1/flexing-your-muscles"
+  url: "https://github.com/ltw-webdev-1/flexing-your-muscles"
 
 steps:
   - title: "Set up the project"
@@ -408,7 +408,7 @@ steps:
         fade: true
       - num: 40
         text: |
-          I don’t like how the social media icons are touching each other; if we add a `margin` to their left & right sides we can space them out a little bit.
+          I don’t like how the social media icons are touching each other; if we add a `margin` to their left & right sides we can space them out a little bit.
       - num: 41
         fade: true
       - num: 46
