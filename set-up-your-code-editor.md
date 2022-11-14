@@ -99,7 +99,7 @@ steps:
 
       You type a keyword then hit `Tab` and it will insert a bunch of code automatically.
 
-      #### [Copy my starter snippets.](https://raw.githubusercontent.com/ltw-learn-the-web/atom-code/master/snippets.cson)
+      #### [Copy my starter snippets.](https://raw.githubusercontent.com/learn-the-web/atom-code/master/snippets.cson)
 
       From Atom, go in the menu to:
 
