@@ -3,7 +3,8 @@ layout: lesson
 title: "Using Markbot"
 desc: "Use Markbot to check that your code follows all the requirements and submit it for grades when it passes."
 
-video: "Li9RIuDSMFo"
+playlist: web-dev-1
+video: using-markbot
 hide_show_for_marks: true
 hide_markbot: true
 

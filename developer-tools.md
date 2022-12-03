@@ -9,7 +9,8 @@ extra_tutorials:
   - title: "Browser developer tools"
     url: browser-developer-tools
 
-video: "09XV2psDAZ4"
+playlist: browser-developer-tools
+video: 1-developer-tools
 
 goal:
   before: |

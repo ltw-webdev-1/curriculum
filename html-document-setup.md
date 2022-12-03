@@ -3,7 +3,8 @@ layout: lesson
 title: "HTML document setup"
 desc: "Create a valid HTML document with all the right starter code."
 
-video: "DDMgQc6lX8o"
+playlist: web-dev-1
+video: html-document-setup
 
 markbot_submit: true
 hide_show_for_marks: true
