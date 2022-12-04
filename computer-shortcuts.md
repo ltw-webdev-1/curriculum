@@ -15,7 +15,7 @@ steps:
   - title: "Navigating applications"
     before: |
       Watch this demonstration video showing tips and shortcuts for navigating applications.
-    video: "https://videos.learntheweb.courses/playlists/computer-shortcuts/1-applications.mp4"
+    video: "https://video-assets.learntheweb.courses/computer-shortcuts/1-applications.mp4"
     shortcuts:
       - keys: '`⌘Q`'
         text: 'Will completely quit the application, not just close a window.'
@@ -42,7 +42,7 @@ steps:
   - title: "Navigating text"
     before: |
       Watch this demonstration video showing tips and shortcuts for navigating text.
-    video: "https://videos.learntheweb.courses/playlists/computer-shortcuts/2-text-movement.mp4"
+    video: "https://video-assets.learntheweb.courses/computer-shortcuts/2-text-movement.mp4"
     shortcuts:
       - keys: '`⌘C`'
         text: 'Will copy some selected text.'
@@ -80,7 +80,7 @@ steps:
   - title: "Manipulating files & folders"
     before: |
       Watch this demonstration video showing tips and shortcuts for manipulating files and folders.
-    video: "https://videos.learntheweb.courses/playlists/computer-shortcuts/3-files.mp4"
+    video: "https://video-assets.learntheweb.courses/computer-shortcuts/3-files.mp4"
     shortcuts:
       - keys: '`Return`'
         text: 'Will rename a file or folder.'
@@ -104,7 +104,7 @@ steps:
   - title: "Browser shortcuts"
     before: |
       Watch this demonstration video showing tips and shortcuts for navigating your web browser.
-    video: "https://videos.learntheweb.courses/playlists/computer-shortcuts/4-browser.mp4"
+    video: "https://video-assets.learntheweb.courses/computer-shortcuts/4-browser.mp4"
     shortcuts:
       - keys: '`⌘L`'
         text: 'Will jump to the URL bar.'

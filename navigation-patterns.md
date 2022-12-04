@@ -20,11 +20,11 @@ steps:
   - title: "Linking multiple pages"
     before: |
       Watch this video on linking multiple HTML pages together in a navigation.
-    video: "https://videos.learntheweb.courses/playlists/navigation/2-linking-pages.mp4"
+    video: "https://video-assets.learntheweb.courses/navigation/2-linking-pages.mp4"
   - title: "Highlighting the current page"
     before: |
       Watch this video on highlighting the current page in a navigation.
-    video: "https://videos.learntheweb.courses/playlists/navigation/3-highlight-current-page.mp4"
+    video: "https://video-assets.learntheweb.courses/navigation/3-highlight-current-page.mp4"
   - title: "Still confused about paths?"
     before: |
       If you’re still a little confused about paths, **check out the [Using paths & folders tutorial](/topics/paths-folders/).**
